@@ -1,0 +1,2070 @@
+{
+ "fetchedAt": "2026-11-08T05:47:39.180Z",
+ "clusters": [
+  {
+   "rank": 1,
+   "score": 111.19,
+   "sources": [
+    "BBC",
+    "Guardian",
+    "Al Jazeera",
+    "France 24",
+    "Japan Times",
+    "Sky News",
+    "NPR",
+    "South China Morning Post",
+    "New York Times",
+    "Washington Post"
+   ],
+   "count": 17,
+   "newestHoursAgo": 0.2,
+   "keywords": [
+    "netanyahu",
+    "eisenkot",
+    "form",
+    "israel",
+    "governmen",
+    "gadi"
+   ],
+   "entities": [
+    "israel",
+    "gadi eisenkot",
+    "eisenkot",
+    "netanyahu",
+    "benjamin netanyahu",
+    "prime minister benjamin netanyahu",
+    "israeli",
+    "saturday"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T22:19:59.000Z"
+    },
+    {
+     "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+     "summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+     "source": "New York Times",
+     "published": "2026-11-07T23:03:29.000Z"
+    },
+    {
+     "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+     "summary": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+     "source": "New York Times",
+     "published": "2026-11-07T21:52:04.000Z"
+    },
+    {
+     "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+     "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+     "source": "New York Times",
+     "published": "2026-11-07T08:02:08.000Z"
+    },
+    {
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention to task him with forming a government”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "source": "Guardian",
+     "published": "2026-11-07T19:49:39.000Z"
+    },
+    {
+     "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T23:45:45.000Z"
+    },
+    {
+     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+     "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T20:26:58.000Z"
+    },
+    {
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+     "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "source": "NPR",
+     "published": "2026-11-07T20:18:18.000Z"
+    },
+    {
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "source": "NPR",
+     "published": "2026-11-07T22:12:09.000Z"
+    },
+    {
+     "title": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government",
+     "summary": "The former military chief has 28 days to build a coalition, with a possible extension of up to 14 more. If he fails, Prime Minister Benjamin Netanyahu is likely to get his chance.",
+     "url": "https://www.washingtonpost.com/world/2026/11/07/israeli-president-taps-ex-general-eisenkot-opponent-netanyahu-form-government/",
+     "source": "Washington Post",
+     "published": "2026-11-07T22:18:09.000Z"
+    },
+    {
+     "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+     "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, by increasing the urgency of unseating Benjamin Netanyahu, who has associated himself so closely with Donald Trump’s Republicans. But as Israel took stock of the results, there was also a sense that the elections marked a longer-term shift in US politics that will make the job of any new Israeli leader far more difficul",
+     "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+     "source": "Guardian",
+     "published": "2026-11-07T06:00:04.000Z"
+    },
+    {
+     "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+     "summary": "",
+     "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+     "source": "France 24",
+     "published": "2026-11-07T19:38:24.000Z"
+    },
+    {
+     "title": "Israel coalition talks gain momentum",
+     "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serving Prime Minister Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
+     "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+     "source": "France 24",
+     "published": "2026-11-07T12:12:06.000Z"
+    },
+    {
+     "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
+     "summary": "Israel's president has asked Benjamin Netanyahu's strongest rival, Gadi Eisenkot, to try to form a government following a deadlocked election.",
+     "url": "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540",
+     "source": "Sky News",
+     "published": "2026-11-07T20:10:00.000Z"
+    },
+    {
+     "title": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
+     "summary": "Israel’s president announced on Saturday he would task Gadi Eisenkot with forming the next government following last week’s election, in what Netanyahu’s rivals see as a first step to remove the country’s longest-serving prime minister. The opposition bloc led by Eisenkot, a former military chief and political newcomer who has tried to appeal to secular and liberal Israelis, has opened the door to a once improbable alliance with ultra-Orthodox Jews, which could give it the numbers to form a...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T20:05:19.000Z"
+    },
+    {
+     "title": "Who is Eisenkot, the former Israeli general expected to replace Netanyahu?",
+     "summary": "Gadi Eisenkot, an unassuming former army chief of staff, has a pathway to Israel’s top job after President Isaac Herzog tapped him to form the next government. Should he succeed, he would take over as prime minister from Benjamin Netanyahu, Israel’s longest-serving leader whose inflammatory style has earned him as much admiration as it has outright hatred. Eisenkot, by contrast, is a reserved man, and some voters tired of Netanyahu see his rival’s relative lack of charisma as one of his greatest...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373679/who-eisenkot-former-israeli-general-expected-replace-netanyahu",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T05:33:31.000Z"
+    },
+    {
+     "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+     "summary": "Israel's president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a new government.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/israel-president-gadi-eisenkot-government/",
+     "source": "Japan Times",
+     "published": "2026-11-07T23:07:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "score": 96.66,
+   "sources": [
+    "BBC",
+    "France 24",
+    "MercoPress",
+    "Guardian",
+    "Euronews",
+    "Africanews",
+    "Japan Times",
+    "Al Jazeera",
+    "NPR",
+    "New York Times"
+   ],
+   "count": 12,
+   "newestHoursAgo": 3.9,
+   "keywords": [
+    "paraguay",
+    "pena",
+    "santiago",
+    "bank",
+    "president",
+    "prosecuto"
+   ],
+   "entities": [
+    "paraguay",
+    "santiago peña",
+    "friday",
+    "pedro alliana",
+    "president santiago peña",
+    "ueno bank",
+    "senate",
+    "congress"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Paraguay's former president charged after bank collapse",
+     "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T19:17:22.000Z"
+    },
+    {
+     "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+     "summary": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
+     "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+     "source": "New York Times",
+     "published": "2026-11-07T20:17:15.000Z"
+    },
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts. Santiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exponentially under his government and was suspended this week after irregularities . Continue reading.",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "Guardian",
+     "published": "2026-11-07T01:55:11.000Z"
+    },
+    {
+     "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+     "summary": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T20:08:47.000Z"
+    },
+    {
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "source": "NPR",
+     "published": "2026-11-07T17:14:36.000Z"
+    },
+    {
+     "title": "Banking scandal topples Paraguay leader",
+     "summary": "Paraguay’s ousted president Santiago Peña has been placed under house arrest after senators unanimously voted to remove him over a banking scandal. The collapse of Ueno Bank left nearly three million customers unable to access their savings. Peña denies any wrongdoing, while his successor, Pedro Alliana, has pledged to compensate those affected.",
+     "url": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
+     "source": "France 24",
+     "published": "2026-11-07T12:16:45.000Z"
+    },
+    {
+     "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+     "summary": "Ousted ex-President Santiago Peña was placed under house arrest on Friday after he was impeached over a major banking crisis.",
+     "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+     "source": "Euronews",
+     "published": "2026-11-07T10:36:19.000Z"
+    },
+    {
+     "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
+     "summary": "Former Paraguayan Vice President Pedro Alliana was sworn in as president Friday to serve out the term of his predecessor, Santiago Peña, who was impeached earlier the same day for misconduct in office.",
+     "url": "http://www.africanews.com/2026/11/07/paraguay-vp-alliana-sworn-is-as-president-after-predecessor-impeached/",
+     "source": "Africanews",
+     "published": "2026-11-07T10:29:18.000Z"
+    },
+    {
+     "title": "Paraguay’s prosecutors charge Santiago Peña and seek his pre-trial detention over the Ueno Bank collapse",
+     "summary": "Paraguayan prosecutors on Saturday charged former President Santiago Peña, removed from office by the Senate on Friday, and requested his pre-trial detention in the case over the collapse of Ueno Bank, which froze the savings of nearly three million customers. A judge must rule on the request. Prosecutors also charged former Central Bank president Carlos Carvallo, who is in custody.",
+     "url": "https://en.mercopress.com/2026/11/08/paraguay-s-prosecutors-charge-santiago-pena-and-seek-his-pre-trial-detention-over-the-ueno-bank-collapse?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "source": "MercoPress",
+     "published": "2026-11-08T01:53:00.000Z"
+    },
+    {
+     "title": "Paraguay’s Senate removes Santiago Peña, who is placed under arrest, and Pedro Alliana takes office",
+     "summary": "Paraguay’s Senate on Friday removed President Santiago Peña from office in an impeachment trial for “poor performance of his duties” over the collapse of Ueno Bank, and hours later prosecutors ordered him placed under house arrest over alleged economic crimes. Vice President Pedro Alliana was sworn in before Congress that night as the new head of state and will serve out the term until August 15, 2028.",
+     "url": "https://en.mercopress.com/2026/11/07/paraguay-s-senate-removes-santiago-pena-who-is-placed-under-arrest-and-pedro-alliana-takes-office?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "source": "MercoPress",
+     "published": "2026-11-07T02:17:00.000Z"
+    },
+    {
+     "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
+     "summary": "Pedro Alliana became president of Paraguay on Friday following the impeachment of his predecessor over a massive banking crisis.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+     "source": "Japan Times",
+     "published": "2026-11-07T01:23:00.000Z"
+    },
+    {
+     "title": "“They all must go”: Peña’s removal fails to calm anger on Paraguay’s streets",
+     "summary": "Thousands of Paraguayans celebrated in Asunción on Friday as the Senate removed President Santiago Peña from office, but the joy turned almost immediately to anger among those who wanted a complete change of government. “Out with them all,” hundreds of protesters chanted outside Congress as Vice President Pedro Alliana was sworn in as the new head of state.",
+     "url": "https://en.mercopress.com/2026/11/07/they-all-must-go-pena-s-removal-fails-to-calm-anger-on-paraguay-s-streets?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "source": "MercoPress",
+     "published": "2026-11-07T02:50:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "score": 86.37,
+   "sources": [
+    "Guardian",
+    "France 24",
+    "South China Morning Post",
+    "New York Times",
+    "Euronews",
+    "Africanews",
+    "Al Jazeera",
+    "Sky News",
+    "Japan Times"
+   ],
+   "count": 11,
+   "newestHoursAgo": 3.5,
+   "keywords": [
+    "krakow",
+    "shoot",
+    "poland",
+    "gunman",
+    "polish",
+    "kill"
+   ],
+   "entities": [
+    "krakow",
+    "poland",
+    "polish",
+    "polish prime minister donald tusk",
+    "main market square",
+    "kraków",
+    "saturday",
+    "footage"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+     "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+     "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+     "source": "New York Times",
+     "published": "2026-11-07T23:36:18.000Z"
+    },
+    {
+     "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+     "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland. America stands with Poland at this dark hour as Poland stands with her beloved citizens of Kraków. A terrible tragedy in Kraków’s Main Market Square. I share the grief of the families and loved ones of the victims of this unimaginable tragedy. The perpetrator was injured and detain",
+     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+     "source": "Guardian",
+     "published": "2026-11-07T22:32:41.000Z"
+    },
+    {
+     "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+     "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city’s main square at about 3pm on Saturday. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "source": "Guardian",
+     "published": "2026-11-07T21:19:01.000Z"
+    },
+    {
+     "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:50:28.000Z"
+    },
+    {
+     "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+     "summary": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when the attacker opened fire in the city's historic square. Prime Minister Donald Tusk has now declared the shooting an act of terrorism, saying Poland has never experienced anything quite like it. The 25-year-old suspect, described by authorities as holding radical far-right views, was shot by police.",
+     "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+     "source": "France 24",
+     "published": "2026-11-07T22:47:06.000Z"
+    },
+    {
+     "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
+     "summary": "",
+     "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+     "source": "France 24",
+     "published": "2026-11-07T15:26:49.000Z"
+    },
+    {
+     "title": "Gunman ‘fascinated by far-right’ kills 6 in Krakow, Poland",
+     "summary": "Six people were killed and at least 15 wounded on Saturday when a gunman opened fire in the landmark historic centre of Poland’s second city of Krakow, in the country’s deadliest shooting in decades. Three bodies – of two women and a man – were later found at the suspect’s home, Polish Prime Minister Donald Tusk said, adding there was “much to suggest that they are members of the [suspect’s] immediate family”. Tusk also announced Poland would hold two days of mourning over the shooting that he...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T16:33:05.000Z"
+    },
+    {
+     "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+     "summary": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
+     "url": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+     "source": "Euronews",
+     "published": "2026-11-07T22:10:08.000Z"
+    },
+    {
+     "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+     "summary": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
+     "url": "http://www.africanews.com/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow/",
+     "source": "Africanews",
+     "published": "2026-11-07T22:10:54.000Z"
+    },
+    {
+     "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
+     "summary": "A British national is among the six people killed in a mass shooting in Krakow, according to Polish police.",
+     "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
+     "source": "Sky News",
+     "published": "2026-11-08T02:19:00.000Z"
+    },
+    {
+     "title": "Poland in shock after six die in Krakow mass shooting",
+     "summary": "The scenes of carnage in one of Poland's main tourist attractions shocked a nation that has long viewed itself as safer than much of western Europe.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
+     "source": "Japan Times",
+     "published": "2026-11-07T23:23:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "score": 66.84,
+   "sources": [
+    "BBC",
+    "Sky News",
+    "France 24",
+    "Africanews",
+    "Euronews",
+    "Times of India",
+    "MercoPress"
+   ],
+   "count": 8,
+   "newestHoursAgo": 3,
+   "keywords": [
+    "pope",
+    "leo",
+    "uruguay",
+    "tour",
+    "america",
+    "latin"
+   ],
+   "entities": [
+    "uruguay",
+    "pope leo",
+    "pope leo xiv",
+    "latin america",
+    "pope",
+    "friday",
+    "south american"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Pope in 'pretty good health' as he starts Latin America tour",
+     "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+     "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T06:59:48.000Z"
+    },
+    {
+     "title": "Pope urges healthcare for all in Uruguay",
+     "summary": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Jack Pownall reports.",
+     "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
+     "source": "France 24",
+     "published": "2026-11-07T09:41:23.000Z"
+    },
+    {
+     "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
+     "summary": "Pope Leo XIV urged Catholics in Uruguay to build bridges of faith and fraternity on the second day of his 12-day tour of Uruguay, Argentina and Peru. The pope's three-country tour comes just three weeks after he underwent surgery for lung cancer.",
+     "url": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+     "source": "France 24",
+     "published": "2026-11-07T14:59:30.000Z"
+    },
+    {
+     "title": "Thousands turn out to greet Pope Leo as he begins Latin America tour",
+     "summary": "Thousands of people greeted Pope Leo as he arrived in Uruguay at the start of a 12-day tour of Latin America.",
+     "url": "https://news.sky.com/story/pope-leo-begins-latin-america-tour-less-than-a-month-after-lung-cancer-surgery-13609186",
+     "source": "Sky News",
+     "published": "2026-11-07T12:02:00.000Z"
+    },
+    {
+     "title": "Pope Leo begins South America tour in 'fairly good shape' after cancer treatment",
+     "summary": "Pope Leo XIV declared he was in \"fairly good shape\" after his cancer treatment, as he kicked off a three-nation South America tour on Friday.",
+     "url": "http://www.africanews.com/2026/11/07/pope-leo-begins-south-america-tour-in-fairly-good-shape-after-cancer-treatment/",
+     "source": "Africanews",
+     "published": "2026-11-07T13:43:14.000Z"
+    },
+    {
+     "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
+     "summary": "The Pontiff was welcomed by 40,000 people in Paysandú, Uruguay. Leo's sixth apostolic journey comes less than a month after lung adenocarcinoma surgery at Rome's Gemelli Hospital.",
+     "url": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
+     "source": "Euronews",
+     "published": "2026-11-07T18:15:36.000Z"
+    },
+    {
+     "title": "Falling birth rates, fading faith? Pope Leo's message to Uruguay's youth",
+     "summary": "Pope Leo XIV urged young people in Uruguay to marry and start families as he continued his South American tour. He emphasized the importance of lifelong commitment and addressing declining birth rates in the country. The Pope also called on Uruguayans to strengthen their faith and build community bonds during his visit. Additionally, he visited neighborhoods affected by violence and highlighted the church's supportive initiatives.",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/falling-birth-rates-fading-faith-pope-leos-message-to-uruguays-youth/articleshow/135649712.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T02:48:23.000Z"
+    },
+    {
+     "title": "Leo XIV begins his tour in Uruguay, praising Mercosur and peace and questioning abortion and euthanasia",
+     "summary": "Pope Leo XIV arrived in Montevideo on Friday, the first stop on his South American tour, and in a speech to Uruguayan authorities praised Mercosur, peaceful coexistence and care for the environment, but also defended life “even that which is still growing in the mother’s womb” and questioned euthanasia, in a country where both are legal and which is considered the most secular in the region.",
+     "url": "https://en.mercopress.com/2026/11/07/leo-xiv-begins-his-tour-in-uruguay-praising-mercosur-and-peace-and-questioning-abortion-and-euthanasia?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "source": "MercoPress",
+     "published": "2026-11-07T02:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "score": 62.85,
+   "sources": [
+    "BBC",
+    "Euronews",
+    "Africanews",
+    "Guardian",
+    "DW",
+    "France 24",
+    "Al Jazeera"
+   ],
+   "count": 7,
+   "newestHoursAgo": 8,
+   "keywords": [
+    "ukraine",
+    "kyiv",
+    "russian",
+    "strik",
+    "damag",
+    "infrastru"
+   ],
+   "entities": [
+    "ukraine",
+    "russian",
+    "kyiv",
+    "ukrainian",
+    "russia",
+    "moscow",
+    "abu dhabi",
+    "firefighters"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+     "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T12:49:36.000Z"
+    },
+    {
+     "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+     "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River. Ukraine’s president said Moscow’s preparations for peace talks next week involved pummelling a city of millions with ballistic missiles. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+     "source": "Guardian",
+     "published": "2026-11-07T13:03:03.000Z"
+    },
+    {
+     "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+     "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+     "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-07T09:21:00.000Z"
+    },
+    {
+     "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+     "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T20:10:38.000Z"
+    },
+    {
+     "title": "Russia launches massive strike on Kyiv",
+     "summary": "As Ukraine prepares for another round of talks with Russia and the United States next week, Moscow has launched a massive overnight strike. At least five people were injured in Kyiv, where Russian missiles damaged residential and commercial buildings, forced the closure of a bridge over the Dnipro River and caused fresh power and water outages. Ophélie Jacobson reports.",
+     "url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
+     "source": "France 24",
+     "published": "2026-11-07T12:15:21.000Z"
+    },
+    {
+     "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+     "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+     "url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+     "source": "Euronews",
+     "published": "2026-11-07T21:45:27.000Z"
+    },
+    {
+     "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+     "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+     "url": "http://www.africanews.com/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure/",
+     "source": "Africanews",
+     "published": "2026-11-07T21:45:36.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "score": 58.59,
+   "sources": [
+    "Al Jazeera",
+    "Sky News",
+    "Times of India",
+    "France 24",
+    "South China Morning Post",
+    "Japan Times"
+   ],
+   "count": 6,
+   "newestHoursAgo": 1.3,
+   "keywords": [
+    "white",
+    "pres",
+    "secretary",
+    "ufc",
+    "dana",
+    "trump"
+   ],
+   "entities": [
+    "ufc",
+    "white house",
+    "trump",
+    "dana white",
+    "donald trump",
+    "president donald trump",
+    "saturday"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Trump asks UFC chief Dana White to be White House press secretary",
+     "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T03:12:44.000Z"
+    },
+    {
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand of politics to White's enormously successful Ultimate Fighting Championship.",
+     "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "source": "France 24",
+     "published": "2026-11-07T20:45:45.000Z"
+    },
+    {
+     "title": "Trump asks UFC boss Dana White to be his new press secretary",
+     "summary": "Donald Trump has asked mixed martial arts promoter Dana White to be his new White House press secretary.",
+     "url": "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
+     "source": "Sky News",
+     "published": "2026-11-08T04:27:00.000Z"
+    },
+    {
+     "title": "Trump asks UFC chief Dana White to be his new press secretary: ‘please take the job’",
+     "summary": "Facing an incoming Democratic Congress, US President Donald Trump struck a combative tone on Saturday, offering friend and “violent fighter” Dana White the White House press secretary job and ordering the Justice Department to investigate his opponents. Democrats handed Trump’s Republicans a blowout defeat in midterm elections this week and will take control of both chambers of Congress in January. They are promising robust investigations of Trump and his administration. Trump, however, showed...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T19:44:09.000Z"
+    },
+    {
+     "title": "Who is UFC boss Dana White who gets surprising offer from Donald Trump to be White House press secretary?",
+     "summary": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms",
+     "source": "Times of India",
+     "published": "2026-11-07T19:33:59.000Z"
+    },
+    {
+     "title": "Trump taps UFC boss as press secretary and urges criminal probes into Democrats",
+     "summary": "The posts echoed comments Trump made after a midterm defeat in 2018, when he said his White House would assume \"a war-like posture.\"",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/trump-ufc-press-secretary/",
+     "source": "Japan Times",
+     "published": "2026-11-07T23:17:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "score": 54.12,
+   "sources": [
+    "BBC",
+    "France 24",
+    "Sky News",
+    "Times of India",
+    "New York Times"
+   ],
+   "count": 6,
+   "newestHoursAgo": 1.7,
+   "keywords": [
+    "yemen",
+    "houthi",
+    "kill",
+    "saudi",
+    "least",
+    "strike"
+   ],
+   "entities": [
+    "houthis",
+    "yemen",
+    "saudi",
+    "houthi",
+    "sanaa"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Houthis say at least 33 killed in Saudi air strike",
+     "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-08T04:03:12.000Z"
+    },
+    {
+     "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+     "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+     "source": "New York Times",
+     "published": "2026-11-07T16:39:31.000Z"
+    },
+    {
+     "title": "Yemen: 30 dead in strikes on Taiz market",
+     "summary": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks and is home to around half of the more than 300,000 people displaced by the latest fighting. Caroline Baum reports.",
+     "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+     "source": "France 24",
+     "published": "2026-11-07T09:37:16.000Z"
+    },
+    {
+     "title": "At least 27 people killed in strike near Yemen's capital, Houthi official says",
+     "summary": "At least 27 people have been killed and 36 others wounded, mostly women and children, after airstrikes hit homes in a village near Yemen's capital, Sanaa, a spokesman for Yemen's Houthi-run health ministry said.",
+     "url": "https://news.sky.com/story/at-least-27-people-killed-in-strike-near-yemens-capital-houthi-official-says-13609232",
+     "source": "Sky News",
+     "published": "2026-11-07T14:19:00.000Z"
+    },
+    {
+     "title": "Dozens Killed In Yemen Strikes: Saudi raids reportedly hit homes; UN truce collapse feared",
+     "summary": "On Saturday, a series of Saudi airstrikes struck a village near Sanaa, resulting in a tragic loss of life and numerous injuries. This marks one of the worst incidents since the resumption of hostilities between the Saudi coalition and the Houthis. Among the casualties were many women and children, with some victims still trapped under rubble. This new wave of violence has effectively shattered a prior ceasefire in the area.",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T02:18:42.000Z"
+    },
+    {
+     "title": "Yemen urges Lebanon to act against Hezbollah's military support to Houthis",
+     "summary": "",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/yemen-urges-lebanon-to-act-against-hezbollahs-military-support-to-houthis/articleshow/135649405.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T01:25:19.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "score": 39.81,
+   "sources": [
+    "Guardian",
+    "Washington Post",
+    "New York Times",
+    "Japan Times"
+   ],
+   "count": 4,
+   "newestHoursAgo": 4.8,
+   "keywords": [
+    "zealand",
+    "too",
+    "close",
+    "call",
+    "result",
+    "prelimina"
+   ],
+   "entities": [
+    "new zealand",
+    "chris hipkins"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+     "summary": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
+     "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+     "source": "New York Times",
+     "published": "2026-11-07T13:13:40.000Z"
+    },
+    {
+     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+     "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by the prime minister, Christopher Luxon, managed to secure enough seats to govern alongside its traditional coalition partners, the libertarian Act and populist New Zealand First parties. Continue readi",
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "source": "Guardian",
+     "published": "2026-11-08T01:00:48.000Z"
+    },
+    {
+     "title": "New Zealand’s election results are too close to call",
+     "summary": "Both Christopher Luxon of the National Party and Chris Hipkins of the opposition Labour Party admitted it was not yet clear who New Zealand's next leader would be.",
+     "url": "https://www.washingtonpost.com/world/2026/11/07/new-zealands-election-results-are-too-close-call/",
+     "source": "Washington Post",
+     "published": "2026-11-07T14:30:00.000Z"
+    },
+    {
+     "title": "New Zealand preliminary vote leaves it unclear who will govern",
+     "summary": "Neither current Prime Minister Christopher Luxon nor opposition leader Chris Hipkins claimed victory in their speeches following the election.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/new-zealand-vote-unclear/",
+     "source": "Japan Times",
+     "published": "2026-11-07T23:10:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "score": 36.99,
+   "sources": [
+    "Guardian",
+    "South China Morning Post",
+    "Euronews",
+    "Al Jazeera"
+   ],
+   "count": 4,
+   "newestHoursAgo": 5.8,
+   "keywords": [
+    "iran",
+    "iranian",
+    "strik",
+    "minor",
+    "war",
+    "carri"
+   ],
+   "entities": [
+    "iran",
+    "iranian",
+    "trump",
+    "qeshm island",
+    "friday",
+    "suza",
+    "hormuz"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+     "summary": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated Donald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, describing the action as “minor.” Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in the strait of Hormuz, the crucial waterway for oil shipments that has been disrupted since the beginning of the US war on Iran in February. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+     "source": "Guardian",
+     "published": "2026-11-07T03:07:01.000Z"
+    },
+    {
+     "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+     "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:00:56.000Z"
+    },
+    {
+     "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
+     "summary": "US President Donald Trump said the American military on Friday carried out new limited strikes on Iran, targeting an Iranian air defence system. Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in a crucial waterway for oil shipments. Trump in an exchange with reporters described the military action as “minor”. “They knocked out – they built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five,” he told...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T04:25:50.000Z"
+    },
+    {
+     "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+     "summary": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war.",
+     "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+     "source": "Euronews",
+     "published": "2026-11-07T11:35:53.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "score": 28.58,
+   "sources": [
+    "BBC",
+    "Sky News",
+    "South China Morning Post",
+    "Euronews"
+   ],
+   "count": 4,
+   "newestHoursAgo": 13.9,
+   "keywords": [
+    "zealand",
+    "general",
+    "winner",
+    "count",
+    "vote",
+    "election"
+   ],
+   "entities": [
+    "new zealand"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "No clear winner after tight New Zealand general election",
+     "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T15:56:28.000Z"
+    },
+    {
+     "title": "No clear winner after New Zealand general election",
+     "summary": "The New Zealand election count has ended without a definitive result as the two main parties remain almost deadlocked in the popular vote.",
+     "url": "https://news.sky.com/story/new-zealand-election-too-close-to-call-with-conservative-coalition-on-brink-of-slim-majority-13609199",
+     "source": "Sky News",
+     "published": "2026-11-07T13:00:00.000Z"
+    },
+    {
+     "title": "New Zealand election first count ends with 2 main parties nearly deadlocked",
+     "summary": "New Zealand’s ruling centre-right National Party and main opposition Labour were nearly deadlocked in the popular vote after initial counting in the nationwide general election on Saturday. Results from the Electoral Commission show that with more than 95 per cent of the ballots counted, both parties were polling just short of 30 per cent of the popular vote, with just a few thousand votes separating the two. A projection from New Zealand’s Electoral Commission ‌showed the current three-party...",
+     "url": "https://www.scmp.com/news/asia/australasia/article/3373657/new-zealand-election-first-count-ends-2-main-parties-nearly-deadlocked",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T13:12:33.000Z"
+    },
+    {
+     "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
+     "summary": "In New Zealand, people cast a party vote as well as an electorate vote in a general election. With their electorate vote, New Zealanders vote for a candidate to represent their local electorate in parliament. They also vote for the party they want to be in government.",
+     "url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+     "source": "Euronews",
+     "published": "2026-11-07T08:33:53.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "score": 27.47,
+   "sources": [
+    "Africanews",
+    "Japan Times",
+    "Times of India"
+   ],
+   "count": 3,
+   "newestHoursAgo": 0.6,
+   "keywords": [
+    "rain",
+    "shelter",
+    "gaza",
+    "heavy",
+    "ten",
+    "without"
+   ],
+   "entities": [
+    "heavy",
+    "gaza"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Heavy rains leave tens of thousands without shelter in Gaza",
+     "summary": "Tens of thousands of displaced families in the Gaza Strip spent a sleepless night on Saturday, as heavy rain flooded their fragile tents, and soaked their mattresses and belongings.",
+     "url": "http://www.africanews.com/2026/11/07/heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza/",
+     "source": "Africanews",
+     "published": "2026-11-07T14:53:34.000Z"
+    },
+    {
+     "title": "Heavy rain leaves tens of thousands without shelter in Gaza: local authorities",
+     "summary": "Hundreds of displaced Palestinian families have been seen fleeing camps after they flooded.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/heavy-rain-shelter-gaza/",
+     "source": "Japan Times",
+     "published": "2026-11-07T23:28:00.000Z"
+    },
+    {
+     "title": "Tents Flooded In Gaza Rains: Torrential downpour inundates 70,000 shelters; fuel shortages stall aid",
+     "summary": "The recent heavy rains have led to catastrophic flooding in temporary shelters for displaced Palestinians across Gaza, impacting countless families. Reports from local authorities indicate that over 70,000 tents were submerged in a mere few hours. The civil defense teams are hampered by fuel shortages and damaged equipment, leaving many residents without proper shelter and enduring severe conditions as the humanitarian crisis deepens amidst ongoing turmoil.",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/70000-tents-flooded-in-12-hours-as-heavy-rain-batters-displaced-palestinians-in-gaza/articleshow/135651825.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T05:08:44.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "score": 27.13,
+   "sources": [
+    "France 24",
+    "South China Morning Post",
+    "New York Times"
+   ],
+   "count": 4,
+   "newestHoursAgo": 8.8,
+   "keywords": [
+    "protest",
+    "france",
+    "demonstra",
+    "consecuti",
+    "fourth",
+    "unfurl"
+   ],
+   "entities": [
+    "france",
+    "saturday",
+    "french",
+    "paris"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Why Are There Protests in France?",
+     "summary": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
+     "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+     "source": "New York Times",
+     "published": "2026-11-07T10:13:41.000Z"
+    },
+    {
+     "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+     "summary": "The crowds were smaller on Saturday than in previous weeks’ demonstrations, but the animating sense of grievance remained.",
+     "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+     "source": "New York Times",
+     "published": "2026-11-07T21:00:19.000Z"
+    },
+    {
+     "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+     "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstrations follow weeks of youth-led unrest and nationwide strikes that drew hundreds of thousands of workers protesting over the rising cost of living. Paul Smith, Associate Professor in French history and politics at the University of Nottingham, and James André, France 24 reporter at Place de la République, share further insights.",
+     "url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+     "source": "France 24",
+     "published": "2026-11-07T13:29:28.000Z"
+    },
+    {
+     "title": "Clashes in Paris after new French protests",
+     "summary": "Thousands of people protested across France on Saturday in a new show of anger against the government with clashes erupting between police and some protesters in Paris despite a lower turnout than in previous weeks. The protests marked the fourth consecutive weekend of demonstrations against the rising cost of living which have erupted as the country heads to presidential elections in five months’ time where the far-right sees its best chance yet to win power. A total of 146,000 people took part...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373669/clashes-paris-after-new-french-protests",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T18:05:42.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "score": 24.52,
+   "sources": [
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 0.6,
+   "keywords": [
+    "haitian",
+    "gang",
+    "cheer",
+    "salvador",
+    "bukele",
+    "nightclub"
+   ],
+   "entities": [
+    "haitian"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+     "summary": "Club International was once a popular music venue in Port-au-Prince. Now it’s a makeshift shelter for hundreds of Haitian families fleeing gang violence, and the club’s owner wants them out.",
+     "url": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
+     "source": "New York Times",
+     "published": "2026-11-07T19:19:20.000Z"
+    },
+    {
+     "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+     "summary": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T05:09:39.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "score": 22.47,
+   "sources": [
+    "New York Times",
+    "South China Morning Post"
+   ],
+   "count": 2,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "diwali",
+    "pollut",
+    "delhi",
+    "air",
+    "india",
+    "firework"
+   ],
+   "entities": [
+    "air"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+     "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+     "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+     "source": "New York Times",
+     "published": "2026-11-08T05:01:18.000Z"
+    },
+    {
+     "title": "Air in India’s capital ranked world’s most polluted on eve of Diwali",
+     "summary": "New Delhi ranked as the world’s ⁠most polluted major ⁠city on Saturday ⁠morning, according to Swiss group IQAir, as the Indian capital faced severe pollution forecasts a day before Diwali, the Hindu festival of lights. India has ordered schools in and around Delhi to offer online classes and encouraged people to work from home ahead of Diwali on Sunday, which is usually marked by the widespread use of firecrackers ⁠that further worsen the air quality. IQAir ranked Delhi ‌first for air pollution...",
+     "url": "https://www.scmp.com/news/asia/south-asia/article/3373637/air-indias-capital-ranked-worlds-most-polluted-eve-diwali",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T06:01:55.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "score": 20.31,
+   "sources": [
+    "Al Jazeera",
+    "Times of India"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.1,
+   "keywords": [
+    "rout",
+    "iran",
+    "disrupt",
+    "force",
+    "land-bas",
+    "supply"
+   ],
+   "entities": [
+    "iran"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US launches task force to disrupt Iran’s land-based supply routes",
+     "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T02:34:04.000Z"
+    },
+    {
+     "title": "'Enemy will no longer dare attack': Iran's navy issues warning to US forces",
+     "summary": "Iran’s Northern Fleet Commander Rear Admiral Mohsen Razzaqi has warned the US against any aggression, saying the country’s armed forces are at their highest level of coordination and naval units remain ready round the clock. His remarks come as Washington establishes Task Force Iron Gate to disrupt Iran’s alleged weapons supply routes across land borders and the Caspian Sea.",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/enemy-will-no-longer-dare-attack-irans-navy-issues-warning-to-us-forces/articleshow/135651481.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T04:40:47.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "score": 20.11,
+   "sources": [
+    "Al Jazeera",
+    "Japan Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.4,
+   "keywords": [
+    "quake",
+    "central",
+    "magnitude",
+    "injur",
+    "japan",
+    "shizuoka"
+   ],
+   "entities": [],
+   "soft": false,
+   "items": [
+    {
+     "title": "Earthquake hits central Japan, injuring more than 20 people",
+     "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T04:20:57.000Z"
+    },
+    {
+     "title": "Magnitude 5.7 quake injures dozens in central Japan",
+     "summary": "The quake struck at 1:04 am in Shizuoka Prefecture but no tsunami warning was issued.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/earthquake-aichi-sunday/",
+     "source": "Japan Times",
+     "published": "2026-11-08T03:35:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "score": 19.8,
+   "sources": [
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 7.7,
+   "keywords": [
+    "cyberatta",
+    "europe",
+    "bomb",
+    "hybrid",
+    "behind",
+    "supermark"
+   ],
+   "entities": [
+    "europe"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+     "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+     "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+     "source": "New York Times",
+     "published": "2026-11-07T22:05:57.000Z"
+    },
+    {
+     "title": "Who is behind Europe’s suspected hybrid attacks?",
+     "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T20:48:58.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "score": 17.93,
+   "sources": [
+    "South China Morning Post",
+    "Japan Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.9,
+   "keywords": [
+    "indonesia",
+    "cook",
+    "data",
+    "shower",
+    "aim",
+    "center"
+   ],
+   "entities": [
+    "indonesians"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Indonesians furious as Batam data centres drain taps: ‘we cannot cook without water’",
+     "summary": "Cooking and bathing became difficult when taps ran dry in Batam, an Indonesian island where residents are protesting against data centres springing up to power the global artificial intelligence boom. The area had suffered a “long drought” caused by low rainfall, the local water utility operator said, as a strong El Nino cycle exacerbates dry weather. But, as in other countries, anger has been directed at the data centres, warehouse-like facilities that keep apps and AI tools running, with water...",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T03:51:09.000Z"
+    },
+    {
+     "title": "Can’t cook or shower: Indonesians take aim at data centers",
+     "summary": "Frustration is bubbling over in Indonesia and Malaysia — especially in regions bordering Singapore that are seen as a prime location for new tech facilities.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/indonesia-data-centers/",
+     "source": "Japan Times",
+     "published": "2026-11-08T02:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "score": 17.72,
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "count": 2,
+   "newestHoursAgo": 10.1,
+   "keywords": [
+    "democrat",
+    "doj",
+    "threaten",
+    "trump",
+    "victory",
+    "congres"
+   ],
+   "entities": [
+    "democrats",
+    "congress"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+     "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:42:46.000Z"
+    },
+    {
+     "title": "After victory in the midterms, what next for US Democrats?",
+     "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
+     "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-07T14:15:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "score": 17.2,
+   "sources": [
+    "Times of India",
+    "Japan Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.5,
+   "keywords": [
+    "employee",
+    "espionage",
+    "japanese",
+    "release",
+    "pharma",
+    "astella"
+   ],
+   "entities": [
+    "china",
+    "japanese"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "China to release Japanese pharma employee jailed for espionage after 3.5 years",
+     "summary": "",
+     "url": "https://timesofindia.indiatimes.com/world/china/china-to-release-japanese-pharma-employee-jailed-for-espionage-after-3-5-years/articleshow/135651027.cms",
+     "source": "Times of India",
+     "published": "2026-11-08T04:15:41.000Z"
+    },
+    {
+     "title": "Astellas employee to be released from China prison in December",
+     "summary": "Beijing had accused the Japanese citizen of espionage by providing China-related information to an intelligence agency but had not provided further details.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/astellas-employee-release-december/",
+     "source": "Japan Times",
+     "published": "2026-11-08T03:01:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "score": 16.29,
+   "sources": [
+    "BBC",
+    "Euronews"
+   ],
+   "count": 2,
+   "newestHoursAgo": 11.6,
+   "keywords": [
+    "nuclear",
+    "reward",
+    "informati",
+    "iran",
+    "offer",
+    "relocatio"
+   ],
+   "entities": [
+    "iran"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US offers $20m reward for information about Iran's nuclear programme",
+     "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+     "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T18:14:38.000Z"
+    },
+    {
+     "title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+     "summary": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
+     "url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
+     "source": "Euronews",
+     "published": "2026-11-07T11:31:19.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "score": 16.15,
+   "sources": [
+    "Al Jazeera",
+    "South China Morning Post"
+   ],
+   "count": 2,
+   "newestHoursAgo": 10.4,
+   "keywords": [
+    "najib",
+    "k",
+    "defy",
+    "arrest",
+    "warn",
+    "house"
+   ],
+   "entities": [
+    "najib razak"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+     "summary": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:24:21.000Z"
+    },
+    {
+     "title": "Malaysia’s king warns against challenging Najib’s house arrest",
+     "summary": "Malaysia’s king warned on Saturday that any attempt to ⁠challenge his order ⁠letting former prime minister Najib Razak go ⁠from jail to house arrest could amount to defying his decree, a day after authorities delayed Najib’s transfer. Najib has been in jail since 2022 after being found guilty of corruption and money laundering in a case linked to a multibillion-dollar ‌scandal at state fund 1Malaysia Development Berhad. He has consistently denied wrongdoing. He was due to be transferred home on...",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T07:32:16.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "score": 15.93,
+   "sources": [
+    "Guardian",
+    "France 24"
+   ],
+   "count": 3,
+   "newestHoursAgo": 14.5,
+   "keywords": [
+    "miller",
+    "stephen",
+    "staff",
+    "immigrati",
+    "white",
+    "agenda"
+   ],
+   "entities": [
+    "stephen miller",
+    "trump",
+    "white house",
+    "donald trump",
+    "continue",
+    "congress"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+     "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, has lavished praise on the president after his appointment as White House chief of staff. In his first public remarks since the move was announced, Miller – who begins the role on Monday – pledged “total devotion” to Trump amid concern the administration is now poised to double down on its far-right, nativist immigration agenda. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+     "source": "Guardian",
+     "published": "2026-11-07T15:15:11.000Z"
+    },
+    {
+     "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+     "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered the kind of drubbing at the polls that Trump did this week might have felt at least a sliver of humility – and perhaps even an obligation to work with the new opposition in Congress. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+     "source": "Guardian",
+     "published": "2026-11-07T13:00:12.000Z"
+    },
+    {
+     "title": "Stephen Miller named White House Chief of Staff",
+     "summary": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his administration’s immigration crackdown. Wiles had been seen by some as a stabilising force in the White House, but with Democrats now controlling both chambers of Congress, Trump is reportedly seeking a more aggressive approach to pushing his agenda. Caroline Baum reports.",
+     "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+     "source": "France 24",
+     "published": "2026-11-07T12:14:16.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "score": 15.77,
+   "sources": [
+    "BBC",
+    "Times of India"
+   ],
+   "count": 2,
+   "newestHoursAgo": 11.2,
+   "keywords": [
+    "ice",
+    "texa",
+    "mayor",
+    "houston",
+    "heal",
+    "co-operat"
+   ],
+   "entities": [
+    "texas",
+    "houston",
+    "ice"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Texas mayor instructs police to limit co-operation with ICE",
+     "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+     "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T08:15:55.000Z"
+    },
+    {
+     "title": "Houston mayor says 'elections matter', won't help ICE as Democrats sweep Texas: 'I do this to begin a healing process'",
+     "summary": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/houston-mayor-says-elections-matter-wont-help-ice-as-democrats-sweep-texas-i-do-this-to-begin-a-healing-process/articleshow/135644019.cms",
+     "source": "Times of India",
+     "published": "2026-11-07T18:35:11.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "score": 12.7,
+   "sources": [
+    "New York Times"
+   ],
+   "count": 1,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "again",
+    "never",
+    "same",
+    "africa",
+    "politic",
+    "south"
+   ],
+   "entities": [
+    "south africa",
+    "politics may never",
+    "same again the african national congress"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "South Africa’s Politics May Never Be the Same Again",
+     "summary": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
+     "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+     "source": "New York Times",
+     "published": "2026-11-08T05:01:23.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "score": 12.69,
+   "sources": [
+    "New York Times"
+   ],
+   "count": 1,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "flavor",
+    "samoan",
+    "chef",
+    "fine-din",
+    "scene",
+    "br"
+   ],
+   "entities": [
+    "samoan chef brings flavors",
+    "home",
+    "new zealand",
+    "fine-dining scene food",
+    "henry onesemo",
+    "south pacific",
+    "now",
+    "michelin-starred"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+     "summary": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
+     "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+     "source": "New York Times",
+     "published": "2026-11-08T05:01:15.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "score": 12.69,
+   "sources": [
+    "New York Times"
+   ],
+   "count": 1,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "small-tow",
+    "colossu",
+    "end",
+    "road",
+    "roadside",
+    "communiti"
+   ],
+   "entities": [
+    "the small-town colossus faces",
+    "end",
+    "road giant"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "The Small-Town Colossus Faces the End of the Road",
+     "summary": "Giant roadside attractions have helped put hundreds of communities on the map. What happens when their novelty fades and costs pile up?",
+     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+     "source": "New York Times",
+     "published": "2026-11-08T05:01:10.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "score": 11.98,
+   "sources": [
+    "BBC",
+    "Sky News"
+   ],
+   "count": 2,
+   "newestHoursAgo": 22.3,
+   "keywords": [
+    "abuse",
+    "father",
+    "meghan",
+    "child",
+    "material",
+    "possess"
+   ],
+   "entities": [
+    "meghan"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+     "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+     "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-07T07:27:44.000Z"
+    },
+    {
+     "title": "Meghan's father in court charged with possessing child abuse material",
+     "summary": "The Duchess of Sussex's father has appeared in court after being arrested and charged with allegedly possessing child sexual abuse images.",
+     "url": "https://news.sky.com/story/meghans-father-thomas-markle-appears-in-court-charged-with-possessing-child-abuse-material-13609134",
+     "source": "Sky News",
+     "published": "2026-11-07T05:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "score": 11.71,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "count": 1,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "plane",
+    "emergency",
+    "busy",
+    "florida",
+    "truck",
+    "land"
+   ],
+   "entities": [
+    "plane",
+    "florida"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Plane clips truck during emergency landing on busy Florida road",
+     "summary": "A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T04:59:02.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "score": 11.69,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "count": 1,
+   "newestHoursAgo": 0.9,
+   "keywords": [
+    "colombian",
+    "soldier",
+    "drone",
+    "army",
+    "base",
+    "wound"
+   ],
+   "entities": [
+    "drone",
+    "colombian",
+    "colombian president",
+    "espriella",
+    "santa rosa",
+    "sur"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+     "summary": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T04:56:37.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "score": 11.5,
+   "sources": [
+    "BBC"
+   ],
+   "count": 1,
+   "newestHoursAgo": 4,
+   "keywords": [
+    "far",
+    "gun",
+    "know",
+    "random",
+    "krakow",
+    "attack"
+   ],
+   "entities": [
+    "krakow"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "What we know so far after Krakow gun attack",
+     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-08T01:47:41.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "score": 11.21,
+   "sources": [
+    "France 24"
+   ],
+   "count": 4,
+   "newestHoursAgo": 9.8,
+   "keywords": [
+    "melenchon",
+    "far-left",
+    "french",
+    "jean-luc",
+    "everyth",
+    "candidate"
+   ],
+   "entities": [
+    "mélenchon",
+    "jean-luc mélenchon",
+    "french",
+    "france",
+    "saturday",
+    "paris",
+    "veteran",
+    "polls"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+     "summary": "“We are facing a crisis of human civilisation. And we are going to win.” A defiant Jean-Luc Mélenchon was in fighting mood today as he presented his presidential manifesto at Le Bourget, north of Paris. It is his fourth bid for the French presidency, and he has chosen a venue steeped in left-wing campaign history: the site of François Hollande's famous 2012 rally.",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+     "source": "France 24",
+     "published": "2026-11-07T19:58:43.000Z"
+    },
+    {
+     "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
+     "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
+     "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
+     "source": "France 24",
+     "published": "2026-11-07T17:30:04.000Z"
+    },
+    {
+     "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
+     "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
+     "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+     "source": "France 24",
+     "published": "2026-11-07T14:44:24.000Z"
+    },
+    {
+     "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+     "summary": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
+     "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+     "source": "France 24",
+     "published": "2026-11-07T10:44:34.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "score": 11.02,
+   "sources": [
+    "Guardian"
+   ],
+   "count": 1,
+   "newestHoursAgo": 2.8,
+   "keywords": [
+    "uyghur",
+    "deportati",
+    "thailand",
+    "men",
+    "slav",
+    "bangkok"
+   ],
+   "entities": [
+    "uyghurs",
+    "thailand",
+    "china activists",
+    "bangkok",
+    "beijing",
+    "china",
+    "thai",
+    "uyghur"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+     "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority The deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghur men to China despite pleas from the men themselves and the UN. The US and Canada had reportedly offered to resettle them , but Bangkok appeared to want to avoid upsetting Beijing. The UN has said ",
+     "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+     "source": "Guardian",
+     "published": "2026-11-08T03:00:28.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "score": 10.88,
+   "sources": [
+    "Guardian"
+   ],
+   "count": 1,
+   "newestHoursAgo": 3.2,
+   "keywords": [
+    "snow",
+    "cold",
+    "south-eas",
+    "mount",
+    "blast",
+    "springtim"
+   ],
+   "entities": [
+    "cold",
+    "australia",
+    "thredbo",
+    "perisher",
+    "mount hotham",
+    "kunanyi",
+    "mount wellington",
+    "tasmania get"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+     "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow has fallen across parts of NSW, Victoria and Tasmania as an unseasonal cold blast whips through Australia’s south-east. Thredbo, Perisher and Mount Hotham all recorded falls, while snow also fell on Kunanyi/Mount Wellington in Hobart. Continue reading...",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+     "source": "Guardian",
+     "published": "2026-11-08T02:34:19.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "score": 10.8,
+   "sources": [
+    "South China Morning Post"
+   ],
+   "count": 3,
+   "newestHoursAgo": 4.3,
+   "keywords": [
+    "tai",
+    "wang",
+    "hong",
+    "kong",
+    "fire",
+    "fuk"
+   ],
+   "entities": [
+    "hong kong",
+    "tai",
+    "wang fuk court"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Hong Kong must show real remorse for the Tai Po fire tragedy",
+     "summary": "When Chief Executive John Lee Ka-chiu and seven principal officials bowed deeply before the cameras on October 29, Hong Kong witnessed something rare: a collective government apology. It came 11 months after the Wang Fuk Court fire claimed 168 lives and uprooted 1,984 households. A minister has resigned. Many reforms have been promised. Yet public reaction remains divided. That division reveals what people expect an apology to achieve, and how differently they understand political...",
+     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373289/hong-kong-must-show-real-remorse-tai-po-fire-tragedy",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T01:30:21.000Z"
+    },
+    {
+     "title": "Test of trust for Hong Kong’s new housing checks unit after Wang Fuk Court blaze",
+     "summary": "For former Wang Fuk Court resident Dorz Cheung, seeing will be believing when it comes to reforms initiated after the deadly inferno in Hong Kong’s Tai Po district. The 34-year-old questioned whether the new oversight bodies would prevent another disaster, saying systemic reforms to tackle shoddy building maintenance and bid-rigging could be undermined by poor implementation. “No matter how well the system is reformed, it is people who put it into practice. Even the best system will achieve...",
+     "url": "https://www.scmp.com/news/hong-kong/society/article/3373606/test-trust-hong-kongs-new-housing-checks-unit-after-wang-fuk-court-blaze",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T04:25:50.000Z"
+    },
+    {
+     "title": "Hong Kong firefighters get HK$8.4 million tracking upgrade after Tai Po fire",
+     "summary": "Some 2,000 Hong Kong firefighters have been issued upgraded tracking devices after an independent inquiry into last year’s deadly Tai Po fire exposed technical limitations in the previous system, the South China Morning Post has learned. The Fire Services Department spent HK$8.4 million (US$1.1 million) on the new Firefighter Tracking Devices (FTDs), which cost more than HK$4,000 each, to help find personnel in distress more effectively. The November 1 roll-out came about a year after the Wang...",
+     "url": "https://www.scmp.com/news/hong-kong/article/3373666/hong-kong-firefighters-get-hk84-million-tracking-upgrade-after-tai-po-fire",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T01:00:34.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "score": 10.65,
+   "sources": [
+    "South China Morning Post"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.2,
+   "keywords": [
+    "criticism",
+    "wong",
+    "joshua",
+    "joint",
+    "sentence",
+    "hong"
+   ],
+   "entities": [
+    "hong kong",
+    "joshua wong chi-fung"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Hong Kong must build ‘reassuring’ environment amid political criticism: Paul Lam",
+     "summary": "Hong Kong must focus on the “practical work” of building a safe and convenient environment and reassurring the international community amid criticism of its legal system, the justice minister has said, after 10 countries issued a joint statement decrying the latest jail sentence on opposition activist Joshua Wong Chi-fung. “It is inevitable that their criticism will continue… Political realities have to be dealt with, but I do not think we should allow them to distract us from our focus,”...",
+     "url": "https://www.scmp.com/news/hong-kong/politics/article/3373677/hong-kong-must-build-reassuring-environment-amid-political-criticism-paul-lam",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T04:36:22.000Z"
+    },
+    {
+     "title": "‘Hypocritical’: Hong Kong hits back at criticism of Joshua Wong’s sentence",
+     "summary": "Hong Kong has hit back at a joint statement from 10 countries over the latest sentencing of opposition activist Joshua Wong Chi-fung, accusing them of distorting facts and smearing the city’s national security law. The rebuttal came after the US, Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand and the UK issued a joint statement on Friday saying the sentencing of Wong, together with the earlier jailing of many others, showed how the city’s national security law was...",
+     "url": "https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence",
+     "source": "South China Morning Post",
+     "published": "2026-11-07T06:31:27.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "score": 10.48,
+   "sources": [
+    "South China Morning Post"
+   ],
+   "count": 2,
+   "newestHoursAgo": 1.8,
+   "keywords": [
+    "chan",
+    "mainland",
+    "hong",
+    "kong",
+    "margaret",
+    "expo"
+   ],
+   "entities": [
+    "hong kong",
+    "chinese",
+    "china"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Hong Kong makes further in-roads in AI, aviation at mainland Chinese expo",
+     "summary": "Hong Kong is forging deeper ties with the mainland across artificial intelligence (AI), aviation and professional services, industry insiders at China’s global import expo have said. Tech executives and accounting veterans discussed how to leverage Hong Kong’s strategic position, such as through the Northern Metropolis megaproject near the mainland Chinese border, while the city’s flag carrier introduced its refrigerated sea logistics link to Dongguan, Guangdong province. These were signs of a...",
+     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T04:00:35.000Z"
+    },
+    {
+     "title": "Hong Kong’s Margaret Chan voted to lead World Health Organization in 2006 – SCMP archive",
+     "summary": "This article was first published on November 9, 2006. Margaret Chan wins WHO race in coup for China, HK by Mary Ann Benitez Hong Kong’s former director of health Margaret Chan Fung Fu-chun made history yesterday (November 8, 2006) when she was nominated World Health Organisation director-general in a resounding victory that saw her lead all the way in four rounds of voting. Dr Chan, 59, is expected to be endorsed today by the 193-member World Health Assembly, making her the first Chinese to lead...",
+     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373379/hong-kongs-margaret-chan-voted-lead-world-health-organization-2006-scmp-archive",
+     "source": "South China Morning Post",
+     "published": "2026-11-08T03:00:36.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "score": 10.32,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "count": 2,
+   "newestHoursAgo": 8.4,
+   "keywords": [
+    "sweep",
+    "rally",
+    "france",
+    "anti-gove",
+    "ralli",
+    "clash"
+   ],
+   "entities": [
+    "paris"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Police clash with protesters as anti-government rallies sweep France",
+     "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T21:24:10.000Z"
+    },
+    {
+     "title": "More than 140,000 rally as new protests against rising costs sweep France",
+     "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T20:12:22.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "score": 10.24,
+   "sources": [
+    "DW",
+    "Japan Times"
+   ],
+   "count": 2,
+   "newestHoursAgo": 25.1,
+   "keywords": [
+    "meet",
+    "commitmen",
+    "agricultu",
+    "earth",
+    "rare",
+    "trump-xi"
+   ],
+   "entities": [
+    "china"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US asks China to uphold Busan trade deal commitments",
+     "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
+     "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-07T04:44:00.000Z"
+    },
+    {
+     "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+     "summary": "Presidents Donald Trump and Xi ​Jinping are expected to meet at two different summits, one in China and one in the U.S.",
+     "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+     "source": "Japan Times",
+     "published": "2026-11-07T02:16:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "score": 10.16,
+   "sources": [
+    "Guardian"
+   ],
+   "count": 1,
+   "newestHoursAgo": 5.5,
+   "keywords": [
+    "sydney",
+    "barrack",
+    "defence",
+    "victoria",
+    "backtrack",
+    "property"
+   ],
+   "entities": [
+    "victoria barracks",
+    "sydney",
+    "melbourne",
+    "pms get",
+    "richard marles",
+    "australia",
+    "cbd",
+    "the albanese"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+     "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Richard Marles has denied claims Australia’s defence will be undermined by its decision to repurpose a historical military base near Sydney’s CBD for public use. The Albanese government announced on Sunday four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public hands after the plan generated considerable public backlash against their sale. Sign up for Guardian Australia’s Poli",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+     "source": "Guardian",
+     "published": "2026-11-08T00:17:28.000Z"
+    }
+   ]
+  }
+ ]
+}

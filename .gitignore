@@ -1,0 +1,12 @@
+node_modules/
+pipeline/out/
+app/www/
+app/ios/App/App/public/
+app/ios/App/App/capacitor.config.json
+app/ios/App/App/config.xml
+app/ios/App/build/
+app/ios/DerivedData/
+xcuserdata/
+.DS_Store
+*.rejected
+site/

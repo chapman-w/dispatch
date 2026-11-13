@@ -1,0 +1,23 @@
+{
+  "name": "dispatch-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dispatch: the world in five minutes. iOS app wrapper (Capacitor).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "ios": "npm run build && npx cap sync ios && npx cap open ios",
+    "update": "npm run build && npx cap copy ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.6.0",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/ios": "^8.6.0",
+    "@capacitor/local-notifications": "^8.0.2",
+    "@capacitor/preferences": "^8.0.1",
+    "@capacitor/status-bar": "^8.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0"
+  }
+}

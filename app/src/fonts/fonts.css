@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(fonts/BricolageGrotesque-normal-300-800.woff2) format('woff2');
+}
+/* latin-ext */
+
+@font-face {
+  font-family: 'DM Serif Display';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/DMSerifDisplay-italic-400.woff2) format('woff2');
+}
+/* latin-ext */
+
+@font-face {
+  font-family: 'DM Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/DMSerifDisplay-normal-400.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/FragmentMono-italic-400.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/FragmentMono-normal-400.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Gloock';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/Gloock-normal-400.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/HankenGrotesk-italic-300-800.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/HankenGrotesk-normal-300-800.woff2) format('woff2');
+}
+/* latin-ext */
+
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/HostGrotesk-italic-300-800.woff2) format('woff2');
+}
+/* latin-ext */
+
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url(fonts/HostGrotesk-normal-300-800.woff2) format('woff2');
+}
+/* latin */
+
+@font-face {
+  font-family: 'Italiana';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/Italiana-normal-400.woff2) format('woff2');
+}
+/* vietnamese */
+
+@font-face {
+  font-family: 'Newsreader';
+  font-style: italic;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url(fonts/Newsreader-italic-300-700.woff2) format('woff2');
+}
+/* vietnamese */
+
+@font-face {
+  font-family: 'Newsreader';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url(fonts/Newsreader-normal-300-700.woff2) format('woff2');
+}
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Unbounded';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(fonts/Unbounded-normal-400-800.woff2) format('woff2');
+}
+

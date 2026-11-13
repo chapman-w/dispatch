@@ -1,0 +1,26 @@
+{
+  "_note": "World-news RSS/Atom feeds. Only headline + snippet + link are used; articles are never copied. weight lifts the most trusted newsrooms slightly in ranking.",
+  "_criteria": [
+    "Straight-news reporting from an established newsroom with public editorial standards and a corrections policy.",
+    "Prefer public-service broadcasters and papers of record; avoid outlets whose news coverage is driven by a strong partisan or ideological line, far left or far right.",
+    "No state-controlled outlets, tabloids, press-release feeds (e.g. an organisation's own news site) or aggregators.",
+    "Keep a spread of countries so the edition isn't one country's view of the world, and keep the political lean of the list balanced overall.",
+    "Last reviewed 2026-11-08. Removed: Al Jazeera (state-funded, contested on Gulf/Middle East coverage), South China Morning Post (ownership and editorial-independence concerns), UN News (an organisation's own news site), MercoPress (small, single-issue slant), Times of India (sensational tendencies), Washington Post (trimmed to avoid stacking US centre-left papers), ABC Australia (no working world feed). AP, Reuters and the Telegraph would be good choices but block feed readers; CBC passes curl but stalls for Node fetch (worth retrying later)."
+  ],
+  "feeds": [
+    { "id": "bbc",       "name": "BBC",              "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "weight": 1.2, "region": "UK", "type": "public broadcaster" },
+    { "id": "npr",       "name": "NPR",              "url": "https://feeds.npr.org/1004/rss.xml", "weight": 1.1, "region": "US", "type": "public broadcaster" },
+    { "id": "pbs",       "name": "PBS NewsHour",     "url": "https://www.pbs.org/newshour/feeds/rss/world", "weight": 1.1, "region": "US", "type": "public broadcaster" },
+    { "id": "dw",        "name": "DW",               "url": "https://rss.dw.com/rdf/rss-en-world", "weight": 1.1, "region": "Germany", "type": "public broadcaster" },
+    { "id": "france24",  "name": "France 24",        "url": "https://www.france24.com/en/rss", "weight": 1.0, "region": "France", "type": "public broadcaster" },
+    { "id": "rfi",       "name": "RFI",              "url": "https://www.rfi.fr/en/rss", "weight": 1.0, "region": "France", "type": "public broadcaster" },
+    { "id": "ft",        "name": "Financial Times",  "url": "https://www.ft.com/world?format=rss", "weight": 1.1, "region": "UK", "type": "paper of record" },
+    { "id": "nyt",       "name": "New York Times",   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "weight": 1.1, "region": "US", "type": "paper of record" },
+    { "id": "guardian",  "name": "Guardian",         "url": "https://www.theguardian.com/world/rss", "weight": 0.9, "region": "UK", "type": "newspaper" },
+    { "id": "sky",       "name": "Sky News",         "url": "https://feeds.skynews.com/feeds/rss/world.xml", "weight": 0.9, "region": "UK", "type": "broadcaster" },
+    { "id": "euronews",  "name": "Euronews",         "url": "https://www.euronews.com/rss?level=theme&name=news", "weight": 0.9, "region": "EU", "type": "broadcaster" },
+    { "id": "hindu",     "name": "The Hindu",        "url": "https://www.thehindu.com/news/international/feeder/default.rss", "weight": 0.9, "region": "India", "type": "paper of record" },
+    { "id": "japantimes","name": "Japan Times",      "url": "https://www.japantimes.co.jp/feed/", "weight": 0.8, "region": "Japan", "type": "newspaper" },
+    { "id": "africanews","name": "Africanews",       "url": "https://www.africanews.com/feed/rss", "weight": 0.8, "region": "Africa", "type": "broadcaster" }
+  ]
+}

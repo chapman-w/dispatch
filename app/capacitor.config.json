@@ -1,0 +1,15 @@
+{
+  "appId": "com.chapman.dispatch",
+  "appName": "Dispatch",
+  "webDir": "www",
+  "backgroundColor": "#0B0B0B",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "backgroundColor": "#0B0B0B",
+    "preferredContentMode": "mobile"
+  },
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#D4FF3A" }
+  }
+}

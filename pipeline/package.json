@@ -1,0 +1,18 @@
+{
+  "name": "dispatch-pipeline",
+  "private": true,
+  "type": "module",
+  "description": "Daily world-news edition builder for the Dispatch app",
+  "scripts": {
+    "prepare-edition": "node prepare.mjs",
+    "fetch": "node fetch.mjs --hours 30",
+    "cluster": "node cluster.mjs --top 40",
+    "write": "node write.mjs",
+    "build": "node build.mjs",
+    "daily": "node fetch.mjs --hours 30 && node cluster.mjs --top 40 && node write.mjs && node build.mjs"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.6.0",
+    "zod": "^4.6.7"
+  }
+}

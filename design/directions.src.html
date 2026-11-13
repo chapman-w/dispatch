@@ -1,0 +1,272 @@
+<title>Dispatch Directions</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Host+Grotesk:wght@400..800&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap">
+<style>
+@font-face{font-family:"Dispatch Dot";src:url(data:font/otf;base64,__FONT__) format("opentype");font-display:block}
+/* Page: a neutral studio wall that holds three phone mockups per direction.
+   The mockups each commit to their own look on purpose, so they keep fixed colours in both themes. */
+:root{--wall:#E7E6E1;--ink:#151515;--mute:#62615C;--line:rgba(21,21,21,.15);--chip:#fff}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--wall:#151514;--ink:#EDEBE5;--mute:#9A9890;--line:rgba(237,235,229,.15);--chip:#232321;color-scheme:dark}}
+:root[data-theme="dark"]{--wall:#151514;--ink:#EDEBE5;--mute:#9A9890;--line:rgba(237,235,229,.15);--chip:#232321;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--wall);color:var(--ink);font-family:"Host Grotesk",Arial,sans-serif;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 60px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+header.top{display:flex;flex-direction:column;gap:10px;max-width:62ch}
+header.top h1{margin:0;font-family:"Dispatch Dot",monospace;font-weight:400;font-size:44px;letter-spacing:.02em;line-height:1}
+header.top p{margin:0;font-family:Newsreader,Georgia,serif;font-size:18px;line-height:1.45;color:var(--mute)}
+.dir{display:flex;flex-direction:column;gap:18px}
+.dir .head{display:grid;grid-template-columns:auto 1fr;gap:6px 18px;align-items:baseline;border-top:1px solid var(--ink);padding-top:14px}
+.dir .letter{grid-row:1/3;font-family:"Dispatch Dot",monospace;font-size:64px;line-height:.8}
+.dir h2{margin:0;font-size:22px;font-weight:700;letter-spacing:-.01em}
+.dir .why{margin:0;font-family:Newsreader,Georgia,serif;font-size:16px;line-height:1.45;color:var(--mute);max-width:70ch}
+.phones{display:flex;gap:22px;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}
+.phone{flex:none;width:300px;height:620px;border-radius:34px;padding:10px;background:#0c0c0c;box-shadow:0 30px 60px -30px rgba(0,0,0,.45)}
+.screen{width:100%;height:100%;border-radius:26px;overflow:hidden;position:relative}
+.cap{font-family:"Fragment Mono",monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);margin-top:8px;text-align:center}
+.col{display:flex;flex-direction:column;align-items:center}
+.dot{font-family:"Dispatch Dot",monospace;font-weight:400;text-transform:uppercase}
+.mono{font-family:"Fragment Mono",monospace}
+.serif{font-family:Newsreader,Georgia,serif}
+
+/* ===== A · WIRE ROOM: continuous-form printer paper, green bar, sprocket holes ===== */
+.wire{background:#F4F1E4;color:#1B1D1A;font-family:"Fragment Mono",monospace}
+.wire .paper{position:absolute;inset:0;padding:0 30px;background:repeating-linear-gradient(#F4F1E4 0 36px,#DCEBD9 36px 72px)}
+.wire .holes{position:absolute;top:0;bottom:0;width:22px;background:radial-gradient(circle at 11px 18px,#0c0c0c 5.5px,transparent 6px) 0 0/22px 36px;border-right:1px dashed rgba(27,29,26,.25)}
+.wire .holes.l{left:0}.wire .holes.r{right:0;border-right:0;border-left:1px dashed rgba(27,29,26,.25)}
+.wire .slug{display:flex;justify-content:space-between;font-size:9.5px;letter-spacing:.06em;padding-top:14px}
+.wire .mast{font-size:36px;line-height:1;margin-top:12px;letter-spacing:.04em}
+.wire .rule{border:0;border-top:1px dashed #1B1D1A;margin:10px 0}
+.wire .item{display:grid;grid-template-columns:22px 1fr;gap:8px;padding:6px 0 9px;border-bottom:1px dashed rgba(27,29,26,.35)}
+.wire .item .n{font-size:10px;padding-top:3px}
+.wire .item .pl{font-size:20px;line-height:1}
+.wire .item .t{font-size:10.5px;line-height:1.45;margin-top:3px}
+.wire .urgent{position:absolute;right:30px;top:96px;transform:rotate(-8deg);border:2.5px solid #D2301E;color:#D2301E;padding:4px 8px;font-family:"Dispatch Dot",monospace;font-size:16px;letter-spacing:.06em;mix-blend-mode:multiply;opacity:.9}
+.wire .tear{position:absolute;left:0;right:0;bottom:0;height:64px;background:#1B1D1A;color:#F4F1E4;display:flex;align-items:center;justify-content:space-between;padding:0 30px;font-size:11px;letter-spacing:.1em;clip-path:polygon(0 8px,4% 0,8% 8px,12% 0,16% 8px,20% 0,24% 8px,28% 0,32% 8px,36% 0,40% 8px,44% 0,48% 8px,52% 0,56% 8px,60% 0,64% 8px,68% 0,72% 8px,76% 0,80% 8px,84% 0,88% 8px,92% 0,96% 8px,100% 0,100% 100%,0 100%)}
+.wire .big{font-size:84px;line-height:.9;color:#D2301E}
+.wire .marker{background:linear-gradient(transparent 55%,#FFE45C 55% 90%,transparent 90%);}
+.wire .pencil{font-family:Newsreader,serif;font-style:italic;font-size:15px;line-height:1.35;color:#D2301E;border-left:2px solid #D2301E;padding-left:10px;margin-top:10px}
+.wire .body{font-size:11px;line-height:1.6;margin-top:8px}
+.wire .src{font-size:9.5px;margin-top:10px;line-height:1.6}
+.wire .xp{display:inline-block;background:#1B1D1A;color:#DCEBD9;padding:2px 6px;font-size:9.5px}
+.wire .tape{position:absolute;left:30px;right:30px;bottom:80px;border:1px solid #1B1D1A;background:#F4F1E4;padding:8px;font-size:9.5px;display:grid;grid-template-columns:repeat(7,1fr);gap:4px;text-align:center}
+.wire .tape i{display:block;height:16px;background:radial-gradient(circle,#1B1D1A 35%,transparent 38%) center/8px 8px}
+.wire .tape i.off{background:radial-gradient(circle,rgba(27,29,26,.25) 35%,transparent 38%) center/8px 8px}
+
+/* ===== B · AIRMAIL: envelopes, postcards, perforated stamps, postmarks ===== */
+.air{background:#F2EEE6;color:#1C2340;font-family:"Host Grotesk",sans-serif}
+.air .border{position:absolute;inset:0;padding:10px;background:repeating-linear-gradient(135deg,#D93A3A 0 14px,#F2EEE6 14px 22px,#2B4BB8 22px 36px,#F2EEE6 36px 44px)}
+.air .inner{position:absolute;inset:10px;background:#F7F4EE;border-radius:4px;padding:16px 14px;overflow:hidden}
+.air .par{display:inline-block;background:#2B4BB8;color:#fff;font-family:"Fragment Mono",monospace;font-size:9.5px;padding:3px 7px;letter-spacing:.12em}
+.air .mast{font-size:30px;line-height:1;margin-top:10px;color:#1C2340}
+.air .addr{font-family:Newsreader,serif;font-style:italic;font-size:14px;color:#5A5E73;margin-top:4px}
+.stamp{width:78px;height:94px;padding:6px;background:#fff;position:relative;
+  -webkit-mask:radial-gradient(circle 4px at 4px 4px,transparent 98%,#000) -4px -4px/10px 10px;mask:radial-gradient(circle 4px at 4px 4px,transparent 98%,#000) -4px -4px/10px 10px;filter:drop-shadow(0 1px 0 rgba(0,0,0,.1))}
+.stamp .art{width:100%;height:100%;position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:5px;color:#fff}
+.stamp .art .v{font-family:"Dispatch Dot",monospace;font-size:13px;line-height:1}
+.stamp .art .c{font-family:"Fragment Mono",monospace;font-size:7px;letter-spacing:.06em;text-transform:uppercase}
+.stamp .art>*{position:relative;z-index:1;text-shadow:0 1px 0 rgba(0,0,0,.25)}
+.stamp .art::before{content:"";position:absolute;inset:0;opacity:.55;background:radial-gradient(circle,rgba(255,255,255,.55) 32%,transparent 36%) 0 0/6px 6px;-webkit-mask:radial-gradient(ellipse 60% 45% at 60% 58%,#000 60%,transparent 62%);mask:radial-gradient(ellipse 60% 45% at 60% 58%,#000 60%,transparent 62%)}
+.air .pile{position:relative;height:330px;margin-top:14px}
+.air .card{position:absolute;left:0;right:0;height:150px;background:#fff;border-radius:3px;box-shadow:0 8px 18px -8px rgba(28,35,64,.35);padding:12px;display:grid;grid-template-columns:1fr auto;gap:8px}
+.air .card .pl{font-size:22px;line-height:1;color:#1C2340}
+.air .card .t{font-family:Newsreader,serif;font-size:13.5px;line-height:1.3;color:#3A3F58;margin-top:6px}
+.air .card .lines{background:repeating-linear-gradient(transparent 0 17px,rgba(28,35,64,.18) 17px 18px);height:40px;margin-top:8px}
+.postmark{position:absolute;width:86px;height:86px;border:2px solid rgba(28,35,64,.55);border-radius:50%;display:grid;place-items:center;text-align:center;font-family:"Fragment Mono",monospace;font-size:8.5px;line-height:1.3;color:rgba(28,35,64,.6);transform:rotate(-14deg)}
+.postmark::after{content:"";position:absolute;left:70%;top:30%;width:90px;height:34px;background:repeating-linear-gradient(transparent 0 5px,rgba(28,35,64,.45) 5px 7px);border-radius:0 40% 40% 0}
+.air .cta{position:absolute;left:14px;right:14px;bottom:16px;background:#D93A3A;color:#fff;border-radius:3px;padding:14px;display:flex;justify-content:space-between;font-size:11.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+.air .back{background:#fff;border-radius:3px;margin-top:12px;padding:14px;position:relative;box-shadow:0 8px 18px -8px rgba(28,35,64,.35);display:grid;grid-template-columns:1fr 1px 92px;gap:12px;min-height:250px}
+.air .back .divider{background:rgba(28,35,64,.2)}
+.air .back .msg{font-family:Newsreader,serif;font-size:13px;line-height:1.5;color:#2A3050}
+.air .back .to{display:flex;flex-direction:column;gap:8px;padding-top:96px}
+.air .back .to span{border-bottom:1px solid rgba(28,35,64,.3);font-family:"Fragment Mono",monospace;font-size:8.5px;padding-bottom:2px;color:#5A5E73}
+.air .seat{display:flex;flex-wrap:wrap;gap:3px;margin-top:10px}
+.air .seat i{width:7px;height:7px;border-radius:50%;background:#D7DAE6}
+.air .seat i.on{background:#2B4BB8}
+
+/* ===== C · SIGNAL: full-bleed colour slabs, giant dot numerals, radar ===== */
+.sig{background:#0B0B0B;color:#fff;font-family:"Host Grotesk",sans-serif}
+.sig .slab{position:absolute;left:0;right:0;padding:14px 16px;overflow:hidden}
+.sig .top{top:0;height:60%;background:#FF4B2B;color:#140804}
+.sig .bot{bottom:0;height:40%;background:#0B0B0B}
+.sig .ix{display:flex;justify-content:space-between;font-family:"Fragment Mono",monospace;font-size:9.5px;letter-spacing:.08em;text-transform:uppercase}
+.sig .huge{font-family:"Dispatch Dot",monospace;font-size:150px;line-height:.82;letter-spacing:-.02em;margin-top:16px}
+.sig .radar{position:absolute;right:-60px;bottom:-60px;width:240px;height:240px;border-radius:50%;background:repeating-radial-gradient(circle,transparent 0 22px,rgba(20,8,4,.22) 22px 23px),conic-gradient(from 210deg,rgba(20,8,4,.35),transparent 25%);}
+.sig .radar::after{content:"";position:absolute;left:58%;top:38%;width:12px;height:12px;border-radius:50%;background:#140804;box-shadow:0 0 0 6px rgba(20,8,4,.18),0 0 0 14px rgba(20,8,4,.08)}
+.sig .pl{font-family:"Dispatch Dot",monospace;font-size:34px;line-height:1;margin-top:4px}
+.sig .h{font-size:17px;font-weight:700;line-height:1.18;letter-spacing:-.01em;margin-top:8px}
+.sig .rail{position:absolute;left:0;right:0;top:0;display:flex;gap:3px;padding:8px 10px}
+.sig .rail i{flex:1;height:3px;background:rgba(255,255,255,.35)}
+.sig .rail i.on{background:#fff}
+.sig .grid{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:repeat(4,1fr)}
+.sig .grid div{padding:10px;display:flex;flex-direction:column;justify-content:space-between;color:#fff;overflow:hidden;position:relative}
+.sig .grid .k{font-family:"Fragment Mono",monospace;font-size:8.5px;letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+.sig .grid .p{font-family:"Dispatch Dot",monospace;font-size:21px;line-height:1}
+.sig .grid .big{grid-column:1/3;grid-row:1/3}
+.sig .grid .big .p{font-size:40px}
+.sig .grid .big .d{font-family:"Dispatch Dot",monospace;font-size:96px;line-height:.8;opacity:.18;position:absolute;right:6px;bottom:4px}
+.sig .go{position:absolute;left:12px;right:12px;bottom:12px;background:#fff;color:#0B0B0B;padding:13px 14px;display:flex;justify-content:space-between;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;border-radius:2px}
+.sig .q{position:absolute;inset:0;background:#B04EFF;padding:18px 16px;color:#13041F}
+.sig .q .num{font-family:"Dispatch Dot",monospace;font-size:120px;line-height:.8}
+.sig .q .qt{font-family:Newsreader,serif;font-size:24px;line-height:1.12;margin-top:14px}
+.sig .q .o{margin-top:8px;border:2px solid #13041F;padding:12px;font-weight:700;font-size:14px;display:flex;justify-content:space-between}
+.sig .q .o.r{background:#13041F;color:#B04EFF}
+@media (max-width:420px){.phone{width:270px;height:560px}.sig .huge{font-size:130px}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Directions</h1>
+    <p>Three ways Dispatch could look, all using today's real stories and the dot typeface. Each takes its idea from what a "dispatch" physically is, not from a news-site template. Pick one, or name the parts you like from each.</p>
+  </header>
+
+  <!-- ================= A ================= -->
+  <section class="dir">
+    <div class="head"><span class="letter">A</span><h2>Wire Room</h2><p class="why">The edition arrives as a printout from a newsroom wire machine: continuous green-bar paper, sprocket holes, dot-matrix type, a red URGENT stamp and highlighter marks. Your streak is a punched tape. The most unusual of the three, and the dot font feels native here.</p></div>
+    <div class="phones">
+      <div class="col"><div class="phone"><div class="screen wire">
+        <div class="paper">
+          <div class="slug"><span>WIRE NO.002</span><span>08.11.26 05:00Z</span></div>
+          <div class="mast dot">Dispatch</div>
+          <div class="slug" style="padding-top:4px"><span>7 STORIES · 11 SOURCES</span><span>5 MIN</span></div>
+          <hr class="rule">
+          <div class="item"><span class="n">01</span><div><div class="pl dot">Kraków</div><div class="t">GUNMAN KILLS SIX IN HISTORIC MAIN SQUARE · 6 OUTLETS</div></div></div>
+          <div class="item"><span class="n">02</span><div><div class="pl dot">Yemen</div><div class="t">ONE OF THE DEADLIEST DAYS OF THE WAR · 4 OUTLETS</div></div></div>
+          <div class="item"><span class="n">03</span><div><div class="pl dot">Iran</div><div class="t">MORE US STRIKES, AND A SQUEEZE ON LAND ROUTES</div></div></div>
+          <div class="item"><span class="n">04</span><div><div class="pl dot">Washington</div><div class="t">TRUMP RESHAPES HIS TEAM AFTER LOSING CONGRESS</div></div></div>
+        </div>
+        <div class="holes l"></div><div class="holes r"></div>
+        <div class="urgent">Urgent</div>
+        <div class="tear"><span>TEAR HERE TO READ</span><span>+225 XP</span></div>
+      </div></div><span class="cap">Cover</span></div>
+
+      <div class="col"><div class="phone"><div class="screen wire">
+        <div class="paper">
+          <div class="slug"><span>02/07 · WAR</span><span>15.37N 44.19E</span></div>
+          <div class="mast dot" style="font-size:44px;color:#1B1D1A">Yemen</div>
+          <div class="body">SANAA (DISPATCH) — <span class="marker">Houthi officials say at least 33 people</span>, mostly women and children, were killed when airstrikes hit homes near the capital. Saudi Arabia has not commented. A separate attack on a market in Taiz reportedly killed about 30 more.</div>
+          <div class="big dot">50+</div>
+          <div class="body" style="margin-top:2px">KILLED ACROSS YEMEN IN 24 HOURS (NYT)</div>
+          <div class="pencil">Why it matters: fighting reignited in August after a long lull, and a UN-backed truce may be collapsing.</div>
+          <div class="src">SRC: BBC / NYT / SKY / FRANCE 24 <span class="xp">+10 XP</span></div>
+        </div>
+        <div class="holes l"></div><div class="holes r"></div>
+      </div></div><span class="cap">Story</span></div>
+
+      <div class="col"><div class="phone"><div class="screen wire">
+        <div class="paper">
+          <div class="slug"><span>END OF WIRE</span><span>3/3 CORRECT</span></div>
+          <div class="mast dot" style="font-size:120px;line-height:.9;margin-top:24px">13</div>
+          <div class="slug" style="padding-top:2px"><span>DAY STREAK</span><span>GOAL 14</span></div>
+          <hr class="rule">
+          <div class="body">STAMPED: KRAKÓW · SANAA · HORMUZ · WASHINGTON · GAZA · PAYSANDÚ · SHIZUOKA · THREDBO</div>
+          <div class="body">LV 6 FOREIGN DESK ········· 1240/1400</div>
+        </div>
+        <div class="holes l"></div><div class="holes r"></div>
+        <div class="tape"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="tear"><span>SHARE PRINTOUT</span><span>→</span></div>
+      </div></div><span class="cap">Finished</span></div>
+    </div>
+  </section>
+
+  <!-- ================= B ================= -->
+  <section class="dir">
+    <div class="head"><span class="letter">B</span><h2>Airmail</h2><p class="why">Every story is a postcard sent from where it happened, with an airmail border, perforated stamps in each category's colour, and postmarks. It fits the passport and stamp-collecting game directly: you are literally collecting mail from the world. Warm, tactile, collectible.</p></div>
+    <div class="phones">
+      <div class="col"><div class="phone"><div class="screen air">
+        <div class="border"></div>
+        <div class="inner">
+          <span class="par">Par avion · No. 002</span>
+          <div class="mast dot">Dispatch</div>
+          <div class="addr">7 postcards for Wes, Sunday 8 November</div>
+          <div class="pile">
+            <div class="card" style="top:0;transform:rotate(-3deg)"><div><div class="pl dot">Kraków</div><div class="t">Six killed in the historic main square</div></div>
+              <div class="stamp"><div class="art" style="background:#DD3D86"><span class="v">6</span><span class="c">Poland</span></div></div></div>
+            <div class="card" style="top:92px;transform:rotate(2deg)"><div><div class="pl dot">Sanaa</div><div class="t">One of the deadliest days of Yemen's war</div></div>
+              <div class="stamp"><div class="art" style="background:#EE3A55"><span class="v">50+</span><span class="c">Yemen</span></div></div></div>
+            <div class="card" style="top:184px;transform:rotate(-1.5deg)"><div><div class="pl dot">Paysandú</div><div class="t">The Pope travels weeks after surgery</div></div>
+              <div class="stamp"><div class="art" style="background:#B04EFF"><span class="v">12d</span><span class="c">Uruguay</span></div></div></div>
+          </div>
+          <div class="postmark" style="right:-6px;top:60px">SUN<br>08 NOV<br>2026</div>
+          <div class="cta"><span>Open your mail</span><span>+225 XP</span></div>
+        </div>
+      </div></div><span class="cap">Cover</span></div>
+
+      <div class="col"><div class="phone"><div class="screen air">
+        <div class="border"></div>
+        <div class="inner">
+          <span class="par" style="background:#EE3A55">02 · War</span>
+          <div class="mast dot" style="font-size:40px">Sanaa</div>
+          <div class="addr">Airstrikes kill dozens in one of Yemen's deadliest days in months</div>
+          <div class="back">
+            <div class="msg">Houthi officials say at least 33 people, mostly women and children, were killed when airstrikes hit homes near the capital. Saudi Arabia hasn't commented.<br><br><i style="color:#EE3A55">Why it matters:</i> a UN-backed truce may be collapsing.</div>
+            <div class="divider"></div>
+            <div class="to"><span>TO: WES</span><span>FROM: SANAA</span><span>VIA: BBC, NYT, SKY</span></div>
+            <div class="stamp" style="position:absolute;right:12px;top:12px"><div class="art" style="background:#EE3A55"><span class="v">50+</span><span class="c">Yemen</span></div></div>
+            <div class="postmark" style="right:44px;top:40px;width:70px;height:70px">SANAA<br>08.11</div>
+          </div>
+        </div>
+      </div></div><span class="cap">Story (postcard back)</span></div>
+
+      <div class="col"><div class="phone"><div class="screen air">
+        <div class="border"></div>
+        <div class="inner">
+          <span class="par">Your stamp album</span>
+          <div class="mast dot" style="font-size:26px">29 stamps · 6 continents</div>
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:14px">
+            <div class="stamp" style="width:auto"><div class="art" style="background:#DD3D86"><span class="v">PL</span><span class="c">Kraków</span></div></div>
+            <div class="stamp" style="width:auto"><div class="art" style="background:#EE3A55"><span class="v">YE</span><span class="c">Sanaa</span></div></div>
+            <div class="stamp" style="width:auto"><div class="art" style="background:#FF5A3C"><span class="v">IR</span><span class="c">Hormuz</span></div></div>
+            <div class="stamp" style="width:auto"><div class="art" style="background:#4C6FFF"><span class="v">US</span><span class="c">Washington</span></div></div>
+            <div class="stamp" style="width:auto"><div class="art" style="background:#FFA21F"><span class="v">JP</span><span class="c">Shizuoka</span></div></div>
+            <div class="stamp" style="width:auto"><div class="art" style="background:#B04EFF"><span class="v">UY</span><span class="c">Paysandú</span></div></div>
+          </div>
+          <div class="postmark" style="left:40px;bottom:90px">13 DAY<br>STREAK</div>
+          <div class="cta" style="background:#2B4BB8"><span>Lv 6 · Foreign desk</span><span>1240 XP</span></div>
+        </div>
+      </div></div><span class="cap">Passport / album</span></div>
+    </div>
+  </section>
+
+  <!-- ================= C ================= -->
+  <section class="dir">
+    <div class="head"><span class="letter">C</span><h2>Signal</h2><p class="why">A broadcast feel: each story takes over the whole screen in its category colour, with a giant dot-matrix figure and a radar sweep where the globe was. You tap through like stories. The boldest and most poster-like, closest to a fashion campaign.</p></div>
+    <div class="phones">
+      <div class="col"><div class="phone"><div class="screen sig">
+        <div class="grid">
+          <div class="big" style="background:#DD3D86"><span class="k">01 · Security</span><span class="p">Kraków</span><span class="d">6</span></div>
+          <div style="background:#EE3A55"><span class="k">02 · War</span><span class="p">Yemen</span></div>
+          <div style="background:#FF5A3C"><span class="k">03 · Conflict</span><span class="p">Iran</span></div>
+          <div style="background:#4C6FFF"><span class="k">04 · Politics</span><span class="p">USA</span></div>
+          <div style="background:#FFA21F;color:#140804"><span class="k">05 · Disaster</span><span class="p">Gaza</span></div>
+        </div>
+        <div class="go"><span>No. 002 · Play</span><span>5 min</span></div>
+      </div></div><span class="cap">Cover</span></div>
+
+      <div class="col"><div class="phone"><div class="screen sig">
+        <div class="slab top" style="background:#EE3A55;color:#1A0307">
+          <div class="rail"><i class="on"></i><i class="on"></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="ix" style="margin-top:12px"><span>02 · War</span><span>Sanaa · 15.37N</span></div>
+          <div class="huge">50+</div>
+          <div class="ix" style="margin-top:6px"><span>Killed in 24 hours</span></div>
+          <div class="radar"></div>
+        </div>
+        <div class="slab bot">
+          <div class="pl">Yemen</div>
+          <div class="h">Airstrikes kill dozens in one of Yemen's deadliest days in months</div>
+          <div class="serif" style="font-size:13px;line-height:1.45;opacity:.75;margin-top:8px">Houthi officials say at least 33 people were killed near the capital. Saudi Arabia hasn't commented.</div>
+        </div>
+      </div></div><span class="cap">Story</span></div>
+
+      <div class="col"><div class="phone"><div class="screen sig">
+        <div class="q">
+          <div class="ix"><span>Quick check</span><span>+20 XP</span></div>
+          <div class="num">Q1</div>
+          <div class="qt">What did Poland's prime minister call the Kraków shooting?</div>
+          <div class="o"><span>An accident</span><span>A</span></div>
+          <div class="o r"><span>An act of terrorism</span><span>✓</span></div>
+          <div class="o"><span>A gang attack</span><span>C</span></div>
+        </div>
+      </div></div><span class="cap">Quiz</span></div>
+    </div>
+  </section>
+</div>

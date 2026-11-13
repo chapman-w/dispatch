@@ -1,0 +1,7 @@
+{
+  "name": "dispatch-dot",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build-font.mjs" },
+  "dependencies": { "opentype.js": "1.3.4" }
+}
