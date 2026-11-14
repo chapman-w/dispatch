@@ -72,16 +72,22 @@ const ranked = clusters.map(c => {
   const keywords = [...tf.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6).map(e => e[0]);
   const ents = new Map(); for (const d of c.docs) for (const e of d.ents) ents.set(e, (ents.get(e) || 0) + 1);
   const entities = [...ents.entries()].filter(e => e[1] > 1 || c.docs.length === 1).sort((a, b) => b[1] - a[1]).slice(0, 8).map(e => e[0]);
-  // coverage dominates; freshness decays over ~a day; soft-news and sport are penalised
-  const soft = /football|soccer|cricket|tennis|nba|nfl|premier league|celebrity|royal|recipe|fashion week|box office/i.test(its.map(i => i.title).join(" "));
-  const score = weight * 10 * Math.exp(-ageH / 30) * (soft ? 0.4 : 1) + Math.min(its.length, 8);
-  return { score: +score.toFixed(2), sources, count: its.length, newestHoursAgo: +ageH.toFixed(1), keywords, entities, soft,
+  // Magnitude, not variety. How many independent newsrooms covered it (superlinear, so 11 outlets is
+  // far more than twice 5), how many countries those newsrooms are from (a story the Indian, Japanese,
+  // German and US press all run is global), how much they wrote (volume), and how fast it's moving
+  // (items in the last 12h). Freshness decays over about a day. Sport and celebrity are penalised.
+  const countries = new Set(its.map(i => i.region).filter(Boolean));
+  const recent12 = its.filter(i => i.published && now - Date.parse(i.published) < 12 * 3600e3).length;
+  const soft = /football|soccer|cricket|tennis|nba|nfl|premier league|celebrit|royal|recipe|fashion week|box office|oscars|grammys|eurovision|comedian|actor|actress|singer|rapper|influencer|reality tv/i.test(its.map(i => i.title).join(" "));
+  const score = (Math.pow(weight, 1.4) * 10 + countries.size * 4 + Math.min(its.length, 12) * 1.5 + Math.min(recent12, 6) * 1.5) * Math.exp(-ageH / 30) * (soft ? 0.35 : 1);
+  const tier = soft ? "soft" : (sources.length >= 6 || (sources.length >= 5 && countries.size >= 4)) ? "major" : sources.length >= 3 ? "significant" : "minor";
+  return { score: +score.toFixed(2), tier, sources, countries: [...countries], count: its.length, recent12, newestHoursAgo: +ageH.toFixed(1), keywords, entities, soft,
     items: its.sort((a, b) => (b.weight || 1) - (a.weight || 1)).map(({ title, summary, url, source, published }) => ({ title, summary, url, source, published })) };
 }).sort((a, b) => b.score - a.score);
 
 const out = ranked.slice(0, top).map((c, i) => ({ rank: i + 1, ...c }));
 await fs.writeFile(path.join(here, "out/clusters.json"), JSON.stringify({ fetchedAt, clusters: out }, null, 1));
-const md = out.map(c => `## ${c.rank}. ${c.items[0].title}\nscore ${c.score} · ${c.sources.length} outlets (${c.sources.join(", ")}) · newest ${c.newestHoursAgo}h ago${c.soft ? " · soft" : ""}\nentities: ${c.entities.join(", ")}\n` +
+const md = out.map(c => `## ${c.rank}. ${c.items[0].title}\n${c.tier} · score ${c.score} · ${c.sources.length} outlets (${c.sources.join(", ")}) · newest ${c.newestHoursAgo}h ago${c.soft ? " · soft" : ""}\nentities: ${c.entities.join(", ")}\n` +
   c.items.map(i => `- [${i.source}] ${i.title} — ${i.summary.slice(0, 220)} <${i.url}> (${i.published ?? "undated"})`).join("\n")).join("\n\n");
 await fs.writeFile(path.join(here, "out/clusters.md"), `# Clusters · fetched ${fetchedAt}\n\n${md}\n`);
-console.log(out.slice(0, 20).map(c => `${String(c.rank).padStart(2)}. [${c.sources.length} outlets, ${c.newestHoursAgo}h] ${c.items[0].title.slice(0, 90)}`).join("\n"));
+console.log(out.slice(0, 20).map(c => `${String(c.rank).padStart(2)}. ${c.tier.padEnd(11)} [${c.sources.length} outlets · ${c.countries.length} countries · ${c.count} items · ${c.newestHoursAgo}h] ${c.items[0].title.slice(0, 80)}`).join("\n"));

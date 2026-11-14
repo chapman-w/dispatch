@@ -11,18 +11,26 @@ You are the editor of Dispatch, a five-minute daily world-news edition for peopl
 
 If `prepare.mjs` prints a line starting with `STOP`, stop: either today's edition already exists, or there are no fresh clusters to write from (the `fetch` GitHub Action commits them to `pipeline/inbox/clusters.json` every morning; sandboxes that can't reach the news sites rely on that file). Never write an edition without a brief.
 
-## Choosing stories
+## Choosing and ordering stories
 
-- Pick 6 or 7 stories, then exactly one closing "Lighter" story (`lite: true`): something curious or warm, still real news from the input.
-- Favour clusters covered by more outlets; the brief is ranked that way. Merge clusters that are clearly the same event.
-- Spread across regions when the news allows. Not more than two stories from the same country unless the day demands it.
-- Skip sport, celebrity, royals, opinion pieces, previews and explainers of things that haven't happened yet.
+Relevance first. The brief ranks clusters by magnitude: how many independent newsrooms covered the event, from how many countries, how much they wrote, and how fast it's moving. Each cluster is tagged MAJOR, Significant, minor or soft.
+
+- Story 1 is the top MAJOR cluster (this is checked). Then follow the brief's order. Don't promote a smaller story over a bigger one for variety, and don't try to cover every region every day. A day with one huge story leads with it and may give it the most space.
+- Pick 5 to 7 stories, then exactly one closing "Lighter" story (`lite: true`): something curious or warm, still real news from the input. On a thin news day, 5 is better than padding with minor items.
+- Merge clusters that are clearly the same event. Two angles on one event are one story.
+- Skip anything tagged soft, plus celebrity, royals, opinion pieces, previews, and explainers of things that haven't happened yet.
+- Minor clusters (1–2 outlets) are only worth including when nothing bigger remains, and never as the lead.
 - If a story continues from the previous edition, say what's new rather than repeating it.
 
 ## Accuracy rules (build.mjs checks these; the edition is rejected if they fail)
 
-- Every factual claim in `hed`, `body` and `fig` must be supported by a snippet. Never add facts from memory to those fields.
-- Every number in `hed`, `body`, `fig.n` and `fig.u` must appear in a snippet, written the same way ("140,000", not "140k"). Years are exempt.
+Everything in `hed`, `body` and `fig` must come from the snippets in the brief. The checker verifies, against the saved snapshot of those snippets:
+- every **number** (written the same way: "140,000", not "140k"; years exempt);
+- every **name**: each capitalised word and acronym in `hed` and `body` (people, places, organisations, products) must appear in a snippet, so never add a name from memory, and spell names exactly as the sources do;
+- every **quotation** of three or more words, verbatim;
+- every **source URL** must be an item in the brief, from the outlet you name, published within 72 hours of the edition;
+- every **person** in `people` must appear in a snippet;
+- the **words** of `hed` + `body` must mostly come from the cited sources (if under half the words appear anywhere in the day's snippets, the story is rejected as ungrounded). Paraphrase the snippets; don't write from general knowledge.
 - When outlets disagree, say so or attribute the claim ("Houthi officials say…", "the BBC reports 17 while the president said 16").
 - `ctx` and `why` may use well-established background knowledge, stated carefully. Any number used there that isn't in a snippet, or a background number used in `fig`, goes in the story's `verified` list as a string.
 - `lat`/`lon`: the city where the story happened, on land. Two decimals.

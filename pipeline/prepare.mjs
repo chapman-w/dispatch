@@ -57,9 +57,11 @@ out.push(`Sources snapshot saved to editions/${date}.sources.json (build.mjs fac
 if (prev) { out.push(`\n## Previous edition (No. ${prev.no}, ${prev.date}): say what's new if a story continues`); for (const s of prev.stories) out.push(`- ${s.place}: ${s.hed}`); }
 out.push(`\n## Glossary terms that already exist (use {term} freely; define anything else in the edition)`);
 out.push(Object.keys({ ...glossary, ...(prev?.glossary || {}) }).join(", "));
-out.push(`\n## Today's clusters, ranked by independent outlets covering them`);
+const tiers = { major: "MAJOR", significant: "Significant", minor: "minor", soft: "soft (sport/celebrity: skip)" };
+out.push(`\n## Today's clusters, ranked by magnitude (independent outlets, countries, volume, speed)`);
+out.push(`Lead with the top MAJOR cluster. Keep the order of magnitude; don't promote a minor story for variety. ${clusters.filter(c => c.tier === "major").length} major, ${clusters.filter(c => c.tier === "significant").length} significant today.`);
 for (const c of clusters.slice(0, top)) {
-  out.push(`\n### ${c.rank}. [${c.sources.join(", ")}]`);
+  out.push(`\n### ${c.rank}. ${tiers[c.tier] || c.tier || ""} · ${c.sources.length} outlets from ${(c.countries || []).length || "?"} countries · ${c.count} items · newest ${c.newestHoursAgo}h ago\n[${c.sources.join(", ")}]`);
   for (const i of c.items.slice(0, 6)) out.push(`- ${i.source}: ${i.title} — ${(i.summary || "").replace(/\s+/g, " ").slice(0, 360)} <${i.url}>`);
 }
 console.log(out.join("\n"));

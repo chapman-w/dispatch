@@ -9,7 +9,8 @@
     "cluster": "node cluster.mjs --top 40",
     "write": "node write.mjs",
     "build": "node build.mjs",
-    "daily": "node fetch.mjs --hours 30 && node cluster.mjs --top 40 && node write.mjs && node build.mjs"
+    "daily": "node fetch.mjs --hours 30 && node cluster.mjs --top 40 && node write.mjs && node build.mjs",
+    "test": "node --test test/*.test.mjs"
   },
   "optionalDependencies": {
     "@anthropic-ai/sdk": "^1.6.0",

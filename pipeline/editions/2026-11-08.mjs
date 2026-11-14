@@ -13,7 +13,7 @@ export default {
       ctx: "Kraków is Poland's second-largest city and one of its most visited. Its main square, Rynek Główny, is one of the largest medieval town squares in Europe.",
       fig: { type: "big", n: "6", u: "people killed and about 15 wounded. Three more were found at the attacker's home." },
       people: [["Donald Tusk", "Prime minister of Poland"]],
-      sources: [["Guardian", "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"], ["New York Times", "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"], ["BBC", "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"], ["Sky News", "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612"], ["SCMP", "https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland"], ["Al Jazeera", "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of"]] },
+      sources: [["Guardian", "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"], ["New York Times", "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"], ["BBC", "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"], ["Sky News", "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612"], ["South China Morning Post", "https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland"], ["Al Jazeera", "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of"]] },
 
     { id: "ye", place: "Yemen", city: "Sanaa", cat: "War", lat: 15.37, lon: 44.19,
       short: "One of the deadliest days of the war",
@@ -42,7 +42,7 @@ export default {
       ctx: "Midterms fall halfway through a president's four-year term. Every seat in the House and about a third of the Senate are up for election, and the president's party often loses ground.",
       fig: { type: "big", n: "2 of 2", u: "chambers of Congress now controlled by Democrats." },
       people: [["Stephen Miller", "Named White House chief of staff"], ["Dana White", "UFC chief, offered press secretary"], ["Donald Trump", "President of the United States"]],
-      sources: [["BBC", "https://www.bbc.co.uk/news/articles/crp3gg2z171go"], ["Al Jazeera", "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary"]] },
+      sources: [["Al Jazeera", "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary"]] },
 
     { id: "ps", place: "Gaza", city: "Gaza City", cat: "Disaster", lat: 31.50, lon: 34.47,
       short: "Floods sweep through tent camps",
@@ -79,6 +79,7 @@ export default {
       body: "A cold blast brought unseasonable snow to parts of New South Wales, Victoria and Tasmania. The ski resorts at Thredbo, Perisher and Mount Hotham all saw falls, and so did kunanyi/Mount Wellington above Hobart.",
       why: "November is late spring in Australia, so snow is a surprise even in the mountains.",
       ctx: "Seasons are flipped in the southern hemisphere: Australia's summer officially starts on 1 December.",
+      verified: ["wales"],
       sources: [["Guardian", "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino"]] }
   ],
   quiz: [
