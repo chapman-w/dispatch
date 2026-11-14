@@ -4,6 +4,7 @@ name: pages
 on:
   push:
     branches: [main]
+    paths-ignore: ['pipeline/inbox/**']
   workflow_dispatch:
 permissions:
   contents: read

@@ -1,5 +1,6 @@
 // Step 2½: fetch + cluster, snapshot the sources, and print the editor's brief.
 // usage: node prepare.mjs [--date YYYY-MM-DD] [--hours 30] [--top 24] [--no-fetch]
+// exit codes: 0 brief printed · 2 edition already exists · 3 no clusters (don't write)
 // This is what a Claude Code editor session reads before writing editions/DATE.mjs by hand
 // (see EDITOR.md). No API key is involved anywhere in this step.
 import fs from "node:fs/promises";
@@ -17,13 +18,30 @@ const hours = arg("--hours", "30"), top = Number(arg("--top", "24"));
 const file = path.join(here, "editions", `${date}.mjs`);
 try { await fs.access(file); console.log(`STOP: editions/${date}.mjs already exists. Nothing to do today.`); process.exit(2); } catch {}
 
+// Clusters come from one of two places, whichever is fresher:
+//  - a live fetch (works on a machine with open internet)
+//  - pipeline/inbox/clusters.json, committed by the `fetch` GitHub Action, for environments whose
+//    network policy blocks the news sites (the daily Claude Code routine runs in one of those).
+const FRESH_H = 20;
+const age = iso => (Date.now() - Date.parse(iso)) / 36e5;
+let live = null, inbox = null;
 if (!process.argv.includes("--no-fetch")) {
-  const f = await run("node", [path.join(here, "fetch.mjs"), "--hours", hours], { cwd: here, maxBuffer: 1 << 26 });
-  process.stderr.write(f.stdout.split("\n").slice(-3).join("\n") + "\n");
-  const c = await run("node", [path.join(here, "cluster.mjs"), "--top", "40"], { cwd: here, maxBuffer: 1 << 26 });
-  process.stderr.write(c.stdout.split("\n").slice(-2).join("\n") + "\n");
+  try {
+    const f = await run("node", [path.join(here, "fetch.mjs"), "--hours", hours], { cwd: here, maxBuffer: 1 << 26 });
+    process.stderr.write(f.stdout.split("\n").slice(-2).join("\n") + "\n");
+    const c = await run("node", [path.join(here, "cluster.mjs"), "--top", "40"], { cwd: here, maxBuffer: 1 << 26 });
+    process.stderr.write(c.stdout.split("\n").slice(-2).join("\n") + "\n");
+    live = JSON.parse(await fs.readFile(path.join(here, "out/clusters.json"), "utf8"));
+    if (!live.clusters?.length) { process.stderr.write("live fetch returned no clusters (network blocked?)\n"); live = null; }
+  } catch (e) { process.stderr.write(`live fetch failed: ${e.message.split("\n")[0]}\n`); }
 }
-const { clusters, fetchedAt } = JSON.parse(await fs.readFile(path.join(here, "out/clusters.json"), "utf8"));
+try { inbox = JSON.parse(await fs.readFile(path.join(here, "inbox/clusters.json"), "utf8")); if (!inbox.clusters?.length || age(inbox.fetchedAt) > FRESH_H) { process.stderr.write(`inbox/clusters.json is ${inbox.clusters?.length ? Math.round(age(inbox.fetchedAt)) + "h old" : "empty"}; ignoring\n`); inbox = null; } } catch {}
+const pick = live && inbox ? (Date.parse(live.fetchedAt) >= Date.parse(inbox.fetchedAt) ? live : inbox) : live || inbox;
+if (!pick) { console.log("STOP: no clusters available. The live fetch failed and pipeline/inbox/clusters.json is missing or stale. Run the `fetch` GitHub Action (or fetch.mjs + cluster.mjs on a machine with internet) and try again. Do not write an edition."); process.exit(3); }
+process.stderr.write(`using ${pick === live ? "live" : "inbox"} clusters fetched ${pick.fetchedAt}\n`);
+await fs.mkdir(path.join(here, "out"), { recursive: true });
+await fs.writeFile(path.join(here, "out/clusters.json"), JSON.stringify(pick, null, 1));
+const { clusters, fetchedAt } = pick;
 await fs.copyFile(path.join(here, "out/clusters.json"), path.join(here, "editions", `${date}.sources.json`));
 
 const glossary = JSON.parse(await fs.readFile(path.join(here, "glossary.json"), "utf8"));

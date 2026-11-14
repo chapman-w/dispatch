@@ -1,0 +1,32 @@
+# Fetches the 14 feeds and clusters them every morning, then commits the result to pipeline/inbox/.
+# The daily editor routine runs in a sandbox whose network policy blocks news sites, so it reads
+# this file instead of fetching. GitHub's runners have open internet, and this is free.
+name: fetch
+on:
+  schedule:
+    - cron: "0 5 * * *"     # 05:00 UTC, half an hour before the editor routine
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Fetch and cluster
+        run: |
+          cd pipeline
+          node fetch.mjs --hours 30
+          node cluster.mjs --top 40
+          mkdir -p inbox && cp out/clusters.json inbox/clusters.json
+          node -e 'const c=require("./inbox/clusters.json");console.log(c.clusters.length,"clusters, fetched",c.fetchedAt);if(!c.clusters.length)process.exit(1)'
+      - name: Commit
+        run: |
+          git config user.name "dispatch-fetch[bot]"
+          git config user.email "dispatch-fetch[bot]@users.noreply.github.com"
+          git add pipeline/inbox/clusters.json
+          git diff --cached --quiet || (git commit -m "Clusters for $(date -u +%F) [skip ci]" && git push)

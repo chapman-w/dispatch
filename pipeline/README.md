@@ -30,10 +30,11 @@ The app checks `editions.json` about 2.5 seconds after opening (and whenever it 
 
 The daily writer is a **Claude Code routine**: a scheduled cloud session that runs on the Claude plan, so there is no API key and no per-call bill. Its prompt is short because the rules live in this repo:
 
-1. `cd pipeline && npm ci --omit=dev && node prepare.mjs` fetches, clusters, snapshots the sources and prints the editor's brief.
-2. The session writes `editions/<date>.mjs` following `EDITOR.md`.
-3. `node build.mjs` verifies and embeds. If it fails, the session fixes the edition or gives up (`.rejected`), and nothing is published.
-4. It commits and pushes to `main`. The `pages` workflow then publishes `editions.json`.
+1. The `fetch` GitHub Action (05:00 UTC) fetches and clusters the feeds and commits `pipeline/inbox/clusters.json`, because the routine's sandbox can't reach the news sites.
+2. `cd pipeline && npm ci --omit=dev && node prepare.mjs` uses a live fetch if it works, else the inbox file (if under 20h old), snapshots the sources and prints the editor's brief. With no clusters it prints STOP and exits 3.
+3. The session writes `editions/<date>.mjs` following `EDITOR.md`.
+4. `node build.mjs` verifies and embeds. If it fails, the session fixes the edition or gives up (`.rejected`), and nothing is published.
+5. It commits and pushes to `main`. The `pages` workflow then publishes `editions.json`.
 
 `write.mjs` is the API-key alternative (about $0.15-0.25 a day on Opus 5.5) and is kept for when a key is wanted; the SDK is an optional dependency.
 
