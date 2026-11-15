@@ -1,47 +1,463 @@
 {
- "fetchedAt": "2026-11-14T18:33:30.708Z",
+ "fetchedAt": "2026-11-15T12:20:06.514Z",
  "clusters": [
   {
    "rank": 1,
-   "score": 108.5,
+   "score": 150.32,
+   "tier": "major",
    "sources": [
     "BBC",
-    "Africanews",
-    "RFI",
+    "Financial Times",
     "France 24",
     "Guardian",
-    "PBS NewsHour",
     "The Hindu",
-    "Sky News",
-    "Japan Times",
-    "DW",
-    "New York Times"
+    "Japan Times"
    ],
-   "count": 13,
-   "newestHoursAgo": 2.2,
+   "countries": [
+    "UK",
+    "France",
+    "India",
+    "Japan"
+   ],
+   "count": 8,
+   "recent12": 2,
+   "newestHoursAgo": 0.1,
    "keywords": [
-    "microsoft",
-    "outage",
-    "servic",
-    "global",
-    "restor",
-    "fully"
+    "spacex",
+    "catch",
+    "starship",
+    "rocket",
+    "return",
+    "first-eve"
    ],
    "entities": [
-    "microsoft",
-    "outlook",
-    "teams",
-    "australia"
+    "spacex",
+    "starship",
+    "texas",
+    "earth",
+    "saturday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-14T06:42:27.000Z"
+     "published": "2026-11-14T22:09:40.000Z"
     },
+    {
+     "title": "SpaceX catches returning Starship rocket in breakthrough for Musk",
+     "summary": "Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars",
+     "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-14T22:33:56.000Z"
+    },
+    {
+     "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
+     "summary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
+     "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+     "source": "France 24",
+     "published": "2026-11-14T20:51:24.000Z"
+    },
+    {
+     "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+     "summary": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the ship itself coming safely back down to earth. Instead, an unspecified problem forced the company to abort recovery of the booster, which was diverted from its return path and crashed down into the Gulf of Mexico. Analysis by journalist Frédéric Castel, based in Bosa Chica, Texas, USA.",
+     "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
+     "source": "France 24",
+     "published": "2026-11-14T17:33:37.000Z"
+    },
+    {
+     "title": "SpaceX makes rocketry history by recapturing massive reusable rocketship",
+     "summary": "After failing to catch a booster yesterday, SpaceX managed to recapture its massive reusable rocketship, \"Starship\" for the first time. Smaller previous models have successfully relanded but they require heavy legs and aren't fully reusable. Story by Daniel Quinlan.",
+     "url": "https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship",
+     "source": "France 24",
+     "published": "2026-11-15T09:42:55.000Z"
+    },
+    {
+     "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+     "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+     "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+     "source": "Guardian",
+     "published": "2026-11-14T22:35:06.000Z"
+    },
+    {
+     "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+     "summary": "Starship returned from orbit and was caught by the “chopstick arms” at SpaceX’s Starbase launch pad in Texas, in a milestone for fully reusable rockets",
+     "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T12:11:57.000Z"
+    },
+    {
+     "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+     "summary": "The feat marked a milestone in the space industry's decadeslong pursuit of fully reusable rocket systems.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/spacex-first-spaceship-catch/",
+     "source": "Japan Times",
+     "published": "2026-11-14T23:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "score": 120.69,
+   "tier": "major",
+   "sources": [
+    "France 24",
+    "Financial Times",
+    "Japan Times",
+    "Guardian",
+    "The Hindu"
+   ],
+   "countries": [
+    "France",
+    "UK",
+    "Japan",
+    "India"
+   ],
+   "count": 6,
+   "recent12": 6,
+   "newestHoursAgo": 0.1,
+   "keywords": [
+    "bahrain",
+    "iran",
+    "attack",
+    "base",
+    "iranian",
+    "gulf"
+   ],
+   "entities": [
+    "iran",
+    "bahrain",
+    "iranian",
+    "september",
+    "gulf"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
+     "summary": "Bahrain says it has intercepted two Iranian barrages this week after months of relative calm",
+     "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T10:50:05.000Z"
+    },
+    {
+     "title": "Iran claims attack on US military airbase in Bahrain",
+     "summary": "Iranian military confirmed on Sunday an attack on a US military base in Bahrain, in its second targeting the Middle Eastern country in the space of three days. Bahrain's military said it had intercepted several Iranian attacks, with the foreign ministry confirming its air defence systems had shot down Iranian drones, preventing them from reaching their intended targets.",
+     "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+     "source": "France 24",
+     "published": "2026-11-15T09:57:35.000Z"
+    },
+    {
+     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+     "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet I mentioned earlier the withdrawal of Saudi-backed Yemeni government forces from the areas around Bab el-Mandeb where they’ve been attempting to stave off the Houthis. A lightning-strike offensive back in September saw the Houthis sweep almost the entire Red Sea coast and almost seize control of the critical Red Sea strait, which has become another chokepoint in the flow of oil and and energy supplies from Gulf producers. The Southern Armed Forces announce the implementation of a redeployment ‌operation for ",
+     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "source": "Guardian",
+     "published": "2026-11-15T12:11:19.000Z"
+    },
+    {
+     "title": "Sirens sound in Bahrain as Iran’s Guards claim drone attack",
+     "summary": "Bahrain, ⁠home to ⁠the U.S. Navy’s Fifth Fleet, urged citizens and ​residents to ‌remain calm and proceed to the nearest safe location, ‌its Interior Ministry ​said",
+     "url": "https://www.thehindu.com/news/international/bahrain-interior-ministry-potential-threats-us-navys-fifth-fleet-attack-on-november-15/article71704092.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T05:39:39.000Z"
+    },
+    {
+     "title": "Iran strikes Bahrain base, repeats path to U.S. deal remains open",
+     "summary": "The strike on Bahrain is the first since early September when Iranian drones also targeted a U.S. base in the UAE.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-base-us-deal/",
+     "source": "Japan Times",
+     "published": "2026-11-15T09:49:00.000Z"
+    },
+    {
+     "title": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base",
+     "summary": "Iran's Revolutionary Guard Corps said it had attacked a U.S. military base in Bahrain in retaliation for \"hostile U.S. actions.\"",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-us-attack/",
+     "source": "Japan Times",
+     "published": "2026-11-15T06:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "score": 92.66,
+   "tier": "soft",
+   "sources": [
+    "BBC",
+    "Financial Times",
+    "DW",
+    "Sky News",
+    "France 24",
+    "Euronews",
+    "RFI",
+    "The Hindu",
+    "PBS NewsHour"
+   ],
+   "countries": [
+    "UK",
+    "Germany",
+    "France",
+    "EU",
+    "India",
+    "US"
+   ],
+   "count": 10,
+   "recent12": 2,
+   "newestHoursAgo": 0.1,
+   "keywords": [
+    "nato",
+    "zelenskyy",
+    "ukraine",
+    "membershi",
+    "donba",
+    "float"
+   ],
+   "entities": [
+    "nato",
+    "ukraine",
+    "russia",
+    "donbas",
+    "zelenskyy",
+    "kyiv",
+    "ukrainian",
+    "moscow"
+   ],
+   "soft": true,
+   "items": [
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-14T22:37:25.000Z"
+    },
+    {
+     "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+     "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
+     "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-14T11:41:15.000Z"
+    },
+    {
+     "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+     "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
+     "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-14T11:40:00.000Z"
+    },
+    {
+     "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+     "summary": "European leaders have stressed that decisions about the continent's security must be made by Europeans themselves, warning against allowing Russia to dictate the terms of a new security order or negotiate NATO's future.",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
+     "source": "PBS NewsHour",
+     "published": "2026-11-14T20:23:29.000Z"
+    },
+    {
+     "title": "Will Ukraine make territorial concessions for NATO membership?",
+     "summary": "The United States suggested Ukraine make territorial concessions in exchange for a NATO membership, according to Volodymyr Zelensky. The Ukrainian president also claims that Russia has rejected an energy truce. This week’s US-mediated negotiations did not result in any tangible progress. Story by Simon Moritz.",
+     "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
+     "source": "France 24",
+     "published": "2026-11-15T12:14:54.000Z"
+    },
+    {
+     "title": "Ukraine's relationship with NATO 'back on the table': Zelensky",
+     "summary": "Washington suggested Kyiv cede land to Moscow in exchange for joining NATO, President Volodymyr Zelensky said in comments released Saturday, saying his country's relationship with the Western alliance is \"back on the agenda.\"",
+     "url": "https://www.rfi.fr/en/international/20261114-ukraine-s-relationship-with-nato-back-on-the-table-zelensky",
+     "source": "RFI",
+     "published": "2026-11-14T16:12:40.000Z"
+    },
+    {
+     "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+     "summary": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said.",
+     "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
+     "source": "Sky News",
+     "published": "2026-11-14T13:12:00.000Z"
+    },
+    {
+     "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
+     "summary": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country.",
+     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+     "source": "Euronews",
+     "published": "2026-11-14T10:35:08.000Z"
+    },
+    {
+     "title": "U.S. suggested Kyiv cede land to Russia in exchange for joining NATO, says Zelenskyy",
+     "summary": "President Volodymyr Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign",
+     "url": "https://www.thehindu.com/news/international/us-suggested-kyiv-cede-land-to-russia-in-exchange-for-joining-nato-says-zelenskyy/article71704053.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T06:25:16.000Z"
+    },
+    {
+     "title": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
+     "summary": "Volodymyr Zelensky said Russia had rejected a ceasefire on energy targets at talks in Abu Dhabi, as Moscow was “betting everything” on this winter’s campaign",
+     "url": "https://www.thehindu.com/news/international/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky/article71701653.ece",
+     "source": "The Hindu",
+     "published": "2026-11-14T12:37:48.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "score": 82.24,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "RFI",
+    "Euronews",
+    "The Hindu"
+   ],
+   "countries": [
+    "France",
+    "EU",
+    "India"
+   ],
+   "count": 4,
+   "recent12": 4,
+   "newestHoursAgo": 2.3,
+   "keywords": [
+    "cape",
+    "verde",
+    "president",
+    "incumbent",
+    "poll",
+    "favour"
+   ],
+   "entities": [
+    "cape verde",
+    "african",
+    "jose maria neves"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Cape Verde could make election history with first female president",
+     "summary": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent Jose Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.",
+     "url": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+     "source": "France 24",
+     "published": "2026-11-15T07:56:14.000Z"
+    },
+    {
+     "title": "Cape Verde votes for president, with incumbent favoured to win",
+     "summary": "Polling stations have opened in Cape Verde for a presidential election with incumbent Jose Maria Neves favoured to win a second term as head of state of the west African archipelago renowned for its democratic stability. He is up against the country's first ever woman candidate Joana Rosa Amado, among other contenders.",
+     "url": "https://www.rfi.fr/en/africa/20261115-cape-verde-votes-for-president-with-incumbent-favoured-to-win",
+     "source": "RFI",
+     "published": "2026-11-15T10:01:40.000Z"
+    },
+    {
+     "title": "Cape Verde heads to the polls in presidential election",
+     "summary": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+     "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+     "source": "Euronews",
+     "published": "2026-11-15T09:45:23.000Z"
+    },
+    {
+     "title": "Cape Verde could elect first woman President since gaining independence in 1975",
+     "summary": "Six candidates are competing, with a runoff scheduled for Nov. 29 if no candidate receives more than half the votes",
+     "url": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T06:13:07.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "score": 78.81,
+   "tier": "significant",
+   "sources": [
+    "RFI",
+    "The Hindu",
+    "Africanews",
+    "New York Times"
+   ],
+   "countries": [
+    "France",
+    "India",
+    "Africa",
+    "US"
+   ],
+   "count": 4,
+   "recent12": 1,
+   "newestHoursAgo": 3.4,
+   "keywords": [
+    "sudan",
+    "south",
+    "postpon",
+    "february",
+    "election",
+    "national"
+   ],
+   "entities": [
+    "south sudan",
+    "december",
+    "february the"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+     "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+     "source": "New York Times",
+     "published": "2026-11-14T16:51:55.000Z"
+    },
+    {
+     "title": "South Sudan postpones first national elections until February",
+     "summary": "South Sudan, the world's newest country, on Saturday postponed its first national elections from December to February amid growing ethnic and political battles.",
+     "url": "https://www.rfi.fr/en/africa/20261114-south-sudan-postpones-first-national-elections-until-february",
+     "source": "RFI",
+     "published": "2026-11-14T09:00:26.000Z"
+    },
+    {
+     "title": "South Sudan postpones first national elections until February",
+     "summary": "The legislative and presidential elections had been scheduled for December 22, after already being delayed several times. The United Nations had warned that a vote could set off widespread conflict",
+     "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
+     "source": "The Hindu",
+     "published": "2026-11-14T09:10:07.000Z"
+    },
+    {
+     "title": "South Sudan postpones first general election from December to February",
+     "summary": "The elections commission says this will allow for the implementation of additional processes including distribution of registration materials and civic education.",
+     "url": "http://www.africanews.com/2026/11/15/south-sudan-postpones-first-general-election-from-december-to-february/",
+     "source": "Africanews",
+     "published": "2026-11-15T08:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "score": 77.44,
+   "tier": "major",
+   "sources": [
+    "PBS NewsHour",
+    "The Hindu",
+    "Sky News",
+    "DW",
+    "New York Times",
+    "Africanews"
+   ],
+   "countries": [
+    "US",
+    "India",
+    "UK",
+    "Germany",
+    "Africa"
+   ],
+   "count": 7,
+   "recent12": 0,
+   "newestHoursAgo": 19.9,
+   "keywords": [
+    "microsoft",
+    "outage",
+    "servic",
+    "restor",
+    "global",
+    "all"
+   ],
+   "entities": [
+    "microsoft"
+   ],
+   "soft": false,
+   "items": [
     {
      "title": "Microsoft says services fully restored after global outage",
      "summary": "The outage affected governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had impacted some of their operations.",
@@ -62,34 +478,6 @@
      "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
      "source": "New York Times",
      "published": "2026-11-14T13:15:55.000Z"
-    },
-    {
-     "title": "Global Microsoft outage knocks out Outlook and other services",
-     "summary": "Microsoft’s Outlook email service has been down since late on Thursday, disrupting businesses and government agencies in 74 countries and territories. On Friday the company said the outage was caused by a heavy load on its infrastructure, rather than by malicious activity.",
-     "url": "https://www.rfi.fr/en/science-and-technology/20261113-global-microsoft-outage-knocks-out-outlook-and-other-services",
-     "source": "RFI",
-     "published": "2026-11-13T12:34:23.000Z"
-    },
-    {
-     "title": "Microsoft's widespread outages caused global chaos, including in the healthcasre industry",
-     "summary": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson explains.",
-     "url": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry",
-     "source": "France 24",
-     "published": "2026-11-14T11:07:33.000Z"
-    },
-    {
-     "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
-     "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. Conti",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-     "source": "Guardian",
-     "published": "2026-11-14T06:19:04.000Z"
-    },
-    {
-     "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
-     "summary": "Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue What caused the outage and when will it be fixed? Microsoft outage hits UK hospitals, GPs, schools and police Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. The company said the outage was a “technical issue” not related to cyber-attacks or AI agents, and that it continued t",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "Guardian",
-     "published": "2026-11-13T17:41:15.000Z"
     },
     {
      "title": "Microsoft says services fully restored after hourslong global outage",
@@ -118,60 +506,282 @@
      "url": "http://www.africanews.com/2026/11/14/microsoft-apologises-for-global-outage-and-rules-out-cyberattack/",
      "source": "Africanews",
      "published": "2026-11-14T14:34:21.000Z"
-    },
-    {
-     "title": "Microsoft says services fully restored after outage roiled world",
-     "summary": "Access has been fully restored to itd flagship software, ending an outage that paralyzed government offices, traders and businesses around the world.",
-     "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/",
-     "source": "Japan Times",
-     "published": "2026-11-14T04:53:00.000Z"
     }
    ]
   },
   {
-   "rank": 2,
-   "score": 52.86,
+   "rank": 7,
+   "score": 66.95,
+   "tier": "significant",
    "sources": [
     "BBC",
-    "Guardian",
-    "France 24",
-    "Africanews",
-    "The Hindu"
+    "The Hindu",
+    "France 24"
    ],
-   "count": 7,
-   "newestHoursAgo": 1.4,
+   "countries": [
+    "UK",
+    "India",
+    "France"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 1.2,
    "keywords": [
-    "ground",
-    "stop",
-    "flight",
-    "faa",
-    "nationwid",
-    "resume"
+    "church",
+    "jordan",
+    "sentenc",
+    "men",
+    "death",
+    "attack"
    ],
    "entities": [
-    "faa",
-    "federal aviation administration",
-    "friday",
-    "thousands",
-    "united states",
-    "trump"
+    "jordan",
+    "greek orthodox"
    ],
    "soft": false,
    "items": [
     {
-     "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-     "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-     "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-14T01:47:36.000Z"
+     "published": "2026-11-15T11:06:32.000Z"
     },
     {
-     "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-     "summary": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed outdated air traffic communications equipment, and said that there was no evidence of a cyber attack. The airspace is now reopened and flights have resumed.",
-     "url": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+     "title": "Three sentenced to death over Jordan church attack",
+     "summary": "A Jordanian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
+     "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
      "source": "France 24",
-     "published": "2026-11-14T10:14:09.000Z"
+     "published": "2026-11-15T08:53:39.000Z"
     },
+    {
+     "title": "Jordan sentences three men to death over church attack",
+     "summary": "Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in Hammoud village, in Jordan's Karak governorate on October 23",
+     "url": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T09:00:51.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "score": 60.31,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "RFI",
+    "Japan Times"
+   ],
+   "countries": [
+    "France",
+    "Japan"
+   ],
+   "count": 4,
+   "recent12": 3,
+   "newestHoursAgo": 0.2,
+   "keywords": [
+    "francopho",
+    "tension",
+    "summit",
+    "open",
+    "overshado",
+    "cambodia"
+   ],
+   "entities": [
+    "francophonie",
+    "francophone",
+    "cambodia",
+    "phnom penh",
+    "rwanda",
+    "oif",
+    "democratic republic",
+    "congo"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Francophone summit opens in Cambodia, overshadowed by tensions in Africa",
+     "summary": "The 20th Francophonie Summit opened on Sunday in Phnom Penh, Cambodia, overshadowed by a high-stakes leadership dispute. The International Organisation of the Francophonie is set to elect its next secretary-general on Monday for a four-year term, but escalating friction between Rwanda, which has led the OIF for eight years, and the Democratic Republic of Congo has thrown the summit into crisis. Details by Liza Kaminov.",
+     "url": "https://www.france24.com/en/video/20261115-francophone-summit-opens-in-cambodia-overshadowed-by-tensions-in-africa",
+     "source": "France 24",
+     "published": "2026-11-15T12:06:21.000Z"
+    },
+    {
+     "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
+     "summary": "Phnom Penh is hosting the 20th Francophonie summit, which opens on 15 November. But with tensions with Thailand rising and tourism in decline, the summit comes at a challenging time for Cambodia.",
+     "url": "https://www.rfi.fr/en/international/20261115-tensions-and-economic-turbulence-in-cambodia-as-it-hosts-francophonie-summit",
+     "source": "RFI",
+     "published": "2026-11-15T08:33:13.000Z"
+    },
+    {
+     "title": "Rwanda-DRC tensions threaten to overshadow Francophonie election",
+     "summary": "As the International Organisation of La Francophonie prepares to choose its leader for the next four years, the conflict between Democratic Republic of Congo and Rwanda, alongside criticism of incumbent Louise Mushikiwabo's record, is making for an unusually tense race.",
+     "url": "https://www.rfi.fr/en/africa/20261114-rwanda-drc-tensions-threaten-to-overshadow-francophonie-election",
+     "source": "RFI",
+     "published": "2026-11-14T08:14:15.000Z"
+    },
+    {
+     "title": "Francophone summit opens with Congo-Rwanda clash",
+     "summary": "The Organisation Internationale de la Francophonie (OIF) gathers around 90 states and nations including 53 full members.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/politics/francophone-summit-congo-rwanda/",
+     "source": "Japan Times",
+     "published": "2026-11-15T07:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "score": 56.94,
+   "tier": "significant",
+   "sources": [
+    "BBC",
+    "The Hindu",
+    "New York Times"
+   ],
+   "countries": [
+    "UK",
+    "India",
+    "US"
+   ],
+   "count": 3,
+   "recent12": 1,
+   "newestHoursAgo": 5.7,
+   "keywords": [
+    "ebola",
+    "outbreak",
+    "congo",
+    "epicenter",
+    "mother",
+    "aid"
+   ],
+   "entities": [
+    "congo",
+    "ebola"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+     "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-15T00:06:55.000Z"
+    },
+    {
+     "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+     "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
+     "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+     "source": "New York Times",
+     "published": "2026-11-14T15:43:16.000Z"
+    },
+    {
+     "title": "Ebola outbreak remains out of control in Congo six months into response",
+     "summary": "The Ebola outbreak is the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016",
+     "url": "https://www.thehindu.com/news/international/ebola-outbreak-remains-out-of-control-in-congo-six-months-into-response/article71704179.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T06:35:22.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "score": 56.62,
+   "tier": "significant",
+   "sources": [
+    "DW",
+    "Guardian",
+    "Financial Times"
+   ],
+   "countries": [
+    "Germany",
+    "UK"
+   ],
+   "count": 4,
+   "recent12": 4,
+   "newestHoursAgo": 5.8,
+   "keywords": [
+    "china",
+    "summit",
+    "apec",
+    "shenzhen",
+    "beij",
+    "donald"
+   ],
+   "entities": [
+    "china",
+    "donald trump",
+    "shenzhen",
+    "beijing",
+    "jinping",
+    "vladimir putin",
+    "asia-pacific economic cooperation",
+    "apec"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+     "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
+     "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-15T06:31:00.000Z"
+    },
+    {
+     "title": "The world according to China",
+     "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+     "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T03:00:02.000Z"
+    },
+    {
+     "title": "World leaders head to Asia for back-to-back diplomatic summits",
+     "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US. Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections . Continue rea",
+     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+     "source": "Guardian",
+     "published": "2026-11-15T04:00:02.000Z"
+    },
+    {
+     "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+     "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. The Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribut",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+     "source": "Guardian",
+     "published": "2026-11-15T06:22:32.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "score": 55.97,
+   "tier": "significant",
+   "sources": [
+    "Guardian",
+    "Euronews",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "EU",
+    "India"
+   ],
+   "count": 5,
+   "recent12": 2,
+   "newestHoursAgo": 3.4,
+   "keywords": [
+    "faa",
+    "stop",
+    "ground",
+    "flight",
+    "overload",
+    "blam"
+   ],
+   "entities": [
+    "faa",
+    "trump",
+    "thousands",
+    "saturday"
+   ],
+   "soft": false,
+   "items": [
     {
      "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
      "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began when a contractor was performing “routine maintenance” at a remote FAA facility to “switch telecommunications lines” from copper wire to fiber optic cable. Continue reading...",
@@ -180,11 +790,18 @@
      "published": "2026-11-14T17:11:18.000Z"
     },
     {
+     "title": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
+     "summary": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
+     "url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+     "source": "Euronews",
+     "published": "2026-11-14T06:56:20.000Z"
+    },
+    {
      "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
      "summary": "Thousands of flights and potentially over a million travellers were affected from coast to coast",
      "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
      "source": "The Hindu",
-     "published": "2026-11-14T06:30:02.000Z"
+     "published": "2026-11-15T08:56:34.000Z"
     },
     {
      "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
@@ -194,50 +811,151 @@
      "published": "2026-11-14T06:29:38.000Z"
     },
     {
-     "title": "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
-     "summary": "Disruption not due to a cyberattack or a sweeping Microsoft outage, top officials said; the incident marked only the second time such an alert was given in U.S. airspace since the 9/11 attacks",
-     "url": "https://www.thehindu.com/news/international/all-departing-us-flights-grounded-due-to-communication-outage/article71700667.ece",
+     "title": "U.S. air travel should recover from ground stop by end of November 15, FAA says",
+     "summary": "New technology being added to the nation's air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said",
+     "url": "https://www.thehindu.com/news/international/us-air-travel-should-recover-from-ground-stop-by-end-of-november-15-faa-says/article71703985.ece",
      "source": "The Hindu",
-     "published": "2026-11-14T02:41:10.000Z"
-    },
-    {
-     "title": "United States nationwide ground stop lifted after longest shutdown since 2001",
-     "summary": "The over four-hour stoppage on Friday brought all air travel to a halt across the country and stranded tens of thousands of passengers.",
-     "url": "http://www.africanews.com/2026/11/14/united-states-nationwide-ground-stop-lifted-after-longest-shutdown-since-2001/",
-     "source": "Africanews",
-     "published": "2026-11-14T09:34:30.000Z"
+     "published": "2026-11-15T02:56:54.000Z"
     }
    ]
   },
   {
-   "rank": 3,
-   "score": 51.05,
+   "rank": 12,
+   "score": 55.55,
+   "tier": "significant",
+   "sources": [
+    "BBC",
+    "Sky News",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 4,
+   "keywords": [
+    "commander",
+    "hama",
+    "senior",
+    "israeli",
+    "gaza",
+    "kill"
+   ],
+   "entities": [
+    "hamas",
+    "israeli"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-15T08:17:41.000Z"
+    },
+    {
+     "title": "Hamas says senior commander killed in Israeli airstrike",
+     "summary": "A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group.",
+     "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+     "source": "Sky News",
+     "published": "2026-11-15T05:16:00.000Z"
+    },
+    {
+     "title": "Israeli military says it struck senior armed Hamas commander",
+     "summary": "Hamas later confirmed his ‌death and said his ‌funeral ⁠would be held on Sunday (November 15) ⁠afternoon in Khan Younis in the southern Gaza Strip",
+     "url": "https://www.thehindu.com/news/international/israeli-military-says-it-struck-senior-armed-hamas-commander/article71704070.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T04:02:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "score": 47.76,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "The Hindu",
+    "Guardian"
+   ],
+   "countries": [
+    "France",
+    "India",
+    "UK"
+   ],
+   "count": 3,
+   "recent12": 1,
+   "newestHoursAgo": 7,
+   "keywords": [
+    "eisenkot",
+    "netanyahu",
+    "israeli",
+    "dismiss",
+    "call",
+    "unity"
+   ],
+   "entities": [
+    "israeli",
+    "eisenkot",
+    "netanyahu",
+    "gadi eisenkot",
+    "benjamin netanyahu"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+     "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration.",
+     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+     "source": "France 24",
+     "published": "2026-11-14T20:35:22.000Z"
+    },
+    {
+     "title": "Benjamin Netanyahu calls for Israeli unity government, Eisenkot dismisses ‘tricks’",
+     "summary": "The latest exchange comes as Mr,. Eisenkot is in the midst of negotiations to form a government, after he was tapped for the post of premier on Nov. 15, 2026",
+     "url": "https://www.thehindu.com/news/international/benjamin-netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks/article71704005.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T05:21:13.000Z"
+    },
+    {
+     "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+     "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli",
+     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+     "source": "Guardian",
+     "published": "2026-11-14T11:11:03.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "score": 39.94,
+   "tier": "minor",
    "sources": [
     "DW",
-    "France 24",
-    "RFI",
-    "Euronews",
-    "Africanews"
+    "RFI"
    ],
-   "count": 5,
-   "newestHoursAgo": 1.2,
+   "countries": [
+    "Germany",
+    "France"
+   ],
+   "count": 3,
+   "recent12": 1,
+   "newestHoursAgo": 1.7,
    "keywords": [
     "cop31",
     "climate",
     "turkey",
-    "plastic",
-    "trojan",
-    "horse"
+    "green",
+    "protester",
+    "urge"
    ],
    "entities": [
     "cop",
     "turkey",
-    "antalya",
-    "six-metre trojan horse",
-    "trojan horse",
-    "greenpeace international",
-    "created",
-    "danish"
+    "antalya"
    ],
    "soft": false,
    "items": [
@@ -249,13 +967,6 @@
      "published": "2026-11-14T17:19:00.000Z"
     },
     {
-     "title": "'Climate action is alive': Triumphant Democrats attend COP31 summit shunned by Trump",
-     "summary": "A delegation of 18 Democratic lawmakers arrived at the COP31 climate summit in Turkey on Saturday to reaffirm the US commitment to tackling global warming following their sweeping midterm election victory.",
-     "url": "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump",
-     "source": "France 24",
-     "published": "2026-11-14T10:25:22.000Z"
-    },
-    {
      "title": "Turkey talks green at COP31 while cracking down on activists",
      "summary": "As the Mediterranean resort city of Antalya co-hosts the COP31 climate conference with Australia, Turkish President Recep Tayyip Erdogan is using the global spotlight to promote his country’s climate ambitions. But his green image is being challenged at home by environmentalists, who say they face an intensifying government crackdown.",
      "url": "https://www.rfi.fr/en/podcasts/international-report/20261114-turkey-talks-green-at-cop31-while-cracking-down-on-activists",
@@ -263,48 +974,306 @@
      "published": "2026-11-14T14:09:47.000Z"
     },
     {
-     "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
-     "summary": "A giant Trojan Horse overflowing with plastic waste has appeared in Antalya as Greenpeace International staged a striking environmental protest during the COP31 climate summit. Created with Danish artist Thomas Dambo, the Greenpeace installation warns of the environmental impact of plastics.",
-     "url": "https://www.euronews.com/video/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31",
-     "source": "Euronews",
-     "published": "2026-11-13T13:36:10.000Z"
-    },
-    {
-     "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
-     "summary": "A giant Trojan Horse overflowing with plastic waste has appeared in Antalya as Greenpeace International staged a striking environmental protest during the COP31 climate summit. Created with Danish artist Thomas Dambo, the Greenpeace installation warns of the environmental impact of plastics.",
-     "url": "http://www.africanews.com/2026/11/13/turkey-six-metre-trojan-horse-spills-plastic-waste-at-cop31/",
-     "source": "Africanews",
-     "published": "2026-11-13T13:36:16.000Z"
+     "title": "Rising heat puts Africa’s mothers and children in danger",
+     "summary": "As world leaders meet at the COP31 United Nations climate summit in Antalya, Turkey, health experts are warning that women and children in Africa are bearing the brunt of rising temperatures, and that the continent’s health systems are not equipped to cope.",
+     "url": "https://www.rfi.fr/en/environment/20261115-rising-heat-puts-africa-s-mothers-and-children-in-danger-cop31-kenya-climate-change",
+     "source": "RFI",
+     "published": "2026-11-15T10:38:51.000Z"
     }
    ]
   },
   {
-   "rank": 4,
-   "score": 49.01,
+   "rank": 15,
+   "score": 38.98,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "Financial Times"
+   ],
+   "countries": [
+    "France",
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 1.3,
+   "keywords": [
+    "nvidia",
+    "huang",
+    "scandal",
+    "jensen",
+    "chip",
+    "fallout"
+   ],
+   "entities": [
+    "nvidia",
+    "jensen huang",
+    "chinese"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+     "summary": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
+     "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T11:00:04.000Z"
+    },
+    {
+     "title": "Washington divided over how to deal with fallout from the Nvidia case",
+     "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to blacklist a Singapore company at the heart of the scandal, but the Commerce Department didn't act. Megaspeed was run by suspected Chinese spy Alice Huang, who reportedly had an affair with Jensen Huang. Details by Peter O'Brien.",
+     "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+     "source": "France 24",
+     "published": "2026-11-14T17:21:26.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "score": 38.59,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Africanews"
+   ],
+   "countries": [
+    "UK",
+    "Africa"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 1.4,
+   "keywords": [
+    "pope",
+    "suffer",
+    "visit",
+    "leo",
+    "and",
+    "denounc"
+   ],
+   "entities": [
+    "pope leo"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+     "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+     "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-15T09:57:25.000Z"
+    },
+    {
+     "title": "Pope Leo denounces suffering of African enslaved people during Peru visit",
+     "summary": "He made the comment during a visit to the historic Afro-Peruvian city of Zaña, a UNESCO-recognised memorial site for slavery.",
+     "url": "http://www.africanews.com/2026/11/15/pope-leo-denounces-suffering-of-african-enslaved-people-during-peru-visit/",
+     "source": "Africanews",
+     "published": "2026-11-15T10:58:11.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "score": 32.4,
+   "tier": "soft",
+   "sources": [
+    "BBC",
+    "France 24",
+    "Guardian",
+    "New York Times"
+   ],
+   "countries": [
+    "UK",
+    "France",
+    "US"
+   ],
+   "count": 6,
+   "recent12": 2,
+   "newestHoursAgo": 1.9,
+   "keywords": [
+    "eurovisio",
+    "contest",
+    "song",
+    "asia",
+    "bangkok",
+    "win"
+   ],
+   "entities": [
+    "bangkok",
+    "eurovision",
+    "asia",
+    "philippines",
+    "sobra-sobra",
+    "carmelle",
+    "asian",
+    "eurovision song contest"
+   ],
+   "soft": true,
+   "items": [
+    {
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-14T18:17:58.000Z"
+    },
+    {
+     "title": "Asian love ballads test Eurovision’s winning song formula.",
+     "summary": "While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.",
+     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
+     "source": "New York Times",
+     "published": "2026-11-14T14:24:17.000Z"
+    },
+    {
+     "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+     "summary": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.",
+     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+     "source": "New York Times",
+     "published": "2026-11-14T15:27:30.000Z"
+    },
+    {
+     "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+     "summary": "China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.",
+     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
+     "source": "New York Times",
+     "published": "2026-11-15T03:54:18.000Z"
+    },
+    {
+     "title": "Philippine star Carmelle wins first Asian edition of Eurovision song contest",
+     "summary": "The Philippines has won the first Asian edition of the Eurovision Song Contest. The Filipino singer beat ten other acts to take the title in Bangkok, with a song celebrating women's empowerment. A taste of the winning song with Jack Pownall.",
+     "url": "https://www.france24.com/en/philippine-star-carmelle-wins-first-asian-edition-of-eurovision-song-contest",
+     "source": "France 24",
+     "published": "2026-11-15T10:26:57.000Z"
+    },
+    {
+     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+     "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+     "source": "Guardian",
+     "published": "2026-11-14T19:01:32.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "score": 31.32,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 9,
+   "keywords": [
+    "golf",
+    "judge",
+    "temporari",
+    "block",
+    "course",
+    "washingto"
+   ],
+   "entities": [
+    "judge",
+    "trump",
+    "washington",
+    "east potomac golf links"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+     "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-15T03:21:04.000Z"
+    },
+    {
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+     "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close on November 15 for 15 months",
+     "url": "https://www.thehindu.com/news/international/judge-temporarily-blocks-trump-from-moving-ahead-on-washington-public-golf-course-redevelopment/article71704032.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T02:54:53.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "score": 31.27,
+   "tier": "minor",
+   "sources": [
+    "Guardian",
+    "Japan Times"
+   ],
+   "countries": [
+    "UK",
+    "Japan"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 3.4,
+   "keywords": [
+    "exam",
+    "cheat",
+    "scorer",
+    "korea",
+    "top",
+    "wrong"
+   ],
+   "entities": [
+    "south korea"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+     "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continu",
+     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+     "source": "Guardian",
+     "published": "2026-11-15T08:56:11.000Z"
+    },
+    {
+     "title": "South Korea probes top exam scorer after AI cheating confession",
+     "summary": "The candidate scored 397.5 out of 400 points in the first round, with only one wrong answer out of 160 questions, sparking cheating accusations.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
+     "source": "Japan Times",
+     "published": "2026-11-15T06:55:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "score": 29.88,
+   "tier": "significant",
    "sources": [
     "BBC",
     "Sky News",
-    "Euronews",
-    "The Hindu",
-    "Japan Times"
+    "Euronews"
    ],
-   "count": 6,
-   "newestHoursAgo": 2.7,
+   "countries": [
+    "UK",
+    "EU"
+   ],
+   "count": 3,
+   "recent12": 0,
+   "newestHoursAgo": 20.4,
    "keywords": [
+    "white",
+    "house",
     "putin",
     "meet",
-    "white",
-    "trump",
-    "house",
-    "china"
+    "china",
+    "trump"
    ],
    "entities": [
-    "putin",
     "trump",
+    "putin",
     "china",
-    "white house",
-    "washington",
-    "shenzhen"
+    "white house"
    ],
    "soft": false,
    "items": [
@@ -328,859 +1297,233 @@
      "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
      "source": "Euronews",
      "published": "2026-11-14T09:00:58.000Z"
-    },
-    {
-     "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-     "summary": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing",
-     "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T04:29:53.000Z"
-    },
-    {
-     "title": "Donald Trump to raise nuclear-arms cuts with Putin, Xi on November 19, White House says",
-     "summary": "Vladimir Putin, Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia-Pacific Economic Cooperation forum in Shenzhen",
-     "url": "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T04:28:56.000Z"
-    },
-    {
-     "title": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit",
-     "summary": "Trump wants to talk about reducing nuclear arsenals and is also set to bring up his war in Iran — but is not expected to discuss the war in Ukraine.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/",
-     "source": "Japan Times",
-     "published": "2026-11-14T00:23:00.000Z"
     }
    ]
   },
   {
-   "rank": 5,
-   "score": 47.75,
+   "rank": 21,
+   "score": 26.9,
+   "tier": "minor",
    "sources": [
-    "BBC",
-    "Euronews",
-    "DW",
-    "France 24",
-    "The Hindu"
-   ],
-   "count": 5,
-   "newestHoursAgo": 5.3,
-   "keywords": [
-    "orlean",
-    "cruise",
-    "ship",
-    "tanker",
-    "mississip",
-    "passenger"
-   ],
-   "entities": [
-    "new orleans",
-    "all",
-    "mississippi",
-    "miracle"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-     "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-13T23:40:45.000Z"
-    },
-    {
-     "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
-     "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
-     "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-13T21:31:00.000Z"
-    },
-    {
-     "title": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
-     "summary": "A portion of the Mississippi River remains closed after a collision between an oil tanker and a riverboat forced a chaotic river rescue in Louisiana. Story by Caitlin Brown.",
-     "url": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans",
-     "source": "France 24",
-     "published": "2026-11-14T13:15:42.000Z"
-    },
-    {
-     "title": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
-     "summary": "According to the Port of New Orleans, all 197 passengers and crew members have been accounted for. \"No critical injuries have been reported,\" it said in a post on social media.",
-     "url": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
-     "source": "Euronews",
-     "published": "2026-11-13T21:04:32.000Z"
-    },
-    {
-     "title": "All passengers, crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
-     "summary": "Tanker owned by subsidiary of Chinese shipbuilder; too early to tell what might have caused the crash, but videos indicate some kind of catastrophic system failure on the vessel, a maritime law expert said",
-     "url": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T02:12:12.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "score": 39.91,
-   "sources": [
-    "RFI",
-    "The Hindu",
-    "New York Times",
-    "Africanews"
-   ],
-   "count": 4,
-   "newestHoursAgo": 1.7,
-   "keywords": [
-    "national",
-    "south",
-    "sudan",
-    "election",
-    "postpon",
-    "february"
-   ],
-   "entities": [
-    "south sudan",
-    "december"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-     "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
-     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-     "source": "New York Times",
-     "published": "2026-11-14T16:51:55.000Z"
-    },
-    {
-     "title": "South Sudan postpones first national elections until February",
-     "summary": "South Sudan, the world's newest country, on Saturday postponed its first national elections from December to February amid growing ethnic and political battles.",
-     "url": "https://www.rfi.fr/en/africa/20261114-south-sudan-postpones-first-national-elections-until-february",
-     "source": "RFI",
-     "published": "2026-11-14T09:00:26.000Z"
-    },
-    {
-     "title": "South Sudan postpones first national elections until February",
-     "summary": "The legislative and presidential elections had been scheduled for December 22, after already being delayed several times. The United Nations had warned that a vote could set off widespread conflict",
-     "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T09:10:07.000Z"
-    },
-    {
-     "title": "South Sudanese start registering to vote ahead of first national elections",
-     "summary": "The voter registration operation runs until 28 November ahead of the polls which have been postponed several times since independence in 2011.",
-     "url": "http://www.africanews.com/2026/11/14/south-sudanese-start-registering-to-vote-ahead-of-first-national-elections/",
-     "source": "Africanews",
-     "published": "2026-11-14T08:03:55.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "score": 37.96,
-   "sources": [
-    "BBC",
-    "France 24",
-    "Euronews",
-    "DW",
-    "Sky News",
-    "Financial Times",
-    "RFI",
-    "The Hindu"
-   ],
-   "count": 8,
-   "newestHoursAgo": 2.3,
-   "keywords": [
-    "nato",
-    "donba",
-    "membershi",
-    "ukraine",
-    "zelenskyy",
-    "zelensky"
-   ],
-   "entities": [
-    "nato",
-    "ukraine",
-    "donbas",
-    "russia",
-    "kyiv",
-    "ukrainian",
-    "zelenskyy",
-    "zelensky"
-   ],
-   "soft": true,
-   "items": [
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T15:15:57.000Z"
-    },
-    {
-     "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-     "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
-     "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-14T11:40:00.000Z"
-    },
-    {
-     "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-     "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
-     "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-14T11:41:15.000Z"
-    },
-    {
-     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-     "summary": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kremlin's bid to change the continent's security architecture could lead to more wars.",
-     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-     "source": "France 24",
-     "published": "2026-11-14T10:30:04.000Z"
-    },
-    {
-     "title": "Ukraine's relationship with NATO 'back on the table': Zelensky",
-     "summary": "Washington suggested Kyiv cede land to Moscow in exchange for joining NATO, President Volodymyr Zelensky said in comments released Saturday, saying his country's relationship with the Western alliance is \"back on the agenda.\"",
-     "url": "https://www.rfi.fr/en/international/20261114-ukraine-s-relationship-with-nato-back-on-the-table-zelensky",
-     "source": "RFI",
-     "published": "2026-11-14T16:12:40.000Z"
-    },
-    {
-     "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
-     "summary": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country.",
-     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
-     "source": "Euronews",
-     "published": "2026-11-14T10:35:08.000Z"
-    },
-    {
-     "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
-     "summary": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said.",
-     "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
-     "source": "Sky News",
-     "published": "2026-11-14T13:12:00.000Z"
-    },
-    {
-     "title": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
-     "summary": "Volodymyr Zelensky said Russia had rejected a ceasefire on energy targets at talks in Abu Dhabi, as Moscow was “betting everything” on this winter’s campaign",
-     "url": "https://www.thehindu.com/news/international/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky/article71701653.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T12:37:48.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "score": 35.92,
-   "sources": [
-    "BBC",
-    "DW",
-    "France 24"
-   ],
-   "count": 4,
-   "newestHoursAgo": 1,
-   "keywords": [
-    "spacex",
-    "starship",
-    "rocket",
-    "booster",
-    "catch",
-    "attempt"
-   ],
-   "entities": [
-    "spacex",
-    "starship",
-    "gulf",
-    "mexico",
-    "elon musk"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Second catch attempt for SpaceX Starship rocket",
-     "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T14:18:41.000Z"
-    },
-    {
-     "title": "SpaceX launches Starship rocket, fails to recover booster",
-     "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
-     "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-14T02:24:00.000Z"
-    },
-    {
-     "title": "SpaceX's Starship encounters problems during 15th test flight",
-     "summary": "Elon Musk’s SpaceX successfully launched its Starship, the world's largest spaceship, into orbit where it should release 15 satellites for its Starlink network. A few minutes after lift off however, the rocket's booster which was meant to return to the pad splashed down in the Gulf of Mexico. Details by Daniel Quinlan.",
-     "url": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
-     "source": "France 24",
-     "published": "2026-11-14T10:21:09.000Z"
-    },
-    {
-     "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
-     "summary": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the ship itself coming safely back down to earth. Instead, an unspecified problem forced the company to abort recovery of the booster, which was diverted from its return path and crashed down into the Gulf of Mexico. Analysis by journalist Frédéric Castel, based in Bosa Chica, Texas, USA.",
-     "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
-     "source": "France 24",
-     "published": "2026-11-14T17:33:37.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "score": 29.94,
-   "sources": [
-    "France 24",
     "The Hindu",
     "Japan Times"
    ],
-   "count": 4,
-   "newestHoursAgo": 1.2,
+   "countries": [
+    "India",
+    "Japan"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 6.6,
    "keywords": [
-    "huang",
-    "nvidia",
-    "ceo",
-    "jensen",
-    "alice",
-    "haa"
+    "statu",
+    "measl",
+    "cas",
+    "los",
+    "highest",
+    "eliminati"
    ],
-   "entities": [
-    "nvidia",
-    "jensen huang",
-    "huang",
-    "megaspeed",
-    "chinese",
-    "alice huang",
-    "peter",
-    "brien"
-   ],
+   "entities": [],
    "soft": false,
    "items": [
     {
-     "title": "Washington divided over how to deal with fallout from the Nvidia case",
-     "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to blacklist a Singapore company at the heart of the scandal, but the Commerce Department didn't act. Megaspeed was run by suspected Chinese spy Alice Huang, who reportedly had an affair with Jensen Huang. Details by Peter O'Brien.",
-     "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
-     "source": "France 24",
-     "published": "2026-11-14T17:21:26.000Z"
-    },
-    {
-     "title": "Can Nvidia survive without tech titan Jensen Huang?",
-     "summary": "The Financial Times says computing giant Nvidia has approached Rene Haas, CEO of British chip designer Arm, in its search for a potential successor to Jensen Huang. Huang resigned after his affair with an alleged Chinese spy. Meanwhile some employees are clamouring for Huang's return – as his fellow tech leader Elon Musk. A sign of Huang's lingering star power, in an industry where so often the fate of each giant company depends on one man. Story by Peter O'Brien.",
-     "url": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
-     "source": "France 24",
-     "published": "2026-11-14T10:20:11.000Z"
-    },
-    {
-     "title": "Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report",
-     "summary": "During the autumn of 2025 and in October 2026, in ‌response to press queries that drew some Nvidia leaders’ attention to his relationship with Megaspeed and Alice ​Huang, Jensen Huang at both times described their interactions as appropriate",
-     "url": "https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece",
+     "title": "U.S. loses measles-free status after continued spread of the disease: report",
+     "summary": "The reported decision by the Americas branch of the ‌World Health Organization comes as the U.S. battles ‌the ⁠highest number of measles cases it has seen ⁠in more than three decades",
+     "url": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
      "source": "The Hindu",
-     "published": "2026-11-14T04:32:18.000Z"
+     "published": "2026-11-15T05:43:52.000Z"
     },
     {
-     "title": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say",
-     "summary": "Nvidia's board said it was in the process of selecting a search firm for the CEO role and had not formally engaged any potential candidates.",
-     "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-arm-ceo-haas-huang/",
+     "title": "U.S. loses measles elimination status as cases break records",
+     "summary": "The CDC has confirmed 5,412 measles cases in 2026, more than double last year's total and the highest number since 1991.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/us-loses-measles-elimination-status/",
      "source": "Japan Times",
-     "published": "2026-11-13T23:30:00.000Z"
+     "published": "2026-11-14T23:54:00.000Z"
     }
    ]
   },
   {
-   "rank": 10,
-   "score": 28.72,
-   "sources": [
-    "France 24",
-    "Africanews",
-    "New York Times"
-   ],
-   "count": 3,
-   "newestHoursAgo": 3.6,
-   "keywords": [
-    "riner",
-    "teddy",
-    "president",
-    "france",
-    "pledg",
-    "unite"
-   ],
-   "entities": [
-    "teddy riner",
-    "france",
-    "riner"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "One of France’s Most Popular Athletes Is Running for President",
-     "summary": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.",
-     "url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
-     "source": "New York Times",
-     "published": "2026-11-13T14:47:23.000Z"
-    },
-    {
-     "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
-     "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks to position himself as an alternative to France's political extremes.",
-     "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
-     "source": "France 24",
-     "published": "2026-11-14T14:57:22.000Z"
-    },
-    {
-     "title": "Teddy Riner announces presidential bid, pledges to unite France",
-     "summary": "In an interview with Le Parisien, Riner said he could not remain silent amid growing social tensions and uncertainty about France's future.",
-     "url": "http://www.africanews.com/2026/11/13/teddy-riner-announces-presidential-bid-pledges-to-unite-france/",
-     "source": "Africanews",
-     "published": "2026-11-13T16:42:32.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 11,
-   "score": 25.68,
-   "sources": [
-    "New York Times",
-    "Guardian",
-    "The Hindu"
-   ],
-   "count": 3,
-   "newestHoursAgo": 7.4,
-   "keywords": [
-    "eisenkot",
-    "netanyahu",
-    "arab",
-    "racist",
-    "israel",
-    "israeli"
-   ],
-   "entities": [
-    "arab",
-    "israeli",
-    "eisenkot",
-    "netanyahu",
-    "israel"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-     "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-     "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-     "source": "New York Times",
-     "published": "2026-11-13T21:50:12.000Z"
-    },
-    {
-     "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-     "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli",
-     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-     "source": "Guardian",
-     "published": "2026-11-14T11:11:03.000Z"
-    },
-    {
-     "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
-     "summary": "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government",
-     "url": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
-     "source": "The Hindu",
-     "published": "2026-11-13T17:09:51.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 12,
-   "score": 22.03,
+   "rank": 22,
+   "score": 24.69,
+   "tier": "minor",
    "sources": [
     "BBC",
-    "New York Times"
+    "Japan Times"
+   ],
+   "countries": [
+    "UK",
+    "Japan"
    ],
    "count": 2,
-   "newestHoursAgo": 4.2,
+   "recent12": 0,
+   "newestHoursAgo": 12.5,
    "keywords": [
-    "eurovisio",
-    "song",
-    "gear",
-    "asia",
-    "finally",
-    "ballad"
+    "spark",
+    "old",
+    "flight",
+    "chao",
+    "disruptio",
+    "telecom"
    ],
-   "entities": [
-    "eurovision",
-    "asia"
-   ],
+   "entities": [],
    "soft": false,
    "items": [
     {
-     "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-     "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-     "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+     "title": "How telecoms upgrade work sparked US flight chaos",
+     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-13T19:01:36.000Z"
+     "published": "2026-11-14T23:11:27.000Z"
     },
     {
-     "title": "Asian love ballads test Eurovision’s winning song formula.",
-     "summary": "While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.",
-     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
-     "source": "New York Times",
-     "published": "2026-11-14T14:24:17.000Z"
+     "title": "Repair of old copper wiring caused U.S. flight disruption, Trump administration says",
+     "summary": "Friday's nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/copper-wiring-us-flight-disruption/",
+     "source": "Japan Times",
+     "published": "2026-11-14T23:53:00.000Z"
     }
    ]
   },
   {
-   "rank": 13,
-   "score": 20.11,
+   "rank": 23,
+   "score": 20.69,
+   "tier": "minor",
    "sources": [
-    "Financial Times",
-    "Guardian"
-   ],
-   "count": 2,
-   "newestHoursAgo": 3,
-   "keywords": [
-    "burnham",
-    "brexit",
-    "think",
-    "constitue",
-    "keen",
-    "brussel"
-   ],
-   "entities": [
-    "burnham",
-    "brexit",
-    "brussels"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Burnham thinks Britain should talk about Brexit — but are his constituents keen?",
-     "summary": "Fresh from a council by-election victory for Labour, Makerfield voters give their views on the prime minister as he heads to Brussels with plans for an initial EU ‘reset’",
-     "url": "https://www.ft.com/content/d8dec32d-0110-49c8-8ab0-9f711a9c79f1",
-     "source": "Financial Times",
-     "published": "2026-11-14T05:00:27.000Z"
-    },
-    {
-     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form closer ties with Brussels, Burnham accused the Conservative party of having “burned all our bridges” with the bloc after Brexit and said a new deal he hopes to secure with the EU next week will “get food prices down” and put more money in the pockets of British exporters. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "source": "Guardian",
-     "published": "2026-11-14T15:34:54.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 14,
-   "score": 19.8,
-   "sources": [
-    "France 24",
     "Euronews"
    ],
-   "count": 2,
-   "newestHoursAgo": 2,
+   "countries": [
+    "EU"
+   ],
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 1.3,
    "keywords": [
-    "ground",
-    "delay",
-    "nationwid",
-    "cancellat",
-    "stop",
-    "exactly"
+    "bulletin",
+    "november",
+    "stori",
+    "entertain",
+    "midday",
+    "important"
    ],
    "entities": [
-    "transport secretary sean duffy"
+    "november",
+    "europe",
+    "business",
+    "entertainment",
+    "politics",
+    "culture",
+    "travel",
+    "midday catch"
    ],
    "soft": false,
    "items": [
+    {
+     "title": "Latest news bulletin | November 15th, 2026 – Midday",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
+     "source": "Euronews",
+     "published": "2026-11-15T11:00:15.000Z"
+    },
+    {
+     "title": "Latest news bulletin | November 14th, 2026 – Midday",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
+     "source": "Euronews",
+     "published": "2026-11-14T11:00:15.000Z"
+    },
+    {
+     "title": "Latest news bulletin | November 14th, 2026 – Evening",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
+     "source": "Euronews",
+     "published": "2026-11-14T17:00:26.000Z"
+    },
+    {
+     "title": "Latest news bulletin | November 15th, 2026 – Morning",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+     "source": "Euronews",
+     "published": "2026-11-15T06:00:32.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "score": 18.42,
+   "tier": "minor",
+   "sources": [
+    "France 24"
+   ],
+   "countries": [
+    "France"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 0.1,
+   "keywords": [
+    "ground",
+    "nationwid",
+    "stop",
+    "exactly",
+    "flight",
+    "persist"
+   ],
+   "entities": [
+    "however"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Air travel issues persist in the US after nationwide ground stop",
+     "summary": "After almost five hours of grounded flights in the US, flights have resumed. However, passengers are still waiting and wading through tough logistics to get to their destinations after massive delays and cancelled flights. Details by Simon Moritz.",
+     "url": "https://www.france24.com/en/air-travel-issues-persist-in-the-us-after-nationwide-ground-stop",
+     "source": "France 24",
+     "published": "2026-11-15T12:12:28.000Z"
+    },
     {
      "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
      "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the incident. Transport Secretary Sean Duffy explained the crisis was due to a failure in ageing telecommunications equipment. What exactly happened? Answers with FRANCE 24 international affairs editor Shirli Sitbon.",
      "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
      "source": "France 24",
      "published": "2026-11-14T16:35:52.000Z"
-    },
-    {
-     "title": "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
-     "summary": "US Transport Secretary Sean Duffy said operations were \"slowly returning to normal\" on Saturday but that further delays and cancellations were likely.",
-     "url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
-     "source": "Euronews",
-     "published": "2026-11-14T06:56:20.000Z"
     }
    ]
   },
   {
-   "rank": 15,
-   "score": 19.71,
+   "rank": 25,
+   "score": 18.36,
+   "tier": "minor",
    "sources": [
     "France 24",
     "RFI"
    ],
-   "count": 2,
-   "newestHoursAgo": 3.6,
-   "keywords": [
-    "francopho",
-    "rwanda",
-    "congo",
-    "tension",
-    "compromis",
-    "rwanda-dr"
-   ],
-   "entities": [
-    "congo",
-    "rwanda",
-    "francophonie"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
-     "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisation. French President Emmanuel Macron urged Rwanda to withdraw its candidate in favour of a compromise choice ahead of Monday's vote.",
-     "url": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise",
-     "source": "France 24",
-     "published": "2026-11-14T14:54:43.000Z"
-    },
-    {
-     "title": "Rwanda-DRC tensions threaten to overshadow Francophonie election",
-     "summary": "As the International Organisation of La Francophonie prepares to choose its leader for the next four years, the conflict between Democratic Republic of Congo and Rwanda, alongside criticism of incumbent Louise Mushikiwabo's record, is making for an unusually tense race.",
-     "url": "https://www.rfi.fr/en/africa/20261114-rwanda-drc-tensions-threaten-to-overshadow-francophonie-election",
-     "source": "RFI",
-     "published": "2026-11-14T08:14:15.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 16,
-   "score": 19.61,
-   "sources": [
-    "PBS NewsHour",
-    "Guardian",
-    "New York Times"
-   ],
-   "count": 3,
-   "newestHoursAgo": 18.7,
-   "keywords": [
-    "lutnick",
-    "nvidia",
-    "howard",
-    "commerce",
-    "secretary",
-    "bessent"
-   ],
-   "entities": [
-    "nvidia",
-    "lutnick",
-    "china",
-    "jensen huang",
-    "howard lutnick"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
-     "summary": "The fallout of Jensen Huang's downfall expanded into a public fight between two of President Trump's top advisers. Treasury Secretary Scott Bessent accused Commerce Secretary Howard Lutnick of failing to prevent China from obtaining Nvidia's most advanced chips. Nick Schifrin looks at the finger-pointing and the ongoing efforts to control advanced technology exports to China.",
-     "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips",
-     "source": "PBS NewsHour",
-     "published": "2026-11-13T23:50:51.000Z"
-    },
-    {
-     "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-     "summary": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
-     "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-     "source": "New York Times",
-     "published": "2026-11-13T14:02:13.000Z"
-    },
-    {
-     "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-     "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China. Continue reading...",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "Guardian",
-     "published": "2026-11-13T19:51:28.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 17,
-   "score": 19.04,
-   "sources": [
-    "PBS NewsHour",
-    "New York Times",
-    "Sky News"
-   ],
-   "count": 3,
-   "newestHoursAgo": 19.8,
-   "keywords": [
-    "team",
-    "represent",
-    "talk",
-    "ukraine",
-    "europe",
-    "waver"
-   ],
-   "entities": [
-    "europe",
-    "ukraine"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
-     "summary": "European Council President Antonio Costa said the continent will be represented by officials from the 27-nation EU bloc and five members of the \"Coalition of the Willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland.",
-     "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
-     "source": "PBS NewsHour",
-     "published": "2026-11-13T18:22:39.000Z"
-    },
-    {
-     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-     "summary": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
-     "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-     "source": "New York Times",
-     "published": "2026-11-13T22:47:13.000Z"
-    },
-    {
-     "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
-     "summary": "British representatives will be part of a team representing Europe in Ukraine peace talks.",
-     "url": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008",
-     "source": "Sky News",
-     "published": "2026-11-13T18:04:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 18,
-   "score": 18.49,
-   "sources": [
-    "France 24",
-    "New York Times"
+   "countries": [
+    "France"
    ],
    "count": 2,
-   "newestHoursAgo": 7.3,
-   "keywords": [
-    "pope",
-    "leo",
-    "chiclayo",
-    "peru",
-    "home",
-    "bishop"
-   ],
-   "entities": [
-    "pope leo",
-    "chiclayo"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
-     "summary": "Leo XIV returned to the city in Peru where he served as bishop for eight years, drawing large crowds who remembered him before he was pope.",
-     "url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
-     "source": "New York Times",
-     "published": "2026-11-13T22:21:04.000Z"
-    },
-    {
-     "title": "Half a million people gather for an open-air mass by Pope Leo in Peru",
-     "summary": "Pope Leo said it was a \"joy to be back\" in his second home of Chiclayo, where he made his name as a bishop. This is the latest stop on his South America tour, the very tour that saw fears of cancellation after the Pope underwent surgery for lung cancer. Story by Vedika Bahl.",
-     "url": "https://www.france24.com/en/half-a-million-people-gather-for-an-open-air-mass-by-pope-leo-in-peru",
-     "source": "France 24",
-     "published": "2026-11-14T11:17:58.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 19,
-   "score": 17.87,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "count": 2,
-   "newestHoursAgo": 6.9,
-   "keywords": [
-    "win",
-    "champions",
-    "south",
-    "france",
-    "thrill",
-    "antoine"
-   ],
-   "entities": [
-    "france",
-    "friday",
-    "antoine dupont",
-    "nations championship"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "France fend off South African comeback to clinch long-awaited win in Paris",
-     "summary": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
-     "source": "France 24",
-     "published": "2026-11-14T10:58:10.000Z"
-    },
-    {
-     "title": "France hold on for thrilling Nations Championship win over South Africa",
-     "summary": "France captain Antoine Dupont said on Friday that beating Rugby World Cup holders South Africa 21-19 was important to show that his side are capable of grinding out victories when it matters.",
-     "url": "https://www.rfi.fr/en/sports/20261114-france-hold-on-for-thrilling-nations-championship-win-over-south-africa-rugby",
-     "source": "RFI",
-     "published": "2026-11-14T11:37:10.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 20,
-   "score": 17.65,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "count": 2,
-   "newestHoursAgo": 7.4,
-   "keywords": [
-    "student",
-    "violence",
-    "school",
-    "france",
-    "broader",
-    "movement"
-   ],
-   "entities": [
-    "france"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "France's school principals say threats and violence have become unbearable",
-     "summary": "Headteachers gathered across France this Friday, to demonstrate their frustration after nearly two months of student protests that have blockaded high schools. Many of the teachers support the students, but say they feel exhausted and isolated as the violence has surged. They are calling the government to protect them. Story by Vedika Bahl.",
-     "url": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
-     "source": "France 24",
-     "published": "2026-11-14T10:17:21.000Z"
-    },
-    {
-     "title": "How France's student protests grew into a broader movement amid police violence",
-     "summary": "What began in September as a student protest over deteriorating school conditions has over recent weeks grown into a broader social movement across France. The violent police response, notably against young protesters, has helped galvanise support, drawing in university students, trade unions and the wider public.",
-     "url": "https://www.rfi.fr/en/france/20261114-how-france-s-student-protests-grew-into-a-broader-movement-amid-police-violence",
-     "source": "RFI",
-     "published": "2026-11-14T11:11:37.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 21,
-   "score": 17.58,
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "count": 2,
-   "newestHoursAgo": 7.5,
+   "recent12": 0,
+   "newestHoursAgo": 17.9,
    "keywords": [
     "fifth",
     "protest",
     "protectio",
-    "police",
-    "child",
-    "polic"
+    "round",
+    "france",
+    "child"
    ],
    "entities": [
+    "fifth",
     "france",
     "saturday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
-     "summary": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that protest fatigue is setting in, while police officers are seeking better compensation for the risk of policing the protests. Story by Jack Pownall.",
-     "url": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+     "title": "'No justice, no peace': Fifth round of protests sweep across France",
+     "summary": "Between 106,000 and 200,000 people took to the streets across France on Saturday for the fifth round of protests, according to figures from the interior ministry and student unions respectively, as turnout fell and some incidents were reported.",
+     "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
      "source": "France 24",
-     "published": "2026-11-14T10:15:42.000Z"
+     "published": "2026-11-14T18:23:25.000Z"
     },
     {
      "title": "Fifth wave of French protests to focus on child protection and police laws",
@@ -1192,397 +1535,289 @@
    ]
   },
   {
-   "rank": 22,
-   "score": 17.38,
-   "sources": [
-    "Euronews",
-    "The Hindu"
-   ],
-   "count": 2,
-   "newestHoursAgo": 4.7,
-   "keywords": [
-    "qatar",
-    "defence",
-    "agreement",
-    "sign",
-    "turkiye",
-    "presidenc"
-   ],
-   "entities": [
-    "qatar"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Qatar and Turkey sign defence agreement for “unified position” facing external attacks",
-     "summary": "A fast-moving reshape of the Gulf and Middle East multilateral security landscape is underway, triggered by the Iran war and the US signals that it is adapting its long-standing security presence in the region.",
-     "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
-     "source": "Euronews",
-     "published": "2026-11-14T13:50:49.000Z"
-    },
-    {
-     "title": "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
-     "summary": "Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying",
-     "url": "https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece",
-     "source": "The Hindu",
-     "published": "2026-11-13T19:02:34.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 23,
-   "score": 16.97,
-   "sources": [
-    "PBS NewsHour",
-    "The Hindu",
-    "Guardian"
-   ],
-   "count": 3,
-   "newestHoursAgo": 21.9,
-   "keywords": [
-    "dron",
-    "fir",
-    "russia",
-    "wider",
-    "european",
-    "consider"
-   ],
-   "entities": [
-    "ukraine",
-    "russia",
-    "european",
-    "moscow"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
-     "summary": "Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago.",
-     "url": "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
-     "source": "PBS NewsHour",
-     "published": "2026-11-13T14:58:55.000Z"
-    },
-    {
-     "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
-     "summary": "Kyiv's forces are using drones and ground robots to help defend against Russia's army along the about 1,200-km front line snaking down eastern and southeastern Ukraine",
-     "url": "https://www.thehindu.com/news/international/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/article71699290.ece",
-     "source": "The Hindu",
-     "published": "2026-11-13T17:32:00.000Z"
-    },
-    {
-     "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-     "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its aggression. “We have one aggressor and one victim, and the aggressor does not have security concerns,” Kaja Kallas said on arrival at an EU leaders’ summit in Dublin. “Nobody has ever attacked them. They have attacked others. I mean, keep the focus, people.” Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-     "source": "Guardian",
-     "published": "2026-11-13T20:38:25.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 24,
-   "score": 15.05,
-   "sources": [
-    "NPR",
-    "PBS NewsHour"
-   ],
-   "count": 3,
-   "newestHoursAgo": 18.1,
-   "keywords": [
-    "strategy",
-    "iran",
-    "alli",
-    "gulf",
-    "trump",
-    "diplomacy"
-   ],
-   "entities": [
-    "trump",
-    "iran",
-    "president trump",
-    "gulf",
-    "tehran",
-    "compass points",
-    "nick schifrin",
-    "middle east"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "source": "NPR",
-     "published": "2026-11-13T19:02:04.000Z"
-    },
-    {
-     "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
-     "summary": "As President Trump says he's focused on economic pressure on Iran, Gulf allies are united against the war and hedging their bets by talking with Iran about regional security. Compass Points moderator Nick Schifrin discusses the Middle East's pivot point with Hussein Ibish, Danielle Pletka, Dana Stroul and Alex Vatanka.",
-     "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran",
-     "source": "PBS NewsHour",
-     "published": "2026-11-14T00:30:14.000Z"
-    },
-    {
-     "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
-     "summary": "As President Trump says he's focused on economic pressure on Iran, Gulf allies are united against the war and hedging their bets by talking with Iran about regional security. Compass Points moderator Nick Schifrin discusses the Middle East's pivot point with Hussein Ibish, Danielle Pletka, Dana Stroul and Alex Vatanka.",
-     "url": "https://www.pbs.org/newshour/video/compass-points/2026/11/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran",
-     "source": "PBS NewsHour",
-     "published": "2026-11-14T00:30:01.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 25,
-   "score": 14.91,
-   "sources": [
-    "DW",
-    "Guardian",
-    "The Hindu"
-   ],
-   "count": 3,
-   "newestHoursAgo": 26.7,
-   "keywords": [
-    "radar",
-    "bahrain",
-    "iran",
-    "strait",
-    "struck",
-    "military"
-   ],
-   "entities": [
-    "iran",
-    "bahrain",
-    "hormuz"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Iran targeted US radar system in Bahrain",
-     "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
-     "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-13T15:32:00.000Z"
-    },
-    {
-     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-     "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. “This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC a",
-     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-     "source": "Guardian",
-     "published": "2026-11-13T13:52:11.000Z"
-    },
-    {
-     "title": "Iran says it struck U.S. military radar in Bahrain",
-     "summary": "The IRGC says the strait is closed, while the U.S. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports",
-     "url": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece",
-     "source": "The Hindu",
-     "published": "2026-11-13T15:51:14.000Z"
-    }
-   ]
-  },
-  {
    "rank": 26,
-   "score": 13.31,
+   "score": 18.29,
+   "tier": "minor",
    "sources": [
-    "The Hindu",
-    "Japan Times"
+    "New York Times"
    ],
-   "count": 2,
-   "newestHoursAgo": 12.2,
+   "countries": [
+    "US"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 0.2,
    "keywords": [
-    "rubio",
-    "internati",
-    "submit",
-    "sterile",
-    "vision",
-    "radical"
+    "second",
+    "iran",
+    "bahrain",
+    "attack",
+    "time",
+    "resumptio"
    ],
    "entities": [
-    "rubio"
+    "iran attacks bahrain",
+    "second time",
+    "days the",
+    "iran"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Rubio assails international court in speech to conservative legal group",
-     "summary": "The U.S., Mr. Rubio said, would not “submit to the sterile vision of radical judges or soulless global bureaucrats”",
-     "url": "https://www.thehindu.com/news/international/rubio-assails-international-court-in-speech-to-conservative-legal-group/article71700928.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T06:20:28.000Z"
-    },
-    {
-     "title": "Rubio labels international law a tool of elites and attacks ICC",
-     "summary": "The Secretary of State warned that the U.S. would never submit to the \"sterile vision of radical judges or soulless global bureaucrats.\"",
-     "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/rubio-international-law-icc/",
-     "source": "Japan Times",
-     "published": "2026-11-14T02:09:00.000Z"
+     "title": "Iran Attacks Bahrain for the Second Time in Days",
+     "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "source": "New York Times",
+     "published": "2026-11-15T12:07:04.000Z"
     }
    ]
   },
   {
    "rank": 27,
-   "score": 12.96,
+   "score": 18.22,
+   "tier": "minor",
    "sources": [
-    "BBC"
+    "Financial Times"
+   ],
+   "countries": [
+    "UK"
    ],
    "count": 1,
-   "newestHoursAgo": 0.1,
+   "recent12": 1,
+   "newestHoursAgo": 0.3,
    "keywords": [
-    "photo",
-    "fin",
-    "meta",
-    "access",
-    "user",
-    "italy"
+    "earn",
+    "steady",
+    "sell-off",
+    "nvidia",
+    "guide",
+    "market"
    ],
    "entities": [
-    "italy",
-    "meta"
+    "will nvidia",
+    "market questions"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Italy fines Meta €805m over accessing users' photos",
-     "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T18:28:06.000Z"
+     "title": "Will Nvidia earnings steady the AI sell-off?",
+     "summary": "Market Questions is the FT’s guide to the week ahead",
+     "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T12:00:05.000Z"
     }
    ]
   },
   {
    "rank": 28,
-   "score": 12.9,
+   "score": 18.08,
+   "tier": "minor",
    "sources": [
     "BBC"
    ],
+   "countries": [
+    "UK"
+   ],
    "count": 1,
-   "newestHoursAgo": 0.3,
+   "recent12": 1,
+   "newestHoursAgo": 2.9,
    "keywords": [
-    "philippin",
-    "song",
-    "eurovisio",
-    "contest",
-    "win",
-    "asia"
+    "injuri",
+    "fire",
+    "di",
+    "soldier",
+    "large",
+    "canadian"
    ],
    "entities": [
-    "philippines",
-    "eurovision song contest asia front-runner carmelle",
-    "sobra-sobra"
+    "fifth canadian",
+    "pte william douglas dal bianco",
+    "friday",
+    "cfb wainwright"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-14T18:17:58.000Z"
+     "published": "2026-11-15T09:26:37.000Z"
     }
    ]
   },
   {
    "rank": 29,
-   "score": 12.78,
+   "score": 17.63,
+   "tier": "minor",
    "sources": [
-    "BBC"
+    "Financial Times"
+   ],
+   "countries": [
+    "UK"
    ],
    "count": 1,
-   "newestHoursAgo": 0.6,
+   "recent12": 1,
+   "newestHoursAgo": 1.3,
    "keywords": [
-    "sotheby",
-    "auction",
-    "van",
-    "gogh",
-    "sold",
-    "dures"
+    "ditch",
+    "woke",
+    "clas",
+    "war",
+    "democrat",
+    "culture"
    ],
    "entities": [
-    "sotheby",
-    "van gogh"
+    "democrats"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-     "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T18:00:10.000Z"
+     "title": "From culture war to class war: US Democrats ditch woke politics",
+     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
+     "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T11:00:04.000Z"
     }
    ]
   },
   {
    "rank": 30,
-   "score": 12.55,
+   "score": 17.46,
+   "tier": "minor",
    "sources": [
-    "Euronews"
+    "Financial Times"
    ],
-   "count": 4,
+   "countries": [
+    "UK"
+   ],
+   "count": 1,
+   "recent12": 1,
    "newestHoursAgo": 1.6,
    "keywords": [
-    "bulletin",
-    "november",
-    "entertain",
-    "culture",
-    "important",
-    "stori"
+    "rich",
+    "find",
+    "escape",
+    "emission",
+    "way",
+    "change"
    ],
    "entities": [
-    "november",
-    "europe",
-    "business",
-    "entertainment",
-    "politics",
-    "culture",
-    "travel",
-    "evening catch"
+    "growing"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Latest news bulletin | November 14th, 2026 – Evening",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
-     "source": "Euronews",
-     "published": "2026-11-14T17:00:26.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 13th, 2026 – Evening",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening",
-     "source": "Euronews",
-     "published": "2026-11-13T17:00:26.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 14th, 2026 – Midday",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
-     "source": "Euronews",
-     "published": "2026-11-14T11:00:15.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 14th, 2026 – Morning",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
-     "source": "Euronews",
-     "published": "2026-11-14T06:00:32.000Z"
+     "title": "The rich find ways to escape climate change. Their emissions have not.",
+     "summary": "Growing body of research shows the contribution to greenhouse gases between wealthy and poor varies greatly even within nations",
+     "url": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-15T10:43:31.000Z"
     }
    ]
   },
   {
    "rank": 31,
-   "score": 12.5,
+   "score": 16.85,
+   "tier": "minor",
+   "sources": [
+    "France 24"
+   ],
+   "countries": [
+    "France"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 0.3,
+   "keywords": [
+    "illegal",
+    "guiana",
+    "min",
+    "threaten",
+    "forest",
+    "indigenou"
+   ],
+   "entities": [
+    "illegal",
+    "french guiana",
+    "indigenous",
+    "world wildlife fund",
+    "during",
+    "august"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Illegal mining threatens French Guiana forests and Indigenous communities",
+     "summary": "In French Guiana, the fight against illegal gold mining is rapidly being lost and creating an environmental and health disaster, according to the World Wildlife Fund. During an aerial survey in early August, park rangers counted 239 illegal sites within the protected area in record.",
+     "url": "https://www.france24.com/en/illegal-mining-threatens-french-guiana-forests-and-indigenous-communities",
+     "source": "France 24",
+     "published": "2026-11-15T12:04:19.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "score": 16.83,
+   "tier": "minor",
+   "sources": [
+    "New York Times"
+   ],
+   "countries": [
+    "US"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 2.7,
+   "keywords": [
+    "blame",
+    "blood",
+    "mistrust",
+    "doubt",
+    "hostage",
+    "israeli"
+   ],
+   "entities": [
+    "after decades",
+    "blood",
+    "mistrust",
+    "doubts over who",
+    "blame",
+    "israeli hostage israeli",
+    "iranians",
+    "tehran"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+     "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+     "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+     "source": "New York Times",
+     "published": "2026-11-15T09:36:59.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "score": 16.76,
+   "tier": "minor",
    "sources": [
     "BBC"
    ],
+   "countries": [
+    "UK"
+   ],
    "count": 1,
-   "newestHoursAgo": 1.3,
+   "recent12": 1,
+   "newestHoursAgo": 5.2,
    "keywords": [
     "suspensio",
-    "copper",
     "wire",
+    "copper",
+    "behind",
     "upgrade",
-    "caus",
-    "flight"
+    "transport"
    ],
    "entities": [
     "copper"
@@ -1590,325 +1825,296 @@
    "soft": false,
    "items": [
     {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-14T17:16:36.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 32,
-   "score": 12.22,
-   "sources": [
-    "New York Times"
-   ],
-   "count": 2,
-   "newestHoursAgo": 2.2,
-   "keywords": [
-    "here",
-    "cause",
-    "know",
-    "telecommu",
-    "did",
-    "blam"
-   ],
-   "entities": [
-    "here"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Here’s the latest.",
-     "summary": "",
-     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-     "source": "New York Times",
-     "published": "2026-11-14T16:20:20.000Z"
-    },
-    {
-     "title": "Here’s the latest.",
-     "summary": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
-     "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-     "source": "New York Times",
-     "published": "2026-11-14T07:15:20.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 33,
-   "score": 12.01,
-   "sources": [
-    "New York Times"
-   ],
-   "count": 2,
-   "newestHoursAgo": 2.8,
-   "keywords": [
-    "ebola",
-    "epicenter",
-    "outbreak",
-    "killer",
-    "aid",
-    "caught"
-   ],
-   "entities": [
-    "congo"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-     "summary": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
-     "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-     "source": "New York Times",
-     "published": "2026-11-13T16:02:36.000Z"
-    },
-    {
-     "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
-     "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
-     "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
-     "source": "New York Times",
-     "published": "2026-11-14T15:43:16.000Z"
+     "published": "2026-11-15T07:10:31.000Z"
     }
    ]
   },
   {
    "rank": 34,
-   "score": 11.91,
+   "score": 16.67,
+   "tier": "minor",
    "sources": [
-    "BBC"
+    "France 24"
+   ],
+   "countries": [
+    "France"
    ],
    "count": 1,
-   "newestHoursAgo": 2.8,
+   "recent12": 1,
+   "newestHoursAgo": 0.6,
    "keywords": [
-    "caution",
-    "via",
-    "main",
-    "altitude",
-    "ethiopia",
-    "nigeria"
+    "reliant",
+    "too",
+    "technolog",
+    "arise",
+    "outag",
+    "widesprea"
    ],
    "entities": [
-    "nigeria",
-    "ethiopia",
-    "abuja",
-    "nigerians",
-    "addis ababa"
+    "questions",
+    "microsoft",
+    "analysis",
+    "marcel saucet",
+    "university",
+    "san diego school",
+    "law"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-     "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-     "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T15:42:54.000Z"
+     "title": "Are we too reliant on technology? Questions arise after Microsoft's widespread outages",
+     "summary": "This week's Microsoft outage highlighted the risks of relying on a single technology provider for essential services. The disruption lasted nearly 24 hours, impacting millions of users across more than 70 countries – from government agencies to airlines to hospitals and small businesses. Are we too reliant on technology? Analysis by Marcel Saucet, research associate at the University of San Diego School of Law.",
+     "url": "https://www.france24.com/en/are-we-too-reliant-on-technology-questions-arise-after-microsoft-s-widespread-outages",
+     "source": "France 24",
+     "published": "2026-11-15T11:44:50.000Z"
     }
    ]
   },
   {
    "rank": 35,
-   "score": 11.6,
+   "score": 16.42,
+   "tier": "minor",
    "sources": [
-    "New York Times"
+    "RFI"
+   ],
+   "countries": [
+    "France"
    ],
    "count": 1,
-   "newestHoursAgo": 1.1,
+   "recent12": 1,
+   "newestHoursAgo": 1,
    "keywords": [
-    "generatio",
-    "clash",
-    "protest",
-    "fuel",
-    "retire",
-    "longer"
+    "fela",
+    "kuti",
+    "music",
+    "rock",
+    "roll",
+    "hall"
    ],
    "entities": [
-    "generational clash",
-    "fueling europe",
-    "protests",
-    "france"
+    "with nigeria",
+    "fela kuti",
+    "african",
+    "rock",
+    "roll hall",
+    "fame for",
+    "fame",
+    "nigeria"
    ],
    "soft": false,
    "items": [
     {
-     "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-     "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-     "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-     "source": "New York Times",
-     "published": "2026-11-14T17:26:50.000Z"
+     "title": "With Nigeria's Fela Kuti, African music enters the Rock & Roll Hall of Fame",
+     "summary": "For the first time in its history, the Rock & Roll Hall of Fame has honoured a major figure in African music. Nigeria's Fela Kuti was inducted on Saturday evening during a ceremony in Los Angeles, nearly thirty years after his death, consecrating the musical influence of the rebellious king of Afrobeat.",
+     "url": "https://www.rfi.fr/en/culture/20261115-with-nigeria-s-fela-kuti-african-music-enters-the-rock-roll-hall-of-fame",
+     "source": "RFI",
+     "published": "2026-11-15T11:18:10.000Z"
     }
    ]
   },
   {
    "rank": 36,
-   "score": 11.43,
+   "score": 16.22,
+   "tier": "minor",
    "sources": [
-    "BBC"
+    "France 24"
+   ],
+   "countries": [
+    "France"
    ],
    "count": 1,
-   "newestHoursAgo": 4.2,
+   "recent12": 1,
+   "newestHoursAgo": 1.4,
    "keywords": [
-    "know",
-    "affect",
-    "ground",
-    "stop",
-    "old",
-    "cyber-att"
+    "peru",
+    "inca",
+    "communiti",
+    "local",
+    "lament",
+    "poverty-s"
    ],
-   "entities": [],
+   "entities": [
+    "pope",
+    "inca",
+    "peru pope leo xiv",
+    "sunday",
+    "peru",
+    "latin american",
+    "catholic"
+   ],
    "soft": false,
    "items": [
     {
-     "title": "What we know about the ground stop and what to do if you're affected",
-     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T14:20:57.000Z"
+     "title": "Pope laments poverty-stricken Inca communities as locals leave Peru",
+     "summary": "Pope Leo XIV on Sunday will traverse the length of Peru in what marks the penultimate day of his Latin American tour. The leader of the Catholic church – who underwent cancer surgery just a month ago – warned that Peru's remote Inca communities are under threat as poverty continues to drive locals out of their homeland in search of better futures.",
+     "url": "https://www.france24.com/en/americas/20261115-pope-laments-poverty-stricken-inca-communities-as-locals-leave-peru",
+     "source": "France 24",
+     "published": "2026-11-15T10:55:11.000Z"
     }
    ]
   },
   {
    "rank": 37,
-   "score": 11.13,
+   "score": 16.08,
+   "tier": "minor",
    "sources": [
-    "NPR"
+    "France 24"
+   ],
+   "countries": [
+    "France"
    ],
    "count": 1,
-   "newestHoursAgo": 2.5,
+   "recent12": 1,
+   "newestHoursAgo": 1.7,
    "keywords": [
-    "chile",
-    "far-right",
-    "fuel",
-    "protest",
-    "pressure",
-    "crisi"
+    "diesel",
+    "pric",
+    "approach",
+    "ease",
+    "winter",
+    "global"
    ],
    "entities": [
-    "fuel",
-    "chile",
-    "president josé antonio kast"
+    "global",
+    "iran",
+    "strait",
+    "hormuz",
+    "gulf",
+    "february",
+    "europe",
+    "saturday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-     "source": "NPR",
-     "published": "2026-11-14T16:05:12.000Z"
+     "title": "Global diesel prices ease as winter approaches",
+     "summary": "Global diesel prices, which have remained elevated since the start of the Iran war and the blockade of the Strait of Hormuz, have fallen sharply in recent weeks as Gulf exports recover and global oil supplies get back on track for the first time since February. The price drop is being felt in Europe, where prices remain roughly 77% above pre-war levels, and in the US, where the national average fell below $6 a gallon on Saturday. Details by Liza Kaminov.",
+     "url": "https://www.france24.com/en/global-diesel-prices-ease-as-winter-approaches",
+     "source": "France 24",
+     "published": "2026-11-15T10:40:01.000Z"
     }
    ]
   },
   {
    "rank": 38,
-   "score": 10.96,
+   "score": 15.85,
+   "tier": "minor",
    "sources": [
-    "RFI",
-    "Africanews"
+    "RFI"
    ],
-   "count": 2,
-   "newestHoursAgo": 20.9,
+   "countries": [
+    "France"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 2.1,
    "keywords": [
-    "france",
-    "pari",
-    "algeria",
-    "anniversa",
-    "stade",
-    "eu-level"
+    "painful",
+    "period",
+    "tear",
+    "ga",
+    "exposure",
+    "women"
    ],
    "entities": [
+    "women",
     "france",
-    "paris",
-    "friday"
+    "thousands"
    ],
    "soft": false,
    "items": [
     {
-     "title": "France marks 11th anniversary of Paris attacks with tribute at Stade de France",
-     "summary": "France is marking the 11th anniversary of the November 2015 Paris terrorist attacks on Friday, with commemorations honouring the 130 people killed. This year the Stade de France, one of the sites targeted by the attackers, hosts a sporting event on 13 November for the first time since the tragedy.",
-     "url": "https://www.rfi.fr/en/france/20261113-france-marks-11th-anniversary-of-paris-attacks-with-tribute-at-stade-de-france",
+     "title": "Women in France report painful periods after exposure to tear gas at protests",
+     "summary": "Thousands of women in France have reported unusually painful periods, heavy bleeding and disrupted menstrual cycles after being exposed to tear gas during the country's recent protests, prompting calls for an investigation into its possible effects on reproductive health.",
+     "url": "https://www.rfi.fr/en/france/20261115-women-in-france-report-painful-periods-after-exposure-to-tear-gas-at-protests",
      "source": "RFI",
-     "published": "2026-11-13T15:08:48.000Z"
-    },
-    {
-     "title": "France escalates Algeria trade dispute to EU-level",
-     "summary": "France on Friday asked the European Commission to look into Algeria’s alleged non-compliance with a EU trade deal. Paris is accusing Algers of an almost total blockade on French imports and of suspending urea shipments to France.",
-     "url": "http://www.africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level/",
-     "source": "Africanews",
-     "published": "2026-11-13T21:37:13.000Z"
+     "published": "2026-11-15T10:14:03.000Z"
     }
    ]
   },
   {
    "rank": 39,
-   "score": 10.92,
+   "score": 15.62,
+   "tier": "minor",
    "sources": [
     "New York Times"
    ],
-   "count": 1,
-   "newestHoursAgo": 3.1,
+   "countries": [
+    "US"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 7.3,
    "keywords": [
-    "bangkok",
-    "fan",
-    "eurovisio",
-    "asia",
-    "travel",
-    "meet"
+    "iran",
+    "prosecuto",
+    "europe",
+    "sense",
+    "anxiety",
+    "britain"
    ],
    "entities": [
-    "meet",
-    "fans who traveled",
-    "bangkok",
-    "eurovision asia some",
-    "asia-based europeans",
-    "others",
-    "americans"
+    "europe",
+    "iran",
+    "britain"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-     "summary": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.",
-     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+     "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+     "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+     "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
      "source": "New York Times",
-     "published": "2026-11-14T15:27:30.000Z"
+     "published": "2026-11-15T05:01:20.000Z"
+    },
+    {
+     "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+     "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
+     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+     "source": "New York Times",
+     "published": "2026-11-14T19:23:20.000Z"
     }
    ]
   },
   {
    "rank": 40,
-   "score": 10.81,
+   "score": 15.58,
+   "tier": "minor",
    "sources": [
-    "New York Times"
+    "The Hindu"
+   ],
+   "countries": [
+    "India"
    ],
    "count": 1,
-   "newestHoursAgo": 3.4,
+   "recent12": 1,
+   "newestHoursAgo": 0.1,
    "keywords": [
-    "indonesia",
-    "miss",
-    "pakistan",
-    "india",
-    "contest",
-    "japan"
+    "guatemala",
+    "emergency",
+    "drug",
+    "declar",
+    "violence",
+    "state"
    ],
    "entities": [
-    "asia",
-    "eurovision contest",
-    "missing china",
-    "india",
-    "pakistan",
-    "indonesia",
-    "japan china",
-    "japan"
+    "guatemala",
+    "zacapa",
+    "izabal",
+    "congressman julio portillo"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
-     "summary": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leave some of the region’s best-known musical cultures out of the mix.",
-     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
-     "source": "New York Times",
-     "published": "2026-11-14T15:06:40.000Z"
+     "title": "Guatemala declares state of emergency in east over drug violence",
+     "summary": "The 30-day decree covers Zacapa and Izabal, a week after Congressman Julio Portillo and three police officers were killed in an armed attack",
+     "url": "https://www.thehindu.com/news/international/guatemala-declares-state-of-emergency-in-east-over-drug-violence/article71704647.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T12:14:32.000Z"
     }
    ]
   }
