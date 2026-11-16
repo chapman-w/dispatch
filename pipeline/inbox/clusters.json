@@ -1,1067 +1,481 @@
 {
- "fetchedAt": "2026-11-15T12:20:06.514Z",
+ "fetchedAt": "2026-11-16T13:12:06.929Z",
  "clusters": [
   {
    "rank": 1,
-   "score": 150.32,
+   "score": 145.66,
    "tier": "major",
    "sources": [
-    "BBC",
-    "Financial Times",
+    "NPR",
     "France 24",
     "Guardian",
+    "New York Times",
     "The Hindu",
     "Japan Times"
    ],
    "countries": [
-    "UK",
+    "US",
     "France",
+    "UK",
     "India",
     "Japan"
    ],
-   "count": 8,
-   "recent12": 2,
-   "newestHoursAgo": 0.1,
+   "count": 7,
+   "recent12": 6,
+   "newestHoursAgo": 2.2,
    "keywords": [
-    "spacex",
-    "catch",
-    "starship",
-    "rocket",
-    "return",
-    "first-eve"
+    "china",
+    "shenzhen",
+    "trump",
+    "summit",
+    "meet",
+    "putin"
    ],
    "entities": [
-    "spacex",
-    "starship",
-    "texas",
-    "earth",
-    "saturday"
+    "china",
+    "shenzhen",
+    "trump",
+    "chinese",
+    "jinping",
+    "asia",
+    "asia-pacific economic cooperation",
+    "vladimir putin"
    ],
    "soft": false,
    "items": [
     {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T22:09:40.000Z"
+     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+     "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+     "source": "NPR",
+     "published": "2026-11-16T10:00:00.000Z"
     },
     {
-     "title": "SpaceX catches returning Starship rocket in breakthrough for Musk",
-     "summary": "Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars",
-     "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-14T22:33:56.000Z"
+     "title": "What to expect from Trump and Xi's upcoming meeting in China",
+     "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+     "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+     "source": "NPR",
+     "published": "2026-11-15T22:11:26.000Z"
     },
     {
-     "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
-     "summary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
-     "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+     "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+     "summary": "Canada’s leader is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+     "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+     "source": "New York Times",
+     "published": "2026-11-16T09:38:53.000Z"
+    },
+    {
+     "title": "Xi, Trump and Putin to discuss 'world peace' at Shenzhen summit, China says",
+     "summary": "The Chinese foreign ministry on Monday said that President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin would discuss \"safeguarding world peace and promoting strategic stability\" when they hold their first trilateral summit in Shenzhen this week. The meeting is expected to happen on Thursday on the sidelines of a summit of Asia-Pacific Economic Cooperation (APEC) leaders.",
+     "url": "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says",
      "source": "France 24",
-     "published": "2026-11-14T20:51:24.000Z"
+     "published": "2026-11-16T08:40:22.000Z"
     },
     {
-     "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
-     "summary": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the ship itself coming safely back down to earth. Instead, an unspecified problem forced the company to abort recovery of the booster, which was diverted from its return path and crashed down into the Gulf of Mexico. Analysis by journalist Frédéric Castel, based in Bosa Chica, Texas, USA.",
-     "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
-     "source": "France 24",
-     "published": "2026-11-14T17:33:37.000Z"
-    },
-    {
-     "title": "SpaceX makes rocketry history by recapturing massive reusable rocketship",
-     "summary": "After failing to catch a booster yesterday, SpaceX managed to recapture its massive reusable rocketship, \"Starship\" for the first time. Smaller previous models have successfully relanded but they require heavy legs and aren't fully reusable. Story by Daniel Quinlan.",
-     "url": "https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship",
-     "source": "France 24",
-     "published": "2026-11-15T09:42:55.000Z"
-    },
-    {
-     "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-     "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
-     "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+     "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+     "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts, Xi Jinping and Vladimir Putin, for their first trilateral summit, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) forum in the Chinese city of Shenzhen. Before that, he will land in Manila in",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
      "source": "Guardian",
-     "published": "2026-11-14T22:35:06.000Z"
+     "published": "2026-11-16T11:00:58.000Z"
     },
     {
-     "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-     "summary": "Starship returned from orbit and was caught by the “chopstick arms” at SpaceX’s Starbase launch pad in Texas, in a milestone for fully reusable rockets",
-     "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+     "title": "China confirms first Xi-Trump-Putin summit in Shenzhen on November 19",
+     "summary": "The Chinese Foreign Ministry gave no further details including about what the topics of the historic meeting in the southern Chinese city would be",
+     "url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
      "source": "The Hindu",
-     "published": "2026-11-15T12:11:57.000Z"
+     "published": "2026-11-16T08:42:43.000Z"
     },
     {
-     "title": "SpaceX pulls off first-ever spaceship ‘catch’",
-     "summary": "The feat marked a milestone in the space industry's decadeslong pursuit of fully reusable rocket systems.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/spacex-first-spaceship-catch/",
+     "title": "China confirms first Xi-Trump-Putin summit on Thursday",
+     "summary": "Beijing did not offer details about the meeting, including what the topics of the historic summit in the Chinese city of Shenzhen would be.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/china-confirms-xi-trump-putin-summit/",
      "source": "Japan Times",
-     "published": "2026-11-14T23:52:00.000Z"
+     "published": "2026-11-16T04:34:00.000Z"
     }
    ]
   },
   {
    "rank": 2,
-   "score": 120.69,
-   "tier": "major",
-   "sources": [
-    "France 24",
-    "Financial Times",
-    "Japan Times",
-    "Guardian",
-    "The Hindu"
-   ],
-   "countries": [
-    "France",
-    "UK",
-    "Japan",
-    "India"
-   ],
-   "count": 6,
-   "recent12": 6,
-   "newestHoursAgo": 0.1,
-   "keywords": [
-    "bahrain",
-    "iran",
-    "attack",
-    "base",
-    "iranian",
-    "gulf"
-   ],
-   "entities": [
-    "iran",
-    "bahrain",
-    "iranian",
-    "september",
-    "gulf"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
-     "summary": "Bahrain says it has intercepted two Iranian barrages this week after months of relative calm",
-     "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-15T10:50:05.000Z"
-    },
-    {
-     "title": "Iran claims attack on US military airbase in Bahrain",
-     "summary": "Iranian military confirmed on Sunday an attack on a US military base in Bahrain, in its second targeting the Middle Eastern country in the space of three days. Bahrain's military said it had intercepted several Iranian attacks, with the foreign ministry confirming its air defence systems had shot down Iranian drones, preventing them from reaching their intended targets.",
-     "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
-     "source": "France 24",
-     "published": "2026-11-15T09:57:35.000Z"
-    },
-    {
-     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-     "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet I mentioned earlier the withdrawal of Saudi-backed Yemeni government forces from the areas around Bab el-Mandeb where they’ve been attempting to stave off the Houthis. A lightning-strike offensive back in September saw the Houthis sweep almost the entire Red Sea coast and almost seize control of the critical Red Sea strait, which has become another chokepoint in the flow of oil and and energy supplies from Gulf producers. The Southern Armed Forces announce the implementation of a redeployment ‌operation for ",
-     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-     "source": "Guardian",
-     "published": "2026-11-15T12:11:19.000Z"
-    },
-    {
-     "title": "Sirens sound in Bahrain as Iran’s Guards claim drone attack",
-     "summary": "Bahrain, ⁠home to ⁠the U.S. Navy’s Fifth Fleet, urged citizens and ​residents to ‌remain calm and proceed to the nearest safe location, ‌its Interior Ministry ​said",
-     "url": "https://www.thehindu.com/news/international/bahrain-interior-ministry-potential-threats-us-navys-fifth-fleet-attack-on-november-15/article71704092.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T05:39:39.000Z"
-    },
-    {
-     "title": "Iran strikes Bahrain base, repeats path to U.S. deal remains open",
-     "summary": "The strike on Bahrain is the first since early September when Iranian drones also targeted a U.S. base in the UAE.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-base-us-deal/",
-     "source": "Japan Times",
-     "published": "2026-11-15T09:49:00.000Z"
-    },
-    {
-     "title": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base",
-     "summary": "Iran's Revolutionary Guard Corps said it had attacked a U.S. military base in Bahrain in retaliation for \"hostile U.S. actions.\"",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-us-attack/",
-     "source": "Japan Times",
-     "published": "2026-11-15T06:46:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "score": 92.66,
-   "tier": "soft",
+   "score": 94.42,
+   "tier": "significant",
    "sources": [
     "BBC",
-    "Financial Times",
-    "DW",
-    "Sky News",
-    "France 24",
-    "Euronews",
-    "RFI",
-    "The Hindu",
-    "PBS NewsHour"
-   ],
-   "countries": [
-    "UK",
-    "Germany",
-    "France",
-    "EU",
-    "India",
-    "US"
-   ],
-   "count": 10,
-   "recent12": 2,
-   "newestHoursAgo": 0.1,
-   "keywords": [
-    "nato",
-    "zelenskyy",
-    "ukraine",
-    "membershi",
-    "donba",
-    "float"
-   ],
-   "entities": [
-    "nato",
-    "ukraine",
-    "russia",
-    "donbas",
-    "zelenskyy",
-    "kyiv",
-    "ukrainian",
-    "moscow"
-   ],
-   "soft": true,
-   "items": [
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T22:37:25.000Z"
-    },
-    {
-     "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-     "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
-     "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-14T11:41:15.000Z"
-    },
-    {
-     "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-     "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
-     "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-14T11:40:00.000Z"
-    },
-    {
-     "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
-     "summary": "European leaders have stressed that decisions about the continent's security must be made by Europeans themselves, warning against allowing Russia to dictate the terms of a new security order or negotiate NATO's future.",
-     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
-     "source": "PBS NewsHour",
-     "published": "2026-11-14T20:23:29.000Z"
-    },
-    {
-     "title": "Will Ukraine make territorial concessions for NATO membership?",
-     "summary": "The United States suggested Ukraine make territorial concessions in exchange for a NATO membership, according to Volodymyr Zelensky. The Ukrainian president also claims that Russia has rejected an energy truce. This week’s US-mediated negotiations did not result in any tangible progress. Story by Simon Moritz.",
-     "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
-     "source": "France 24",
-     "published": "2026-11-15T12:14:54.000Z"
-    },
-    {
-     "title": "Ukraine's relationship with NATO 'back on the table': Zelensky",
-     "summary": "Washington suggested Kyiv cede land to Moscow in exchange for joining NATO, President Volodymyr Zelensky said in comments released Saturday, saying his country's relationship with the Western alliance is \"back on the agenda.\"",
-     "url": "https://www.rfi.fr/en/international/20261114-ukraine-s-relationship-with-nato-back-on-the-table-zelensky",
-     "source": "RFI",
-     "published": "2026-11-14T16:12:40.000Z"
-    },
-    {
-     "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
-     "summary": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said.",
-     "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
-     "source": "Sky News",
-     "published": "2026-11-14T13:12:00.000Z"
-    },
-    {
-     "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
-     "summary": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country.",
-     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
-     "source": "Euronews",
-     "published": "2026-11-14T10:35:08.000Z"
-    },
-    {
-     "title": "U.S. suggested Kyiv cede land to Russia in exchange for joining NATO, says Zelenskyy",
-     "summary": "President Volodymyr Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign",
-     "url": "https://www.thehindu.com/news/international/us-suggested-kyiv-cede-land-to-russia-in-exchange-for-joining-nato-says-zelenskyy/article71704053.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T06:25:16.000Z"
-    },
-    {
-     "title": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
-     "summary": "Volodymyr Zelensky said Russia had rejected a ceasefire on energy targets at talks in Abu Dhabi, as Moscow was “betting everything” on this winter’s campaign",
-     "url": "https://www.thehindu.com/news/international/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky/article71701653.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T12:37:48.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "score": 82.24,
-   "tier": "significant",
-   "sources": [
-    "France 24",
-    "RFI",
-    "Euronews",
-    "The Hindu"
-   ],
-   "countries": [
-    "France",
-    "EU",
-    "India"
-   ],
-   "count": 4,
-   "recent12": 4,
-   "newestHoursAgo": 2.3,
-   "keywords": [
-    "cape",
-    "verde",
-    "president",
-    "incumbent",
-    "poll",
-    "favour"
-   ],
-   "entities": [
-    "cape verde",
-    "african",
-    "jose maria neves"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Cape Verde could make election history with first female president",
-     "summary": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent Jose Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.",
-     "url": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
-     "source": "France 24",
-     "published": "2026-11-15T07:56:14.000Z"
-    },
-    {
-     "title": "Cape Verde votes for president, with incumbent favoured to win",
-     "summary": "Polling stations have opened in Cape Verde for a presidential election with incumbent Jose Maria Neves favoured to win a second term as head of state of the west African archipelago renowned for its democratic stability. He is up against the country's first ever woman candidate Joana Rosa Amado, among other contenders.",
-     "url": "https://www.rfi.fr/en/africa/20261115-cape-verde-votes-for-president-with-incumbent-favoured-to-win",
-     "source": "RFI",
-     "published": "2026-11-15T10:01:40.000Z"
-    },
-    {
-     "title": "Cape Verde heads to the polls in presidential election",
-     "summary": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
-     "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
-     "source": "Euronews",
-     "published": "2026-11-15T09:45:23.000Z"
-    },
-    {
-     "title": "Cape Verde could elect first woman President since gaining independence in 1975",
-     "summary": "Six candidates are competing, with a runoff scheduled for Nov. 29 if no candidate receives more than half the votes",
-     "url": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T06:13:07.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "score": 78.81,
-   "tier": "significant",
-   "sources": [
-    "RFI",
-    "The Hindu",
-    "Africanews",
-    "New York Times"
-   ],
-   "countries": [
-    "France",
-    "India",
-    "Africa",
-    "US"
-   ],
-   "count": 4,
-   "recent12": 1,
-   "newestHoursAgo": 3.4,
-   "keywords": [
-    "sudan",
-    "south",
-    "postpon",
-    "february",
-    "election",
-    "national"
-   ],
-   "entities": [
-    "south sudan",
-    "december",
-    "february the"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-     "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
-     "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-     "source": "New York Times",
-     "published": "2026-11-14T16:51:55.000Z"
-    },
-    {
-     "title": "South Sudan postpones first national elections until February",
-     "summary": "South Sudan, the world's newest country, on Saturday postponed its first national elections from December to February amid growing ethnic and political battles.",
-     "url": "https://www.rfi.fr/en/africa/20261114-south-sudan-postpones-first-national-elections-until-february",
-     "source": "RFI",
-     "published": "2026-11-14T09:00:26.000Z"
-    },
-    {
-     "title": "South Sudan postpones first national elections until February",
-     "summary": "The legislative and presidential elections had been scheduled for December 22, after already being delayed several times. The United Nations had warned that a vote could set off widespread conflict",
-     "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T09:10:07.000Z"
-    },
-    {
-     "title": "South Sudan postpones first general election from December to February",
-     "summary": "The elections commission says this will allow for the implementation of additional processes including distribution of registration materials and civic education.",
-     "url": "http://www.africanews.com/2026/11/15/south-sudan-postpones-first-general-election-from-december-to-february/",
-     "source": "Africanews",
-     "published": "2026-11-15T08:55:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "score": 77.44,
-   "tier": "major",
-   "sources": [
-    "PBS NewsHour",
-    "The Hindu",
-    "Sky News",
-    "DW",
     "New York Times",
-    "Africanews"
-   ],
-   "countries": [
-    "US",
-    "India",
-    "UK",
-    "Germany",
-    "Africa"
-   ],
-   "count": 7,
-   "recent12": 0,
-   "newestHoursAgo": 19.9,
-   "keywords": [
-    "microsoft",
-    "outage",
-    "servic",
-    "restor",
-    "global",
-    "all"
-   ],
-   "entities": [
-    "microsoft"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Microsoft says services fully restored after global outage",
-     "summary": "The outage affected governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had impacted some of their operations.",
-     "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage",
-     "source": "PBS NewsHour",
-     "published": "2026-11-14T16:23:56.000Z"
-    },
-    {
-     "title": "Microsoft says all services working again",
-     "summary": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
-     "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-14T09:06:00.000Z"
-    },
-    {
-     "title": "Microsoft’s Global Outage and Fixes: What We Know",
-     "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
-     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-     "source": "New York Times",
-     "published": "2026-11-14T13:15:55.000Z"
-    },
-    {
-     "title": "Microsoft says services fully restored after hourslong global outage",
-     "summary": "The ‌technology giant said it was “monitoring the backlog of email messages ‌accrued during this ​event” before considering the issue with ⁠the enterprise services resolved.",
-     "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T09:58:34.000Z"
-    },
-    {
-     "title": "Microsoft confirms all services are restored after global outage",
-     "summary": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK.",
-     "url": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
-     "source": "Sky News",
-     "published": "2026-11-14T14:56:00.000Z"
-    },
-    {
-     "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
-     "summary": "After nearly 24 hours of global outage, lasting from November 12 to November 14, Microsoft restores services across all platforms",
-     "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T08:41:48.000Z"
-    },
-    {
-     "title": "Microsoft apologises for global outage and rules out cyberattack",
-     "summary": "The tech giant said on Saturday that service has now been restored across Teams, Outlook, and its other products, ending the shutdown.",
-     "url": "http://www.africanews.com/2026/11/14/microsoft-apologises-for-global-outage-and-rules-out-cyberattack/",
-     "source": "Africanews",
-     "published": "2026-11-14T14:34:21.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "score": 66.95,
-   "tier": "significant",
-   "sources": [
-    "BBC",
     "The Hindu",
     "France 24"
    ],
    "countries": [
     "UK",
+    "US",
     "India",
     "France"
    ],
-   "count": 3,
-   "recent12": 3,
-   "newestHoursAgo": 1.2,
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 1.6,
    "keywords": [
-    "church",
-    "jordan",
-    "sentenc",
-    "men",
-    "death",
-    "attack"
+    "houthi",
+    "forc",
+    "retreat",
+    "yemen",
+    "yemeni",
+    "strait"
    ],
    "entities": [
-    "jordan",
-    "greek orthodox"
+    "yemeni",
+    "yemen",
+    "aden",
+    "saudi arabia"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-     "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "title": "Yemeni forces retreat to defend port city from Houthis",
+     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-15T11:06:32.000Z"
+     "published": "2026-11-16T11:09:38.000Z"
     },
     {
-     "title": "Three sentenced to death over Jordan church attack",
-     "summary": "A Jordanian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
-     "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+     "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+     "summary": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+     "source": "New York Times",
+     "published": "2026-11-15T21:26:19.000Z"
+    },
+    {
+     "title": "Yemen's Houthis advance on Aden as govt bolsters defences",
+     "summary": "Yemen's Houthis were advancing on the interim seat of the internationally recognised government on Sunday, positioned just 60 kilometres from Aden, according to military sources, as government forces rushed to defend the city.",
+     "url": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
      "source": "France 24",
-     "published": "2026-11-15T08:53:39.000Z"
+     "published": "2026-11-16T11:36:38.000Z"
     },
     {
-     "title": "Jordan sentences three men to death over church attack",
-     "summary": "Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in Hammoud village, in Jordan's Karak governorate on October 23",
-     "url": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece",
+     "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
+     "summary": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
+     "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
      "source": "The Hindu",
-     "published": "2026-11-15T09:00:51.000Z"
+     "published": "2026-11-16T00:06:23.000Z"
     }
    ]
   },
   {
-   "rank": 8,
-   "score": 60.31,
+   "rank": 3,
+   "score": 94.3,
    "tier": "significant",
    "sources": [
+    "BBC",
     "France 24",
-    "RFI",
+    "The Hindu",
     "Japan Times"
    ],
    "countries": [
+    "UK",
     "France",
+    "India",
     "Japan"
    ],
    "count": 4,
-   "recent12": 3,
-   "newestHoursAgo": 0.2,
-   "keywords": [
-    "francopho",
-    "tension",
-    "summit",
-    "open",
-    "overshado",
-    "cambodia"
-   ],
-   "entities": [
-    "francophonie",
-    "francophone",
-    "cambodia",
-    "phnom penh",
-    "rwanda",
-    "oif",
-    "democratic republic",
-    "congo"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Francophone summit opens in Cambodia, overshadowed by tensions in Africa",
-     "summary": "The 20th Francophonie Summit opened on Sunday in Phnom Penh, Cambodia, overshadowed by a high-stakes leadership dispute. The International Organisation of the Francophonie is set to elect its next secretary-general on Monday for a four-year term, but escalating friction between Rwanda, which has led the OIF for eight years, and the Democratic Republic of Congo has thrown the summit into crisis. Details by Liza Kaminov.",
-     "url": "https://www.france24.com/en/video/20261115-francophone-summit-opens-in-cambodia-overshadowed-by-tensions-in-africa",
-     "source": "France 24",
-     "published": "2026-11-15T12:06:21.000Z"
-    },
-    {
-     "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
-     "summary": "Phnom Penh is hosting the 20th Francophonie summit, which opens on 15 November. But with tensions with Thailand rising and tourism in decline, the summit comes at a challenging time for Cambodia.",
-     "url": "https://www.rfi.fr/en/international/20261115-tensions-and-economic-turbulence-in-cambodia-as-it-hosts-francophonie-summit",
-     "source": "RFI",
-     "published": "2026-11-15T08:33:13.000Z"
-    },
-    {
-     "title": "Rwanda-DRC tensions threaten to overshadow Francophonie election",
-     "summary": "As the International Organisation of La Francophonie prepares to choose its leader for the next four years, the conflict between Democratic Republic of Congo and Rwanda, alongside criticism of incumbent Louise Mushikiwabo's record, is making for an unusually tense race.",
-     "url": "https://www.rfi.fr/en/africa/20261114-rwanda-drc-tensions-threaten-to-overshadow-francophonie-election",
-     "source": "RFI",
-     "published": "2026-11-14T08:14:15.000Z"
-    },
-    {
-     "title": "Francophone summit opens with Congo-Rwanda clash",
-     "summary": "The Organisation Internationale de la Francophonie (OIF) gathers around 90 states and nations including 53 full members.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/politics/francophone-summit-congo-rwanda/",
-     "source": "Japan Times",
-     "published": "2026-11-15T07:55:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "score": 56.94,
-   "tier": "significant",
-   "sources": [
-    "BBC",
-    "The Hindu",
-    "New York Times"
-   ],
-   "countries": [
-    "UK",
-    "India",
-    "US"
-   ],
-   "count": 3,
-   "recent12": 1,
-   "newestHoursAgo": 5.7,
-   "keywords": [
-    "ebola",
-    "outbreak",
-    "congo",
-    "epicenter",
-    "mother",
-    "aid"
-   ],
-   "entities": [
-    "congo",
-    "ebola"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-     "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-15T00:06:55.000Z"
-    },
-    {
-     "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
-     "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
-     "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
-     "source": "New York Times",
-     "published": "2026-11-14T15:43:16.000Z"
-    },
-    {
-     "title": "Ebola outbreak remains out of control in Congo six months into response",
-     "summary": "The Ebola outbreak is the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016",
-     "url": "https://www.thehindu.com/news/international/ebola-outbreak-remains-out-of-control-in-congo-six-months-into-response/article71704179.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T06:35:22.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "score": 56.62,
-   "tier": "significant",
-   "sources": [
-    "DW",
-    "Guardian",
-    "Financial Times"
-   ],
-   "countries": [
-    "Germany",
-    "UK"
-   ],
-   "count": 4,
    "recent12": 4,
-   "newestHoursAgo": 5.8,
+   "newestHoursAgo": 0.3,
    "keywords": [
-    "china",
-    "summit",
-    "apec",
-    "shenzhen",
-    "beij",
-    "donald"
+    "rwanda",
+    "migrant",
+    "deportati",
+    "hub",
+    "deal",
+    "announce"
    ],
    "entities": [
-    "china",
-    "donald trump",
-    "shenzhen",
-    "beijing",
-    "jinping",
-    "vladimir putin",
-    "asia-pacific economic cooperation",
-    "apec"
+    "rwanda",
+    "austria",
+    "greece",
+    "netherlands"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-     "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
-     "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-15T06:31:00.000Z"
+     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T12:54:44.000Z"
     },
     {
-     "title": "The world according to China",
-     "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
-     "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-15T03:00:02.000Z"
+     "title": "Five EU nations set to announce migrant deportation centre deal with Rwanda",
+     "summary": "Five EU countries on Monday are set to announce a deal to establish a migrant deportation centre in Rwanda – the first such facility outside the bloc. The move comes after the EU toughened its migration rules in late 2025.",
+     "url": "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub",
+     "source": "France 24",
+     "published": "2026-11-16T06:07:22.000Z"
     },
     {
-     "title": "World leaders head to Asia for back-to-back diplomatic summits",
-     "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US. Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections . Continue rea",
-     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-     "source": "Guardian",
-     "published": "2026-11-15T04:00:02.000Z"
+     "title": "European Union nations to unveil Rwanda deal for migrant return hub",
+     "summary": "The group, also comprising Austria, Greece and the Netherlands, has been gunning to open a so-called \"return-hub\" despite rights groups' concerns, after the EU cleared the way with a recent toughening of migration rules",
+     "url": "https://www.thehindu.com/news/international/european-union-nations-to-unveil-rwanda-deal-for-migrant-return-hub/article71706988.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T07:01:36.000Z"
     },
     {
-     "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-     "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. The Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribut",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-     "source": "Guardian",
-     "published": "2026-11-15T06:22:32.000Z"
+     "title": "EU nations to unveil Rwanda deal for migrant return hub",
+     "summary": "The announcement will mark the culmination of a push to boost deportations launched in 2024, on the back of a souring of public opinion on migration.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/world/politics/eu-migrant-return-hub-rwanda/",
+     "source": "Japan Times",
+     "published": "2026-11-16T08:02:00.000Z"
     }
    ]
   },
   {
-   "rank": 11,
-   "score": 55.97,
-   "tier": "significant",
-   "sources": [
-    "Guardian",
-    "Euronews",
-    "The Hindu"
-   ],
-   "countries": [
-    "UK",
-    "EU",
-    "India"
-   ],
-   "count": 5,
-   "recent12": 2,
-   "newestHoursAgo": 3.4,
-   "keywords": [
-    "faa",
-    "stop",
-    "ground",
-    "flight",
-    "overload",
-    "blam"
-   ],
-   "entities": [
-    "faa",
-    "trump",
-    "thousands",
-    "saturday"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-     "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began when a contractor was performing “routine maintenance” at a remote FAA facility to “switch telecommunications lines” from copper wire to fiber optic cable. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "source": "Guardian",
-     "published": "2026-11-14T17:11:18.000Z"
-    },
-    {
-     "title": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
-     "summary": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
-     "url": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
-     "source": "Euronews",
-     "published": "2026-11-14T06:56:20.000Z"
-    },
-    {
-     "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
-     "summary": "Thousands of flights and potentially over a million travellers were affected from coast to coast",
-     "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T08:56:34.000Z"
-    },
-    {
-     "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
-     "summary": "Trump administration rules out foul play, Transportation Secretary says major communications outage caused by decades old technology",
-     "url": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
-     "source": "The Hindu",
-     "published": "2026-11-14T06:29:38.000Z"
-    },
-    {
-     "title": "U.S. air travel should recover from ground stop by end of November 15, FAA says",
-     "summary": "New technology being added to the nation's air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said",
-     "url": "https://www.thehindu.com/news/international/us-air-travel-should-recover-from-ground-stop-by-end-of-november-15-faa-says/article71703985.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T02:56:54.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 12,
-   "score": 55.55,
+   "rank": 4,
+   "score": 90.29,
    "tier": "significant",
    "sources": [
     "BBC",
+    "Africanews",
     "Sky News",
     "The Hindu"
    ],
    "countries": [
     "UK",
+    "Africa",
     "India"
    ],
-   "count": 3,
-   "recent12": 3,
-   "newestHoursAgo": 4,
+   "count": 5,
+   "recent12": 5,
+   "newestHoursAgo": 0.5,
    "keywords": [
-    "commander",
-    "hama",
-    "senior",
-    "israeli",
-    "gaza",
+    "shoot",
+    "africa",
+    "south",
+    "dead",
+    "separate",
     "kill"
    ],
    "entities": [
-    "hamas",
-    "israeli"
+    "south africa",
+    "monday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-     "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "title": "Two mass shootings in South Africa leave 17 dead",
+     "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+     "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-15T08:17:41.000Z"
+     "published": "2026-11-16T10:57:48.000Z"
     },
     {
-     "title": "Hamas says senior commander killed in Israeli airstrike",
-     "summary": "A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group.",
-     "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+     "title": "At least 17 people killed in two separate shootings in South Africa",
+     "summary": "At least 17 people have been killed in two separate shootings in South Africa, police said on Monday.",
+     "url": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
      "source": "Sky News",
-     "published": "2026-11-15T05:16:00.000Z"
+     "published": "2026-11-16T08:55:00.000Z"
     },
     {
-     "title": "Israeli military says it struck senior armed Hamas commander",
-     "summary": "Hamas later confirmed his ‌death and said his ‌funeral ⁠would be held on Sunday (November 15) ⁠afternoon in Khan Younis in the southern Gaza Strip",
-     "url": "https://www.thehindu.com/news/international/israeli-military-says-it-struck-senior-armed-hamas-commander/article71704070.ece",
+     "title": "South Africa police probe two weekend shootings that left 17 dead",
+     "summary": "The ​motive for the shooting has not ⁠yet been established, and no arrests have been ‌made",
+     "url": "https://www.thehindu.com/news/international/south-africa-police-probe-two-weekend-shootings-that-left-17-dead/article71707200.ece",
      "source": "The Hindu",
-     "published": "2026-11-15T04:02:00.000Z"
+     "published": "2026-11-16T08:49:29.000Z"
+    },
+    {
+     "title": "17 killed in two deadly shootings as South Africa battles rising violent crime",
+     "summary": "Seventeen people are dead following two separate mass shootings in South Africa. In the first attack, six men and three women, were found shot dead inside a shack near Pretoria.",
+     "url": "http://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/",
+     "source": "Africanews",
+     "published": "2026-11-16T12:41:56.000Z"
+    },
+    {
+     "title": "Gunmen kill 17 in two separate shootings in South Africa",
+     "summary": "Seventeen people have been shot dead in two separate attacks in South Africa, police said on Monday, as the country continues to struggle with high levels of violent crime.",
+     "url": "http://www.africanews.com/2026/11/16/gunmen-kill-17-in-two-separate-shootings-in-south-africa/",
+     "source": "Africanews",
+     "published": "2026-11-16T09:11:18.000Z"
     }
    ]
   },
   {
-   "rank": 13,
-   "score": 47.76,
+   "rank": 5,
+   "score": 89.86,
    "tier": "significant",
    "sources": [
     "France 24",
+    "Guardian",
     "The Hindu",
-    "Guardian"
-   ],
-   "countries": [
-    "France",
-    "India",
-    "UK"
-   ],
-   "count": 3,
-   "recent12": 1,
-   "newestHoursAgo": 7,
-   "keywords": [
-    "eisenkot",
-    "netanyahu",
-    "israeli",
-    "dismiss",
-    "call",
-    "unity"
-   ],
-   "entities": [
-    "israeli",
-    "eisenkot",
-    "netanyahu",
-    "gadi eisenkot",
-    "benjamin netanyahu"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-     "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration.",
-     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-     "source": "France 24",
-     "published": "2026-11-14T20:35:22.000Z"
-    },
-    {
-     "title": "Benjamin Netanyahu calls for Israeli unity government, Eisenkot dismisses ‘tricks’",
-     "summary": "The latest exchange comes as Mr,. Eisenkot is in the midst of negotiations to form a government, after he was tapped for the post of premier on Nov. 15, 2026",
-     "url": "https://www.thehindu.com/news/international/benjamin-netanyahu-calls-for-israeli-unity-government-eisenkot-dismisses-tricks/article71704005.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T05:21:13.000Z"
-    },
-    {
-     "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-     "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli",
-     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-     "source": "Guardian",
-     "published": "2026-11-14T11:11:03.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 14,
-   "score": 39.94,
-   "tier": "minor",
-   "sources": [
-    "DW",
-    "RFI"
-   ],
-   "countries": [
-    "Germany",
-    "France"
-   ],
-   "count": 3,
-   "recent12": 1,
-   "newestHoursAgo": 1.7,
-   "keywords": [
-    "cop31",
-    "climate",
-    "turkey",
-    "green",
-    "protester",
-    "urge"
-   ],
-   "entities": [
-    "cop",
-    "turkey",
-    "antalya"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "COP31: Protesters, UN urge swift climate deal",
-     "summary": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.",
-     "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-14T17:19:00.000Z"
-    },
-    {
-     "title": "Turkey talks green at COP31 while cracking down on activists",
-     "summary": "As the Mediterranean resort city of Antalya co-hosts the COP31 climate conference with Australia, Turkish President Recep Tayyip Erdogan is using the global spotlight to promote his country’s climate ambitions. But his green image is being challenged at home by environmentalists, who say they face an intensifying government crackdown.",
-     "url": "https://www.rfi.fr/en/podcasts/international-report/20261114-turkey-talks-green-at-cop31-while-cracking-down-on-activists",
-     "source": "RFI",
-     "published": "2026-11-14T14:09:47.000Z"
-    },
-    {
-     "title": "Rising heat puts Africa’s mothers and children in danger",
-     "summary": "As world leaders meet at the COP31 United Nations climate summit in Antalya, Turkey, health experts are warning that women and children in Africa are bearing the brunt of rising temperatures, and that the continent’s health systems are not equipped to cope.",
-     "url": "https://www.rfi.fr/en/environment/20261115-rising-heat-puts-africa-s-mothers-and-children-in-danger-cop31-kenya-climate-change",
-     "source": "RFI",
-     "published": "2026-11-15T10:38:51.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 15,
-   "score": 38.98,
-   "tier": "minor",
-   "sources": [
-    "France 24",
     "Financial Times"
    ],
    "countries": [
     "France",
-    "UK"
+    "UK",
+    "India"
    ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 1.3,
+   "count": 4,
+   "recent12": 4,
+   "newestHoursAgo": 0.4,
    "keywords": [
-    "nvidia",
-    "huang",
-    "scandal",
-    "jensen",
-    "chip",
-    "fallout"
+    "bridge",
+    "crimea",
+    "drone",
+    "ukraine",
+    "dron",
+    "traffic"
    ],
    "entities": [
-    "nvidia",
-    "jensen huang",
-    "chinese"
+    "crimea",
+    "ukraine",
+    "russia",
+    "ukrainian"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
-     "summary": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-     "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+     "title": "Ukraine strikes Crimean Bridge in record drone attack",
+     "summary": "Russia’s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours",
+     "url": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
      "source": "Financial Times",
-     "published": "2026-11-15T11:00:04.000Z"
+     "published": "2026-11-16T10:29:11.000Z"
     },
     {
-     "title": "Washington divided over how to deal with fallout from the Nvidia case",
-     "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to blacklist a Singapore company at the heart of the scandal, but the Commerce Department didn't act. Megaspeed was run by suspected Chinese spy Alice Huang, who reportedly had an affair with Jensen Huang. Details by Peter O'Brien.",
-     "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+     "title": "🔴 Live: 600 Ukrainian drones target Moscow, Crimea bridge strike halts traffic",
+     "summary": "",
+     "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic",
      "source": "France 24",
-     "published": "2026-11-14T17:21:26.000Z"
+     "published": "2026-11-16T06:59:55.000Z"
+    },
+    {
+     "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+     "summary": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. Earlier drones could be heard buzzing above the structure, as Russian air defence units opened fire. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+     "source": "Guardian",
+     "published": "2026-11-16T12:45:09.000Z"
+    },
+    {
+     "title": "Ukraine hits Russia's Crimea bridge in 1,300-drone barrage",
+     "summary": "The strike on the bridge appeared to inflict only minor damage, though drew an angry response from Russian-installed officials",
+     "url": "https://www.thehindu.com/news/international/ukraine-hits-russias-crimea-bridge-in-1300-drone-barrage/article71707251.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T09:12:33.000Z"
     }
    ]
   },
   {
-   "rank": 16,
-   "score": 38.59,
-   "tier": "minor",
+   "rank": 6,
+   "score": 70.5,
+   "tier": "significant",
    "sources": [
     "BBC",
-    "Africanews"
+    "Sky News",
+    "Euronews",
+    "Guardian"
    ],
    "countries": [
     "UK",
-    "Africa"
+    "EU"
    ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 1.4,
+   "count": 4,
+   "recent12": 4,
+   "newestHoursAgo": 6.4,
    "keywords": [
-    "pope",
-    "suffer",
-    "visit",
-    "leo",
-    "and",
-    "denounc"
+    "alleg",
+    "hospital",
+    "leav",
+    "leg",
+    "australia",
+    "attack"
    ],
    "entities": [
-    "pope leo"
+    "australian",
+    "helen haines"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-     "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-     "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+     "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+     "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-15T09:57:25.000Z"
+     "published": "2026-11-16T03:09:49.000Z"
+    },
+    {
+     "title": "Australian MP who lost her legs in alleged attack speaks on leaving hospital",
+     "summary": "Helen Haines, the Australian politician who lost both legs after an alleged attack, has said she is \"full of gratitude\" upon leaving hospital.",
+     "url": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
+     "source": "Sky News",
+     "published": "2026-11-16T06:49:00.000Z"
+    },
+    {
+     "title": "Australian MP Helen Haines leaves hospital after losing both legs in alleged car attack",
+     "summary": "The attack has sparked much soul-searching in a country where political violence is rare but where police have documented a steady rise in threats towards elected officials.",
+     "url": "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack",
+     "source": "Euronews",
+     "published": "2026-11-16T06:42:33.000Z"
+    },
+    {
+     "title": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+     "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the amputation of both her legs. In a statement, Haines said she had moved to the rehabilitation stage of her recovery, which would continue in Melbourne. Continue reading...",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+     "source": "Guardian",
+     "published": "2026-11-16T05:05:07.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "score": 66.91,
+   "tier": "significant",
+   "sources": [
+    "PBS NewsHour",
+    "Guardian",
+    "Euronews",
+    "Africanews"
+   ],
+   "countries": [
+    "US",
+    "UK",
+    "EU",
+    "Africa"
+   ],
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 8,
+   "keywords": [
+    "pope",
+    "leo",
+    "visit",
+    "amazon",
+    "peru",
+    "justice"
+   ],
+   "entities": [
+    "peru",
+    "amazon",
+    "god",
+    "pope leo",
+    "andes",
+    "leo",
+    "pope francis"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+     "summary": "On the penultimate day of his visit to his adopted homeland, Leo channeled Pope Francis by emphasizing Catholic teaching that links care for the most vulnerable with care for God's creation.",
+     "url": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
+     "source": "PBS NewsHour",
+     "published": "2026-11-15T19:57:37.000Z"
+    },
+    {
+     "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+     "summary": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care for God’s creation. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+     "source": "Guardian",
+     "published": "2026-11-16T01:13:44.000Z"
+    },
+    {
+     "title": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
+     "summary": "“The blood of these brothers cries out to God and demands justice,” Pope Leo said, to applause from a crowd many of whom wore the feathered headdresses and face markings of the region.",
+     "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
+     "source": "Euronews",
+     "published": "2026-11-16T05:10:26.000Z"
     },
     {
      "title": "Pope Leo denounces suffering of African enslaved people during Peru visit",
@@ -1073,93 +487,997 @@
    ]
   },
   {
-   "rank": 17,
-   "score": 32.4,
-   "tier": "soft",
+   "rank": 8,
+   "score": 66.77,
+   "tier": "significant",
    "sources": [
     "BBC",
     "France 24",
-    "Guardian",
-    "New York Times"
+    "Financial Times"
    ],
    "countries": [
     "UK",
+    "France"
+   ],
+   "count": 3,
+   "recent12": 2,
+   "newestHoursAgo": 0.9,
+   "keywords": [
+    "jensen",
+    "huang",
+    "reinstate",
+    "musk",
+    "nvidia",
+    "join"
+   ],
+   "entities": [
+    "nvidia",
+    "jensen huang",
+    "elon musk"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T12:20:49.000Z"
+    },
+    {
+     "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
+     "summary": "Also in today’s newsletter: IPOs struggle and Trump’s summit with Xi and Putin",
+     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-16T11:01:07.000Z"
+    },
+    {
+     "title": "Musk, Uber co-founder join calls to reinstate Huang as Nvidia chief",
+     "summary": "Elon Musk and an Uber co-founder were among more than 158,000 signatories by Sunday demanding Jensen Huang’s reinstatement as Nvidia chief pending an independent investigation. Huang resigned Thursday after revelations of two extramarital affairs, one with a subordinate and another with a woman accused of spying for China, ending his 33-year tenure at the helm of the AI giant.",
+     "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+     "source": "France 24",
+     "published": "2026-11-15T23:31:15.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "score": 60.62,
+   "tier": "significant",
+   "sources": [
+    "PBS NewsHour",
+    "France 24",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "France",
+    "India"
+   ],
+   "count": 3,
+   "recent12": 1,
+   "newestHoursAgo": 1.9,
+   "keywords": [
+    "starshiel",
+    "zelenskyy",
+    "energy",
+    "restricti",
+    "ukraine",
+    "help"
+   ],
+   "entities": [
+    "starshield",
+    "zelenskyy",
+    "ukraine",
+    "russian",
+    "russia"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+     "summary": "Restrictions on Ukraine's Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelenskyy said Sunday.",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+     "source": "PBS NewsHour",
+     "published": "2026-11-15T18:40:21.000Z"
+    },
+    {
+     "title": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
+     "summary": "Ukraine has struck the bridge linking Russia and ⁠Crimea across the Kerch strait, limiting the flow of traffic, the peninsula's Russian-backed governor Sergei Aksyonov ⁠said on Monday. It comes after Russia struck energy and railway infrastructure across Ukraine over the weekend, in attacks President Volodymyr Zelensky said were made possible ⁠partly due to restrictions on Ukraine's use of SpaceX's Starshield service.",
+     "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
+     "source": "France 24",
+     "published": "2026-11-16T11:18:47.000Z"
+    },
+    {
+     "title": "Zelenskyy says Russia’s energy attacks helped by Starshield restrictions",
+     "summary": "The Ukrainian President said Russia struck energy and railway infrastructure in eight regions overnight, with many strikes getting through because of limits on Starshield terminals",
+     "url": "https://www.thehindu.com/news/international/zelenskyy-says-russias-energy-attacks-helped-by-starshield-restrictions/article71704646.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T12:55:18.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "score": 60.26,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "RFI",
+    "Africanews"
+   ],
+   "countries": [
+    "France",
+    "Africa"
+   ],
+   "count": 5,
+   "recent12": 3,
+   "newestHoursAgo": 1,
+   "keywords": [
+    "francopho",
+    "summit",
+    "cambodia",
+    "organisat",
+    "tension",
+    "phnom"
+   ],
+   "entities": [
+    "francophonie",
+    "congo",
+    "phnom penh",
+    "cambodia",
+    "monday",
+    "african",
+    "democratic republic",
+    "rwanda"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Francophonie summit avoids 'major disaster' after clash over leadership",
+     "summary": "A summit of French-speaking nations attended by France's Emmanuel Macron postponed the election of a new chief Monday after a row between African neighbours the Democratic Republic of Congo and Rwanda. The postponement appears to have staved off a threatened walkout by DR Congo, avoiding what would have been a \"major disaster\", says France 24's Philip Turle.",
+     "url": "https://www.france24.com/en/video/20261116-francophonie-summit-avoids-major-disaster-after-clash-over-leadership",
+     "source": "France 24",
+     "published": "2026-11-16T12:13:08.000Z"
+    },
+    {
+     "title": "Francophonie summit postpones new leader vote amid DR Congo-Rwanda dispute",
+     "summary": "The Organisation Internationale de la Francophonie (OIF) on Monday had been set to choose its new secretary general during talks in the Cambodian capital Phnom Penh. But delegates decided to postpone the election for a year after a walkout threat by the Democratic Republic of Congo amid an ongoing dispute between Kinshasa and Kigali.",
+     "url": "https://www.france24.com/en/africa/20261116-francophonie-summit-postpones-new-leader-vote-amid-dr-congo-rwanda-dispute",
+     "source": "France 24",
+     "published": "2026-11-16T10:51:40.000Z"
+    },
+    {
+     "title": "What is the International Organisation of la Francophonie?",
+     "summary": "With the 20th Francophonie Summit underway in Phnom Penh, Cambodia, all eyes are on the International Organisation of la Francophonie (OIF). But what is the OIF? Resembling the Commonwealth, this post-colonial bloc unites around 90 nations, from 53 full members to friendly states drawn by political and economic ties. Liza Kaminov breaks down what the organisation is all about.",
+     "url": "https://www.france24.com/en/video/20261116-what-is-the-international-organisation-of-la-francophonie",
+     "source": "France 24",
+     "published": "2026-11-16T12:11:02.000Z"
+    },
+    {
+     "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
+     "summary": "Phnom Penh is hosting the 20th Francophonie summit, which opens on 15 November. But with tensions with Thailand rising and tourism in decline, the summit comes at a challenging time for Cambodia.",
+     "url": "https://www.rfi.fr/en/international/20261115-tensions-and-economic-turbulence-in-cambodia-as-it-hosts-francophonie-summit",
+     "source": "RFI",
+     "published": "2026-11-15T08:33:13.000Z"
+    },
+    {
+     "title": "Francophonie summit opens in Cambodia overshadowed by African tensions",
+     "summary": "The DR Congo objects to Rwanda's Louise Mushikiwabo seeking a third term as head of the organisation and threatens to quit if she is re-elected",
+     "url": "http://www.africanews.com/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions/",
+     "source": "Africanews",
+     "published": "2026-11-15T14:10:09.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "score": 58.25,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "The Hindu",
+    "Japan Times"
+   ],
+   "countries": [
+    "France",
+    "India",
+    "Japan"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 1.5,
+   "keywords": [
+    "estonia",
+    "close",
+    "border",
+    "arson",
+    "cross",
+    "maker"
+   ],
+   "entities": [
+    "estonia",
+    "russia",
+    "russian",
+    "estonian",
+    "moscow"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
+     "summary": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday, following a suspected sabotage attack on an Estonian drone maker that Tallinn blamed on Moscow.",
+     "url": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+     "source": "France 24",
+     "published": "2026-11-16T11:43:54.000Z"
+    },
+    {
+     "title": "Estonia to close Russian border crossings after attempted arson attack",
+     "summary": "Estonian authorities detained ‌eight people overnight on suspicion of an attempted arson attack on ‌drone maker Threod Systems that they ‌said ⁠had been ordered by Russia’s ⁠GRU military intelligence service",
+     "url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T05:52:02.000Z"
+    },
+    {
+     "title": "Estonia to close Russia border after ‘sabotage’ bid",
+     "summary": "The move marked a sharp escalation in tensions between Estonia and Russia, part of broader hostilities linked to Moscow's war against Ukraine.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/world/estonia-russia-border-sabotage-bid/",
+     "source": "Japan Times",
+     "published": "2026-11-16T03:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "score": 56.68,
+   "tier": "significant",
+   "sources": [
+    "PBS NewsHour",
+    "The Hindu",
+    "Guardian",
+    "Sky News"
+   ],
+   "countries": [
+    "US",
+    "India",
+    "UK"
+   ],
+   "count": 4,
+   "recent12": 1,
+   "newestHoursAgo": 11.9,
+   "keywords": [
+    "company",
+    "megaspe",
+    "internal",
+    "nvidia",
+    "conduct",
+    "alice"
+   ],
+   "entities": [
+    "megaspeed",
+    "alice huang",
+    "nvidia",
+    "chinese",
+    "company"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+     "summary": "Megaspeed, which is under scrutiny over alleged transfers of advanced Nvidia chips to Chinese companies, also announced an internal investigation led by outside lawyers.",
+     "url": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
+     "source": "PBS NewsHour",
+     "published": "2026-11-15T16:48:48.000Z"
+    },
+    {
+     "title": "Megaspeed says Alice Huang left company in August 2025",
+     "summary": "Megaspeed said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation",
+     "url": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T13:12:32.000Z"
+    },
+    {
+     "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+     "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our busin",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+     "source": "Guardian",
+     "published": "2026-11-16T01:17:04.000Z"
+    },
+    {
+     "title": "Company caught up in Nvidia controversy launches internal investigation",
+     "summary": "A cloud computing company facing scrutiny over claims involving tech giant Nvidia has launched an internal investigation conducted by external lawyers.",
+     "url": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
+     "source": "Sky News",
+     "published": "2026-11-15T17:30:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "score": 53.92,
+   "tier": "significant",
+   "sources": [
+    "Euronews",
+    "The Hindu",
+    "Japan Times"
+   ],
+   "countries": [
+    "EU",
+    "India",
+    "Japan"
+   ],
+   "count": 3,
+   "recent12": 2,
+   "newestHoursAgo": 2,
+   "keywords": [
+    "china",
+    "philippin",
+    "pact",
+    "sea",
+    "ti",
+    "asia"
+   ],
+   "entities": [
+    "philippines",
+    "china",
+    "south china sea"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Australia and Philippines sign new defence pact amid South China Sea tensions",
+     "summary": "The Philippines is building closer military ties with Australia, Japan and the US as tensions with China continue in the South China Sea. The partnerships cover joint exercises, surveillance equipment and closer coordination between their forces.",
+     "url": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions",
+     "source": "Euronews",
+     "published": "2026-11-15T16:42:39.000Z"
+    },
+    {
+     "title": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+     "summary": "China, Taiwan and four ASEAN states — Brunei, Malaysia, the Philippines and Vietnam — have been involved in the decades-long territorial standoffs in the busy waterway, a key global trade route",
+     "url": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T11:13:20.000Z"
+    },
+    {
+     "title": "Takaichi heads to Asia summits with focus on warming chilly ties with China",
+     "summary": "The Japanese leader is visiting the Philippines and China, where a key focus will be improving ties with Beijing and like-minded partners.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/politics/japan-takaichi-apec-asean-china/",
+     "source": "Japan Times",
+     "published": "2026-11-16T07:42:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "score": 52.38,
+   "tier": "significant",
+   "sources": [
+    "BBC",
+    "New York Times",
+    "France 24"
+   ],
+   "countries": [
+    "UK",
+    "US",
+    "France"
+   ],
+   "count": 3,
+   "recent12": 2,
+   "newestHoursAgo": 9.8,
+   "keywords": [
+    "felix",
+    "gallardo",
+    "drug",
+    "miguel",
+    "angel",
+    "mexican"
+   ],
+   "entities": [
+    "mexican",
+    "miguel",
+    "félix gallardo"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+     "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+     "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T03:21:56.000Z"
+    },
+    {
+     "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+     "summary": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+     "source": "New York Times",
+     "published": "2026-11-16T02:11:17.000Z"
+    },
+    {
+     "title": "Mexican drug trade 'boss of bosses' Miguel Angel Felix Gallardo dies at 80",
+     "summary": "Miguel Angel Felix Gallardo, a founder of Mexico’s Guadalajara drug cartel known as the “boss of bosses”, died in hospital on Sunday aged 80 after suffering multiple organ failure, Jalisco state’s security ministry said. Imprisoned since 1989, he had been transferred from prison to the hospital two days before his death.",
+     "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+     "source": "France 24",
+     "published": "2026-11-15T22:48:31.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "score": 52.13,
+   "tier": "significant",
+   "sources": [
+    "RFI",
+    "Euronews",
+    "Africanews"
+   ],
+   "countries": [
+    "France",
+    "EU",
+    "Africa"
+   ],
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 4.8,
+   "keywords": [
+    "verde",
+    "cape",
+    "nev",
+    "president",
+    "result",
+    "jose"
+   ],
+   "entities": [
+    "cape verde",
+    "josé maria neves"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Neves wins second term as Cape Verde's president: provisional results",
+     "summary": "José Maria Neves has won a second five-year term as Cape Verde's president, according to provisional results from Sunday's election.",
+     "url": "https://www.rfi.fr/en/africa/20261116-neves-wins-second-term-as-cape-verde-s-president-provisional-results",
+     "source": "RFI",
+     "published": "2026-11-16T08:24:09.000Z"
+    },
+    {
+     "title": "Cape Verde's President José Maria Neves re-elected, provisional election results show",
+     "summary": "Unlike several of its West African neighbours where presidential elections have been tense in recent years, Cape Verde is known for its political stability and good governance.",
+     "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+     "source": "Euronews",
+     "published": "2026-11-15T09:45:23.000Z"
+    },
+    {
+     "title": "Cape Verde's President Neves projected to win re-election with 64% of vote",
+     "summary": "Preliminary results, based on 98% of the ballots counted, show that the incumbent president and candidate for re-election, José Maria Neves, has won this presidential election with nearly 64% of the vote, while his opponent, Joana Rosa, received 31.5%.",
+     "url": "http://www.africanews.com/2026/11/16/cape-verdes-president-neves-projected-to-win-re-election-with-64-of-vote/",
+     "source": "Africanews",
+     "published": "2026-11-16T05:53:45.000Z"
+    },
+    {
+     "title": "Presidential polls open in Cape Verde with first female candidate",
+     "summary": "Incumbent Jose Maria Neves is favoured to win a second term in office in a country known for its stability in a politically volatile region.",
+     "url": "http://www.africanews.com/2026/11/15/presidential-polls-open-in-cape-verde-with-first-female-candidate/",
+     "source": "Africanews",
+     "published": "2026-11-15T13:16:38.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "score": 41.58,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "New York Times"
+   ],
+   "countries": [
     "France",
     "US"
    ],
-   "count": 6,
+   "count": 2,
    "recent12": 2,
-   "newestHoursAgo": 1.9,
+   "newestHoursAgo": 0.5,
    "keywords": [
-    "eurovisio",
-    "contest",
-    "song",
-    "asia",
-    "bangkok",
-    "win"
+    "surgery",
+    "america",
+    "pope",
+    "leo",
+    "south",
+    "endur"
    ],
    "entities": [
-    "bangkok",
-    "eurovision",
-    "asia",
-    "philippines",
-    "sobra-sobra",
-    "carmelle",
-    "asian",
-    "eurovision song contest"
+    "south america",
+    "pope leo xiv"
    ],
-   "soft": true,
+   "soft": false,
    "items": [
     {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T18:17:58.000Z"
-    },
-    {
-     "title": "Asian love ballads test Eurovision’s winning song formula.",
-     "summary": "While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.",
-     "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
+     "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+     "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
      "source": "New York Times",
-     "published": "2026-11-14T14:24:17.000Z"
+     "published": "2026-11-16T12:43:11.000Z"
     },
     {
-     "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
-     "summary": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.",
-     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
-     "source": "New York Times",
-     "published": "2026-11-14T15:27:30.000Z"
-    },
-    {
-     "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
-     "summary": "China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.",
-     "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
-     "source": "New York Times",
-     "published": "2026-11-15T03:54:18.000Z"
-    },
-    {
-     "title": "Philippine star Carmelle wins first Asian edition of Eurovision song contest",
-     "summary": "The Philippines has won the first Asian edition of the Eurovision Song Contest. The Filipino singer beat ten other acts to take the title in Bangkok, with a song celebrating women's empowerment. A taste of the winning song with Jack Pownall.",
-     "url": "https://www.france24.com/en/philippine-star-carmelle-wins-first-asian-edition-of-eurovision-song-contest",
+     "title": "Pope Leo wraps up South America tour that tested recovery from cancer surgery",
+     "summary": "Pope Leo XIV concludes his 12-day homecoming tour of South America on Monday, a visit that has helped dispel concerns over his health following his recovery from cancer surgery. The 71-year-old pontiff visited Uruguay, Argentina and Peru, crisscrossing a continent where he had spent almost two decades serving as a missionary.",
+     "url": "https://www.france24.com/en/video/20261116-pope-leo-wraps-up-south-america-tour-that-tested-recovery-from-cancer-surgery",
      "source": "France 24",
-     "published": "2026-11-15T10:26:57.000Z"
+     "published": "2026-11-16T12:15:46.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "score": 40.4,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Financial Times"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 1.2,
+   "keywords": [
+    "gaza",
+    "israel",
+    "humanitar",
+    "vital",
+    "pressure",
+    "lash"
+   ],
+   "entities": [
+    "israel"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+     "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+     "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T08:56:04.000Z"
     },
     {
-     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-     "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-     "source": "Guardian",
-     "published": "2026-11-14T19:01:32.000Z"
+     "title": "Israel under pressure as winter rains lash Gaza",
+     "summary": "Diplomats and aid workers say Israel is exacerbating dire humanitarian conditions by restricting the entry of vital supplies",
+     "url": "https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-16T11:58:17.000Z"
     }
    ]
   },
   {
    "rank": 18,
-   "score": 31.32,
+   "score": 40.01,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "The Hindu"
+   ],
+   "countries": [
+    "France",
+    "India"
+   ],
+   "count": 3,
+   "recent12": 2,
+   "newestHoursAgo": 0,
+   "keywords": [
+    "czech",
+    "media",
+    "fund",
+    "hundred",
+    "plan",
+    "protest"
+   ],
+   "entities": [
+    "czechs",
+    "hundreds",
+    "prague",
+    "sunday",
+    "velvet revolution"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Hundreds of thousands protest Czech government's media funding plan",
+     "summary": "Hundreds of thousands of Czechs rallied in Prague on Sunday against a government plan to cut a public media fee and move funding to the state budget — a policy critics say would dent the broadcasters' independence and viability.",
+     "url": "https://www.france24.com/en/video/20261116-hundreds-of-thousands-protest-czech-government-s-media-funding-plan",
+     "source": "France 24",
+     "published": "2026-11-16T13:09:59.000Z"
+    },
+    {
+     "title": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+     "summary": "Hundreds of thousands of Czechs rallied in Prague on Sunday against government plans to replace public media fees with direct state funding, which critics say threatens broadcasters’ independence. Organisers said turnout exceeded a March protest of more than 200,000, potentially making it the largest demonstration since the 1989 Velvet Revolution.",
+     "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+     "source": "France 24",
+     "published": "2026-11-16T02:28:13.000Z"
+    },
+    {
+     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+     "summary": "The massive protest took place at the capital's Letná Park, where huge crowds gathered during the 1989 Velvet Revolution, which ended more than 40 years of communist rule in the country",
+     "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T16:09:20.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "score": 40.01,
+   "tier": "minor",
+   "sources": [
+    "New York Times",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 0.3,
+   "keywords": [
+    "bahrain",
+    "cleric",
+    "shia",
+    "sunni",
+    "right",
+    "shiite"
+   ],
+   "entities": [
+    "bahrain"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+     "summary": "The defendants were accused of colluding with Iran. Rights groups said the case raised concerns about religious persecution in Bahrain, which is ruled by a Sunni monarchy.",
+     "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+     "source": "New York Times",
+     "published": "2026-11-16T12:54:55.000Z"
+    },
+    {
+     "title": "Bahrain sentences 64 Shias, mostly clerics, to life on terror charges: rights group",
+     "summary": "Bahrain, a Sunni Muslim kingdom, has a large Shia population that has long complained of marginalisation",
+     "url": "https://www.thehindu.com/news/international/bahrain-sentences-64-shias-mostly-clerics-to-life-on-terror-charges-rights-group/article71707395.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T10:15:29.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "score": 39.9,
+   "tier": "minor",
+   "sources": [
+    "New York Times",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 0.4,
+   "keywords": [
+    "winter",
+    "peace",
+    "russia",
+    "ukraine",
+    "talk",
+    "nightmare"
+   ],
+   "entities": [
+    "ukraine",
+    "russia"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+     "summary": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
+     "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+     "source": "New York Times",
+     "published": "2026-11-16T12:50:08.000Z"
+    },
+    {
+     "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+     "summary": "At talks in Brussels, EU foreign ministers said the priority should be to secure a ceasefire and then a real peace agreement",
+     "url": "https://www.thehindu.com/news/international/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears/article71707737.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T11:48:40.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "score": 38.98,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "Euronews"
+   ],
+   "countries": [
+    "France",
+    "EU"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 1.9,
+   "keywords": [
+    "netanyahu",
+    "eisenkot",
+    "minute",
+    "longer",
+    "cannot",
+    "israeli"
+   ],
+   "entities": [
+    "netanyahu",
+    "israeli",
+    "gadi eisenkot",
+    "sunday",
+    "eisenkot",
+    "benjamin netanyahu"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "'Not a minute longer': Israel's Eisenkot calls for Netanyahu's ouster",
+     "summary": "Israeli prime ministerial hopeful Gadi Eisenkot on Sunday said caretaker premier Benjamin Netanyahu \"cannot remain at the head of the government for a minute longer\", following press reports that Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.",
+     "url": "https://www.france24.com/en/video/20261116-not-a-minute-longer-israel-s-eisenkot-calls-for-netanyahu-s-ouster",
+     "source": "France 24",
+     "published": "2026-11-16T11:16:44.000Z"
+    },
+    {
+     "title": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+     "summary": "Israeli prime ministerial hopeful Gadi Eisenkot said on Sunday caretaker premier Benjamin Netanyahu must leave office immediately following reports of alleged electoral interference by a Netanyahu aide. The former army chief called Netanyahu and his entourage an immediate threat to democracy, hours after representatives discussed forming a national unity government.",
+     "url": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+     "source": "France 24",
+     "published": "2026-11-16T03:47:28.000Z"
+    },
+    {
+     "title": "Israeli opposition chiefs denounce Netanyahu over 'attempted coup'",
+     "summary": "Netanyahu's main rival, former army chief of staff Gadi Eisenkot, wrote on Sunday that the caretaker prime minister \"cannot remain at the head of the government for a minute longer\".",
+     "url": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
+     "source": "Euronews",
+     "published": "2026-11-16T08:58:46.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "score": 37.53,
+   "tier": "minor",
+   "sources": [
+    "NPR",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 1.1,
+   "keywords": [
+    "faa",
+    "flight",
+    "ground",
+    "stop",
+    "affect",
+    "trump"
+   ],
+   "entities": [
+    "faa",
+    "trump"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+     "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+     "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+     "source": "NPR",
+     "published": "2026-11-16T12:08:14.000Z"
+    },
+    {
+     "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+     "summary": "Thousands of flights and potentially over a million travellers were affected from coast to coast",
+     "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T08:56:34.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "score": 37.31,
    "tier": "minor",
    "sources": [
     "BBC",
+    "Sky News"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 0.7,
+   "keywords": [
+    "murder",
+    "man",
+    "attempt",
+    "children",
+    "sentenc",
+    "horrific"
+   ],
+   "entities": [
+    "man"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Man sentenced over 'horrific' attempted murder of three children",
+     "summary": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
+     "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T12:27:15.000Z"
+    },
+    {
+     "title": "Man jailed for life for attempted murder of children that sparked Dublin riots",
+     "summary": "A man who attempted to murder three children - including stabbing one in the heart - as they waited outside their school in Dublin has been sentenced to life in prison.",
+     "url": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
+     "source": "Sky News",
+     "published": "2026-11-16T10:11:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "score": 35.06,
+   "tier": "minor",
+   "sources": [
+    "Guardian",
+    "Euronews"
+   ],
+   "countries": [
+    "UK",
+    "EU"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 1.4,
+   "keywords": [
+    "nationwid",
+    "administr",
+    "press",
+    "air",
+    "fix",
+    "trump"
+   ],
+   "entities": [
+    "trump",
+    "friday"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Trump administration blames travel chaos on former presidents and Congress | First Thing",
+     "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Don’t already get First Thing in your inbox? Sign up here Good morning. A four-hour nationwide flight stoppage on Friday threw the entire weekend into chaos, with thousands of flights getting canceled and even more delays. While air travel is expected to even out again on Monday, nearly 2,000 ​flights within, into or out of the US on Sunday were canceled and more ",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+     "source": "Guardian",
+     "published": "2026-11-16T11:46:33.000Z"
+    },
+    {
+     "title": "Trump administration presses for $50bn to fix air traffic control after nationwide grounding",
+     "summary": "It comes after a network failure triggered a rare nationwide grounding of all planes on Friday.",
+     "url": "https://www.euronews.com/2026/11/16/trump-presses-for-50bn-to-fix-air-traffic-control-after-nationwide-grounding",
+     "source": "Euronews",
+     "published": "2026-11-16T05:35:32.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "score": 35.02,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "The Hindu"
+   ],
+   "countries": [
+    "France",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 2.9,
+   "keywords": [
+    "genocide",
+    "case",
+    "verdict",
+    "rohingya",
+    "icj",
+    "timeline"
+   ],
+   "entities": [
+    "rohingya"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Verdict week in the Myanmar genocide case",
+     "summary": "PRESS REVIEW – Monday, November 16: The international press looks ahead to a verdict that could find the state of Myanmar guilty of genocide against the Rohingya minority. In other news, French journalists lift the lid on the many trials involving child prostitution. And finally, in Ireland, a cache of 12,000 once-banned books is back in the spotlight.",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261116-verdict-week-in-the-myanmar-genocide-case",
+     "source": "France 24",
+     "published": "2026-11-16T10:01:18.000Z"
+    },
+    {
+     "title": "ICJ to rule on Rohingya ‘genocide’: Refugee crisis, timeline of the case, and more",
+     "summary": "The international community is closely watching the top UN court’s Rohingya verdict as an archetype for the case filed by South Africa against Israel over its campaign in Gaza.",
+     "url": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T10:18:48.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "score": 34.39,
+   "tier": "minor",
+   "sources": [
+    "Guardian",
+    "Japan Times"
+   ],
+   "countries": [
+    "UK",
+    "Japan"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 0.5,
+   "keywords": [
+    "issu",
+    "slowly",
+    "normal",
+    "ground",
+    "disruptio",
+    "directive"
+   ],
+   "entities": [
+    "friday"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+     "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email US air travel was slowly returning to normal on Monday after three days of widespread disruption following an extraordinary no-takeoff order issued by US aviation authorities. The ground stop issued on Friday afternoon was only the second time such a directive had been issued nationwide in the busy US airspace since planes were grounded following the 9/11 attacks and was blamed by the Trump administration on a fa",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "Guardian",
+     "published": "2026-11-16T12:39:35.000Z"
+    },
+    {
+     "title": "U.S. airports slowly return to normal after three days of disruption",
+     "summary": "The ground stop issued Friday was only the second time such a directive had been issued since planes were grounded following the 9/11 attacks.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/world/us-airports-returning-normal-disruption/",
+     "source": "Japan Times",
+     "published": "2026-11-16T11:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "score": 29.32,
+   "tier": "minor",
+   "sources": [
+    "Sky News",
     "The Hindu"
    ],
    "countries": [
@@ -1168,225 +1486,367 @@
    ],
    "count": 2,
    "recent12": 2,
-   "newestHoursAgo": 9,
+   "newestHoursAgo": 6.8,
    "keywords": [
-    "golf",
-    "judge",
-    "temporari",
-    "block",
-    "course",
-    "washingto"
+    "mumbai",
+    "earthshot",
+    "prize",
+    "prince",
+    "william",
+    "princes"
    ],
    "entities": [
-    "judge",
-    "trump",
-    "washington",
-    "east potomac golf links"
+    "mumbai",
+    "earthshot prize",
+    "princess",
+    "wales"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-15T03:21:04.000Z"
+     "title": "William and Kate land in Mumbai for Earthshot Prize trip",
+     "summary": "The Prince and Princess of Wales have arrived ‌in Mumbai for the Earthshot Prize awards, ‌marking the couple's first official trip overseas in nearly four years.",
+     "url": "https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656",
+     "source": "Sky News",
+     "published": "2026-11-16T04:12:00.000Z"
     },
     {
-     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-     "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close on November 15 for 15 months",
-     "url": "https://www.thehindu.com/news/international/judge-temporarily-blocks-trump-from-moving-ahead-on-washington-public-golf-course-redevelopment/article71704032.ece",
+     "title": "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+     "summary": "The sixth Earthshot Prize, founded by Britain’s Prince William to promote innovative climate change solutions, will be presented in Mumbai on November 17, 2026",
+     "url": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
      "source": "The Hindu",
-     "published": "2026-11-15T02:54:53.000Z"
+     "published": "2026-11-16T06:24:34.000Z"
     }
    ]
   },
   {
-   "rank": 19,
-   "score": 31.27,
+   "rank": 28,
+   "score": 27.66,
    "tier": "minor",
    "sources": [
     "Guardian",
-    "Japan Times"
+    "The Hindu"
    ],
    "countries": [
     "UK",
-    "Japan"
+    "India"
    ],
    "count": 2,
    "recent12": 2,
-   "newestHoursAgo": 3.4,
+   "newestHoursAgo": 8.5,
    "keywords": [
-    "exam",
-    "cheat",
-    "scorer",
-    "korea",
-    "top",
-    "wrong"
+    "carney",
+    "automaker",
+    "canada",
+    "fail",
+    "chinese",
+    "trade"
    ],
    "entities": [
-    "south korea"
+    "canada",
+    "chinese",
+    "carney"
    ],
    "soft": false,
    "items": [
     {
-     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-     "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continu",
-     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+     "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+     "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed. The two leaders reached an agreement in January allowing t",
+     "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
      "source": "Guardian",
-     "published": "2026-11-15T08:56:11.000Z"
+     "published": "2026-11-16T04:39:20.000Z"
     },
     {
-     "title": "South Korea probes top exam scorer after AI cheating confession",
-     "summary": "The candidate scored 397.5 out of 400 points in the first round, with only one wrong answer out of 160 questions, sparking cheating accusations.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
-     "source": "Japan Times",
-     "published": "2026-11-15T06:55:00.000Z"
+     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+     "summary": "Mr. Carney said any Chinese investment would have to involve substantial manufacturing in Canada rather than simply assembling imported parts",
+     "url": "https://www.thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T03:46:11.000Z"
     }
    ]
   },
   {
-   "rank": 20,
-   "score": 29.88,
-   "tier": "significant",
+   "rank": 29,
+   "score": 23.83,
+   "tier": "soft",
    "sources": [
-    "BBC",
-    "Sky News",
-    "Euronews"
+    "PBS NewsHour",
+    "The Hindu",
+    "Japan Times",
+    "Africanews"
    ],
    "countries": [
-    "UK",
-    "EU"
+    "US",
+    "India",
+    "Japan",
+    "Africa"
+   ],
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 6.7,
+   "keywords": [
+    "outbreak",
+    "ebola",
+    "congo",
+    "control",
+    "month",
+    "response"
+   ],
+   "entities": [
+    "ebola",
+    "congo",
+    "west african"
+   ],
+   "soft": true,
+   "items": [
+    {
+     "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+     "summary": "More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data. It is the deadliest of Congo's 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016.",
+     "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
+     "source": "PBS NewsHour",
+     "published": "2026-11-15T21:07:00.000Z"
+    },
+    {
+     "title": "Ebola outbreak remains out of control in Congo six months into response",
+     "summary": "The Ebola outbreak is the deadliest of Congo’s 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016",
+     "url": "https://www.thehindu.com/news/international/ebola-outbreak-remains-out-of-control-in-congo-six-months-into-response/article71704179.ece",
+     "source": "The Hindu",
+     "published": "2026-11-16T04:46:22.000Z"
+    },
+    {
+     "title": "Congo Ebola outbreak defies control as conflict, hunger fuel crisis six months in",
+     "summary": "Containing the virus increasingly depends on solving problems far beyond Ebola — hunger, armed conflict, mistrust and a struggling health system.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/16/world/science-health/africa-ebola-outbreak-six-months/",
+     "source": "Japan Times",
+     "published": "2026-11-16T06:31:00.000Z"
+    },
+    {
+     "title": "DR Congo: Ebola-awareness campaigns conducted at schools in Bunia",
+     "summary": "About 40 schools in the province have reported cases of Ebola since classes resumed in September, with one teacher dying of the disease.",
+     "url": "http://www.africanews.com/2026/11/15/dr-congo-ebola-awareness-campaigns-conducted-at-schools-in-bunia/",
+     "source": "Africanews",
+     "published": "2026-11-15T07:46:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "score": 22.2,
+   "tier": "minor",
+   "sources": [
+    "New York Times",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 0,
+   "newestHoursAgo": 15.6,
+   "keywords": [
+    "church",
+    "jordan",
+    "greek",
+    "orthodox",
+    "sentenc",
+    "men"
+   ],
+   "entities": [
+    "greek orthodox"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+     "summary": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+     "source": "New York Times",
+     "published": "2026-11-15T21:33:59.000Z"
+    },
+    {
+     "title": "Jordan sentences three men to death over church attack",
+     "summary": "Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in Hammoud village, in Jordan's Karak governorate on October 23",
+     "url": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece",
+     "source": "The Hindu",
+     "published": "2026-11-15T09:00:51.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "score": 20.76,
+   "tier": "soft",
+   "sources": [
+    "France 24",
+    "RFI",
+    "Guardian"
+   ],
+   "countries": [
+    "France",
+    "UK"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 1,
+   "keywords": [
+    "depardieu",
+    "appeal",
+    "convictio",
+    "assault",
+    "gerard",
+    "actor"
+   ],
+   "entities": [
+    "gérard depardieu",
+    "french",
+    "depardieu"
+   ],
+   "soft": true,
+   "items": [
+    {
+     "title": "Gérard Depardieu: Cinema icon drops appeal and apologises to victims",
+     "summary": "French actor Gérard Depardieu on Monday withdrew his appeal against his 2025 conviction for sexual assault, acknowledging his guilt and apologising to his victims. He has also been indicted in a separate case following a rape complaint, with a decision expected on November 26.",
+     "url": "https://www.france24.com/en/video/20261116-g%C3%A9rard-depardieu-cinema-icon-drops-appeal-and-apologises-to-victims",
+     "source": "France 24",
+     "published": "2026-11-16T12:02:43.000Z"
+    },
+    {
+     "title": "French actor Depardieu withdraws appeal against conviction for sexual assault",
+     "summary": "French actor Gérard Depardieu has apologised after withdrawing his appeal against a May 2025 conviction for sexually assaulting two women on a film set.",
+     "url": "https://www.rfi.fr/en/france/20261116-french-actor-depardieu-withdraws-appeal-against-conviction-for-sexual-assault",
+     "source": "RFI",
+     "published": "2026-11-16T11:19:17.000Z"
+    },
+    {
+     "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+     "summary": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and sincere apologies to those who suffered.” Continue reading...",
+     "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+     "source": "Guardian",
+     "published": "2026-11-16T12:10:22.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "score": 20.66,
+   "tier": "soft",
+   "sources": [
+    "France 24",
+    "Euronews",
+    "Africanews"
+   ],
+   "countries": [
+    "France",
+    "EU",
+    "Africa"
+   ],
+   "count": 4,
+   "recent12": 3,
+   "newestHoursAgo": 1.8,
+   "keywords": [
+    "canary",
+    "island",
+    "spain",
+    "migrant",
+    "nearly",
+    "arrive"
+   ],
+   "entities": [
+    "canary islands",
+    "nearly",
+    "spain",
+    "sunday"
+   ],
+   "soft": true,
+   "items": [
+    {
+     "title": "Canary Islands struggle to cope after massive influx of migrants",
+     "summary": "Nearly 2,200 migrants have reached Spain’s Canary Islands by boat over the past two days, Spain’s maritime rescue service said on Sunday. The archipelago off northwest Africa is a major entry point for migrants, mainly from West Africa, attempting the dangerous Atlantic crossing in makeshift boats.",
+     "url": "https://www.france24.com/en/video/20261116-canary-islands-struggle-to-cope-after-massive-influx-of-migrants",
+     "source": "France 24",
+     "published": "2026-11-16T11:24:10.000Z"
+    },
+    {
+     "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+     "summary": "Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to the Spanish archipelago, where the authorities declared a migration emergency earlier this week.",
+     "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+     "source": "France 24",
+     "published": "2026-11-15T21:06:01.000Z"
+    },
+    {
+     "title": "More than 2,000 migrants arrive in Spain’s Canary Islands in two days",
+     "summary": "Nearly 2,200 migrants reached Spain's Canary Islands in two days, with rescue teams assisting crowded boats off El Hierro.",
+     "url": "https://www.euronews.com/video/2026/11/16/more-than-2000-migrants-arrive-in-spains-canary-islands-in-two-days",
+     "source": "Euronews",
+     "published": "2026-11-16T07:10:36.000Z"
+    },
+    {
+     "title": "Nearly 2,200 migrants arrive in Canary Islands over course of two days",
+     "summary": "Nearly 2,200 migrants have arrived by boat in Spain’s Canary Islands over the past two days, Spain’s maritime rescue service said Sunday.",
+     "url": "http://www.africanews.com/2026/11/16/nearly-2200-migrants-arrive-in-canary-islands-over-course-of-two-days/",
+     "source": "Africanews",
+     "published": "2026-11-16T08:53:54.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "score": 20.55,
+   "tier": "minor",
+   "sources": [
+    "New York Times",
+    "Guardian"
+   ],
+   "countries": [
+    "US",
+    "UK"
    ],
    "count": 3,
    "recent12": 0,
-   "newestHoursAgo": 20.4,
+   "newestHoursAgo": 19.1,
    "keywords": [
-    "white",
-    "house",
-    "putin",
-    "meet",
-    "china",
-    "trump"
+    "bahrain",
+    "iran",
+    "attack",
+    "second",
+    "peace",
+    "resumptio"
    ],
    "entities": [
-    "trump",
-    "putin",
-    "china",
-    "white house"
+    "iran",
+    "bahrain",
+    "gulf",
+    "iranian"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T15:53:55.000Z"
+     "title": "Iran Attacks Bahrain for the Second Time in Days",
+     "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "source": "New York Times",
+     "published": "2026-11-15T15:55:09.000Z"
     },
     {
-     "title": "Trump, Xi and Putin to hold unprecedented meeting, White House says",
-     "summary": "The leaders of the US, China and Russia will hold an unprecedented meeting on the sidelines of a major economic summit, the White House has said.",
-     "url": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
-     "source": "Sky News",
-     "published": "2026-11-14T08:19:00.000Z"
+     "title": "Iran launches drone attacks against US military base in Bahrain",
+     "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "source": "Guardian",
+     "published": "2026-11-15T18:03:56.000Z"
     },
     {
-     "title": "Trump, Xi and Putin to meet in China, White House says",
-     "summary": "Trump is set to depart Washington on Monday for the Philippines, where he is due to attend a meeting of the Association of Southeast Asian Nations before making his way to Shenzhen in China.",
-     "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
-     "source": "Euronews",
-     "published": "2026-11-14T09:00:58.000Z"
+     "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+     "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity with Bahrain. The Kingdom affirms that the Iranian attacks constitute a violation of international law and the principles of good neighborliness. The Kingdom stresses the importance of an immediate halt to the blatant Iranian attacks on the c",
+     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "source": "Guardian",
+     "published": "2026-11-15T15:59:04.000Z"
     }
    ]
   },
   {
-   "rank": 21,
-   "score": 26.9,
-   "tier": "minor",
-   "sources": [
-    "The Hindu",
-    "Japan Times"
-   ],
-   "countries": [
-    "India",
-    "Japan"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 6.6,
-   "keywords": [
-    "statu",
-    "measl",
-    "cas",
-    "los",
-    "highest",
-    "eliminati"
-   ],
-   "entities": [],
-   "soft": false,
-   "items": [
-    {
-     "title": "U.S. loses measles-free status after continued spread of the disease: report",
-     "summary": "The reported decision by the Americas branch of the ‌World Health Organization comes as the U.S. battles ‌the ⁠highest number of measles cases it has seen ⁠in more than three decades",
-     "url": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T05:43:52.000Z"
-    },
-    {
-     "title": "U.S. loses measles elimination status as cases break records",
-     "summary": "The CDC has confirmed 5,412 measles cases in 2026, more than double last year's total and the highest number since 1991.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/us-loses-measles-elimination-status/",
-     "source": "Japan Times",
-     "published": "2026-11-14T23:54:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 22,
-   "score": 24.69,
-   "tier": "minor",
-   "sources": [
-    "BBC",
-    "Japan Times"
-   ],
-   "countries": [
-    "UK",
-    "Japan"
-   ],
-   "count": 2,
-   "recent12": 0,
-   "newestHoursAgo": 12.5,
-   "keywords": [
-    "spark",
-    "old",
-    "flight",
-    "chao",
-    "disruptio",
-    "telecom"
-   ],
-   "entities": [],
-   "soft": false,
-   "items": [
-    {
-     "title": "How telecoms upgrade work sparked US flight chaos",
-     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-14T23:11:27.000Z"
-    },
-    {
-     "title": "Repair of old copper wiring caused U.S. flight disruption, Trump administration says",
-     "summary": "Friday's nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/15/world/copper-wiring-us-flight-disruption/",
-     "source": "Japan Times",
-     "published": "2026-11-14T23:53:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 23,
-   "score": 20.69,
+   "rank": 34,
+   "score": 20.1,
    "tier": "minor",
    "sources": [
     "Euronews"
@@ -1396,14 +1856,14 @@
    ],
    "count": 4,
    "recent12": 2,
-   "newestHoursAgo": 1.3,
+   "newestHoursAgo": 2.2,
    "keywords": [
     "bulletin",
     "november",
-    "stori",
+    "important",
     "entertain",
     "midday",
-    "important"
+    "catch"
    ],
    "entities": [
     "november",
@@ -1418,6 +1878,13 @@
    "soft": false,
    "items": [
     {
+     "title": "Latest news bulletin | November 16th, 2026 – Midday",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-midday",
+     "source": "Euronews",
+     "published": "2026-11-16T11:00:15.000Z"
+    },
+    {
      "title": "Latest news bulletin | November 15th, 2026 – Midday",
      "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
      "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-midday",
@@ -1425,620 +1892,215 @@
      "published": "2026-11-15T11:00:15.000Z"
     },
     {
-     "title": "Latest news bulletin | November 14th, 2026 – Midday",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-midday",
+     "title": "Latest news bulletin | November 16th, 2026 – Morning",
+     "summary": "Catch up with the most important stories from around Europe and beyond this November 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+     "url": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-morning",
      "source": "Euronews",
-     "published": "2026-11-14T11:00:15.000Z"
+     "published": "2026-11-16T06:00:33.000Z"
     },
     {
-     "title": "Latest news bulletin | November 14th, 2026 – Evening",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening",
-     "source": "Euronews",
-     "published": "2026-11-14T17:00:26.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 15th, 2026 – Morning",
+     "title": "Latest news bulletin | November 15th, 2026 – Evening",
      "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+     "url": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-evening",
      "source": "Euronews",
-     "published": "2026-11-15T06:00:32.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 24,
-   "score": 18.42,
-   "tier": "minor",
-   "sources": [
-    "France 24"
-   ],
-   "countries": [
-    "France"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 0.1,
-   "keywords": [
-    "ground",
-    "nationwid",
-    "stop",
-    "exactly",
-    "flight",
-    "persist"
-   ],
-   "entities": [
-    "however"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Air travel issues persist in the US after nationwide ground stop",
-     "summary": "After almost five hours of grounded flights in the US, flights have resumed. However, passengers are still waiting and wading through tough logistics to get to their destinations after massive delays and cancelled flights. Details by Simon Moritz.",
-     "url": "https://www.france24.com/en/air-travel-issues-persist-in-the-us-after-nationwide-ground-stop",
-     "source": "France 24",
-     "published": "2026-11-15T12:12:28.000Z"
-    },
-    {
-     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
-     "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the incident. Transport Secretary Sean Duffy explained the crisis was due to a failure in ageing telecommunications equipment. What exactly happened? Answers with FRANCE 24 international affairs editor Shirli Sitbon.",
-     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
-     "source": "France 24",
-     "published": "2026-11-14T16:35:52.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 25,
-   "score": 18.36,
-   "tier": "minor",
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "countries": [
-    "France"
-   ],
-   "count": 2,
-   "recent12": 0,
-   "newestHoursAgo": 17.9,
-   "keywords": [
-    "fifth",
-    "protest",
-    "protectio",
-    "round",
-    "france",
-    "child"
-   ],
-   "entities": [
-    "fifth",
-    "france",
-    "saturday"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "'No justice, no peace': Fifth round of protests sweep across France",
-     "summary": "Between 106,000 and 200,000 people took to the streets across France on Saturday for the fifth round of protests, according to figures from the interior ministry and student unions respectively, as turnout fell and some incidents were reported.",
-     "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
-     "source": "France 24",
-     "published": "2026-11-14T18:23:25.000Z"
-    },
-    {
-     "title": "Fifth wave of French protests to focus on child protection and police laws",
-     "summary": "France faces more rallies on Saturday with demonstrators venting frustrations ranging from inflation, to child protection measures and opposition to a new police bill.",
-     "url": "https://www.rfi.fr/en/france/20261114-fifth-wave-of-french-protests-to-focus-on-child-protection-and-police-laws",
-     "source": "RFI",
-     "published": "2026-11-14T11:03:51.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 26,
-   "score": 18.29,
-   "tier": "minor",
-   "sources": [
-    "New York Times"
-   ],
-   "countries": [
-    "US"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 0.2,
-   "keywords": [
-    "second",
-    "iran",
-    "bahrain",
-    "attack",
-    "time",
-    "resumptio"
-   ],
-   "entities": [
-    "iran attacks bahrain",
-    "second time",
-    "days the",
-    "iran"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Iran Attacks Bahrain for the Second Time in Days",
-     "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
-     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-     "source": "New York Times",
-     "published": "2026-11-15T12:07:04.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 27,
-   "score": 18.22,
-   "tier": "minor",
-   "sources": [
-    "Financial Times"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 0.3,
-   "keywords": [
-    "earn",
-    "steady",
-    "sell-off",
-    "nvidia",
-    "guide",
-    "market"
-   ],
-   "entities": [
-    "will nvidia",
-    "market questions"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Will Nvidia earnings steady the AI sell-off?",
-     "summary": "Market Questions is the FT’s guide to the week ahead",
-     "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-15T12:00:05.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 28,
-   "score": 18.08,
-   "tier": "minor",
-   "sources": [
-    "BBC"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 2.9,
-   "keywords": [
-    "injuri",
-    "fire",
-    "di",
-    "soldier",
-    "large",
-    "canadian"
-   ],
-   "entities": [
-    "fifth canadian",
-    "pte william douglas dal bianco",
-    "friday",
-    "cfb wainwright"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-     "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-15T09:26:37.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 29,
-   "score": 17.63,
-   "tier": "minor",
-   "sources": [
-    "Financial Times"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 1.3,
-   "keywords": [
-    "ditch",
-    "woke",
-    "clas",
-    "war",
-    "democrat",
-    "culture"
-   ],
-   "entities": [
-    "democrats"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "From culture war to class war: US Democrats ditch woke politics",
-     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-     "url": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-15T11:00:04.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 30,
-   "score": 17.46,
-   "tier": "minor",
-   "sources": [
-    "Financial Times"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 1.6,
-   "keywords": [
-    "rich",
-    "find",
-    "escape",
-    "emission",
-    "way",
-    "change"
-   ],
-   "entities": [
-    "growing"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "The rich find ways to escape climate change. Their emissions have not.",
-     "summary": "Growing body of research shows the contribution to greenhouse gases between wealthy and poor varies greatly even within nations",
-     "url": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-15T10:43:31.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 31,
-   "score": 16.85,
-   "tier": "minor",
-   "sources": [
-    "France 24"
-   ],
-   "countries": [
-    "France"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 0.3,
-   "keywords": [
-    "illegal",
-    "guiana",
-    "min",
-    "threaten",
-    "forest",
-    "indigenou"
-   ],
-   "entities": [
-    "illegal",
-    "french guiana",
-    "indigenous",
-    "world wildlife fund",
-    "during",
-    "august"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Illegal mining threatens French Guiana forests and Indigenous communities",
-     "summary": "In French Guiana, the fight against illegal gold mining is rapidly being lost and creating an environmental and health disaster, according to the World Wildlife Fund. During an aerial survey in early August, park rangers counted 239 illegal sites within the protected area in record.",
-     "url": "https://www.france24.com/en/illegal-mining-threatens-french-guiana-forests-and-indigenous-communities",
-     "source": "France 24",
-     "published": "2026-11-15T12:04:19.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 32,
-   "score": 16.83,
-   "tier": "minor",
-   "sources": [
-    "New York Times"
-   ],
-   "countries": [
-    "US"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 2.7,
-   "keywords": [
-    "blame",
-    "blood",
-    "mistrust",
-    "doubt",
-    "hostage",
-    "israeli"
-   ],
-   "entities": [
-    "after decades",
-    "blood",
-    "mistrust",
-    "doubts over who",
-    "blame",
-    "israeli hostage israeli",
-    "iranians",
-    "tehran"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
-     "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
-     "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-     "source": "New York Times",
-     "published": "2026-11-15T09:36:59.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 33,
-   "score": 16.76,
-   "tier": "minor",
-   "sources": [
-    "BBC"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 5.2,
-   "keywords": [
-    "suspensio",
-    "wire",
-    "copper",
-    "behind",
-    "upgrade",
-    "transport"
-   ],
-   "entities": [
-    "copper"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-15T07:10:31.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 34,
-   "score": 16.67,
-   "tier": "minor",
-   "sources": [
-    "France 24"
-   ],
-   "countries": [
-    "France"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 0.6,
-   "keywords": [
-    "reliant",
-    "too",
-    "technolog",
-    "arise",
-    "outag",
-    "widesprea"
-   ],
-   "entities": [
-    "questions",
-    "microsoft",
-    "analysis",
-    "marcel saucet",
-    "university",
-    "san diego school",
-    "law"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Are we too reliant on technology? Questions arise after Microsoft's widespread outages",
-     "summary": "This week's Microsoft outage highlighted the risks of relying on a single technology provider for essential services. The disruption lasted nearly 24 hours, impacting millions of users across more than 70 countries – from government agencies to airlines to hospitals and small businesses. Are we too reliant on technology? Analysis by Marcel Saucet, research associate at the University of San Diego School of Law.",
-     "url": "https://www.france24.com/en/are-we-too-reliant-on-technology-questions-arise-after-microsoft-s-widespread-outages",
-     "source": "France 24",
-     "published": "2026-11-15T11:44:50.000Z"
+     "published": "2026-11-15T17:00:27.000Z"
     }
    ]
   },
   {
    "rank": 35,
-   "score": 16.42,
+   "score": 19.58,
    "tier": "minor",
    "sources": [
-    "RFI"
+    "BBC"
    ],
    "countries": [
-    "France"
+    "UK"
    ],
    "count": 1,
    "recent12": 1,
-   "newestHoursAgo": 1,
+   "newestHoursAgo": 0.5,
    "keywords": [
-    "fela",
-    "kuti",
-    "music",
-    "rock",
-    "roll",
-    "hall"
+    "ash",
+    "exil",
+    "nobel",
+    "laureate",
+    "asturia",
+    "guatemala"
    ],
    "entities": [
-    "with nigeria",
-    "fela kuti",
-    "african",
-    "rock",
-    "roll hall",
-    "fame for",
-    "fame",
-    "nigeria"
+    "ashes",
+    "nobel laureate miguel",
+    "asturias",
+    "guatemala the",
+    "europe"
    ],
    "soft": false,
    "items": [
     {
-     "title": "With Nigeria's Fela Kuti, African music enters the Rock & Roll Hall of Fame",
-     "summary": "For the first time in its history, the Rock & Roll Hall of Fame has honoured a major figure in African music. Nigeria's Fela Kuti was inducted on Saturday evening during a ceremony in Los Angeles, nearly thirty years after his death, consecrating the musical influence of the rebellious king of Afrobeat.",
-     "url": "https://www.rfi.fr/en/culture/20261115-with-nigeria-s-fela-kuti-african-music-enters-the-rock-roll-hall-of-fame",
-     "source": "RFI",
-     "published": "2026-11-15T11:18:10.000Z"
+     "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+     "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
+     "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T12:42:14.000Z"
     }
    ]
   },
   {
    "rank": 36,
-   "score": 16.22,
+   "score": 18.78,
    "tier": "minor",
    "sources": [
-    "France 24"
+    "BBC"
    ],
    "countries": [
-    "France"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 1.4,
-   "keywords": [
-    "peru",
-    "inca",
-    "communiti",
-    "local",
-    "lament",
-    "poverty-s"
-   ],
-   "entities": [
-    "pope",
-    "inca",
-    "peru pope leo xiv",
-    "sunday",
-    "peru",
-    "latin american",
-    "catholic"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Pope laments poverty-stricken Inca communities as locals leave Peru",
-     "summary": "Pope Leo XIV on Sunday will traverse the length of Peru in what marks the penultimate day of his Latin American tour. The leader of the Catholic church – who underwent cancer surgery just a month ago – warned that Peru's remote Inca communities are under threat as poverty continues to drive locals out of their homeland in search of better futures.",
-     "url": "https://www.france24.com/en/americas/20261115-pope-laments-poverty-stricken-inca-communities-as-locals-leave-peru",
-     "source": "France 24",
-     "published": "2026-11-15T10:55:11.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 37,
-   "score": 16.08,
-   "tier": "minor",
-   "sources": [
-    "France 24"
-   ],
-   "countries": [
-    "France"
+    "UK"
    ],
    "count": 1,
    "recent12": 1,
    "newestHoursAgo": 1.7,
    "keywords": [
-    "diesel",
-    "pric",
-    "approach",
-    "ease",
-    "winter",
-    "global"
+    "klopp",
+    "infantino",
+    "worse",
+    "blatter",
+    "manager",
+    "jurgen"
    ],
    "entities": [
-    "global",
-    "iran",
-    "strait",
-    "hormuz",
-    "gulf",
-    "february",
-    "europe",
-    "saturday"
+    "klopp",
+    "infantino",
+    "blatter germany",
+    "jurgen klopp",
+    "sepp blatter",
+    "fifa",
+    "gianni infantino"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Global diesel prices ease as winter approaches",
-     "summary": "Global diesel prices, which have remained elevated since the start of the Iran war and the blockade of the Strait of Hormuz, have fallen sharply in recent weeks as Gulf exports recover and global oil supplies get back on track for the first time since February. The price drop is being felt in Europe, where prices remain roughly 77% above pre-war levels, and in the US, where the national average fell below $6 a gallon on Saturday. Details by Liza Kaminov.",
-     "url": "https://www.france24.com/en/global-diesel-prices-ease-as-winter-approaches",
-     "source": "France 24",
-     "published": "2026-11-15T10:40:01.000Z"
+     "title": "Klopp says Infantino worse than Blatter",
+     "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-16T11:27:08.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "score": 18.02,
+   "tier": "minor",
+   "sources": [
+    "Financial Times"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 0.7,
+   "keywords": [
+    "stock",
+    "tech",
+    "fallout",
+    "lower",
+    "set",
+    "nvidia"
+   ],
+   "entities": [
+    "nvidia",
+    "chipmaker",
+    "coreweave"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US tech stocks set to open lower amid Nvidia fallout",
+     "summary": "Chipmaker falls 4% in pre-market trading and CoreWeave drops 8% as AI jitters continue",
+     "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-16T12:32:01.000Z"
     }
    ]
   },
   {
    "rank": 38,
-   "score": 15.85,
+   "score": 18.01,
    "tier": "minor",
    "sources": [
-    "RFI"
+    "Financial Times"
    ],
    "countries": [
-    "France"
+    "UK"
    ],
    "count": 1,
    "recent12": 1,
-   "newestHoursAgo": 2.1,
+   "newestHoursAgo": 0.7,
    "keywords": [
-    "painful",
-    "period",
-    "tear",
-    "ga",
-    "exposure",
-    "women"
+    "second-st",
+    "scare",
+    "weapon",
+    "hop",
+    "brussel",
+    "beij"
    ],
    "entities": [
-    "women",
-    "france",
-    "thousands"
+    "brussels",
+    "beijing the"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Women in France report painful periods after exposure to tear gas at protests",
-     "summary": "Thousands of women in France have reported unusually painful periods, heavy bleeding and disrupted menstrual cycles after being exposed to tear gas during the country's recent protests, prompting calls for an investigation into its possible effects on reproductive health.",
-     "url": "https://www.rfi.fr/en/france/20261115-women-in-france-report-painful-periods-after-exposure-to-tear-gas-at-protests",
-     "source": "RFI",
-     "published": "2026-11-15T10:14:03.000Z"
+     "title": "The second-strike trade weapon Brussels hopes will scare Beijing",
+     "summary": "The EU’s latest tool to combat market distortion still needs a lot more political will to work",
+     "url": "https://www.ft.com/content/3c355db7-8b89-4727-8b44-0acd67a7e657?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-16T12:31:05.000Z"
     }
    ]
   },
   {
    "rank": 39,
-   "score": 15.62,
+   "score": 17.93,
+   "tier": "minor",
+   "sources": [
+    "Financial Times"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 1,
+   "recent12": 1,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "cannot",
+    "big",
+    "putin",
+    "carve",
+    "them",
+    "trump"
+   ],
+   "entities": [
+    "why putin",
+    "trump",
+    "china",
+    "russia"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
+     "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
+     "url": "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-16T12:22:48.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "score": 17.62,
    "tier": "minor",
    "sources": [
     "New York Times"
@@ -2046,75 +2108,31 @@
    "countries": [
     "US"
    ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 7.3,
-   "keywords": [
-    "iran",
-    "prosecuto",
-    "europe",
-    "sense",
-    "anxiety",
-    "britain"
-   ],
-   "entities": [
-    "europe",
-    "iran",
-    "britain"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-     "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
-     "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-     "source": "New York Times",
-     "published": "2026-11-15T05:01:20.000Z"
-    },
-    {
-     "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-     "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-     "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-     "source": "New York Times",
-     "published": "2026-11-14T19:23:20.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 40,
-   "score": 15.58,
-   "tier": "minor",
-   "sources": [
-    "The Hindu"
-   ],
-   "countries": [
-    "India"
-   ],
    "count": 1,
    "recent12": 1,
-   "newestHoursAgo": 0.1,
+   "newestHoursAgo": 1.3,
    "keywords": [
-    "guatemala",
-    "emergency",
-    "drug",
-    "declar",
-    "violence",
-    "state"
+    "examine",
+    "k-pop",
+    "treat",
+    "underage",
+    "industry",
+    "performer"
    ],
    "entities": [
-    "guatemala",
-    "zacapa",
-    "izabal",
-    "congressman julio portillo"
+    "south korea",
+    "examine how k-pop industry treats underage performers the",
+    "new york times",
+    "newjeans"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Guatemala declares state of emergency in east over drug violence",
-     "summary": "The 30-day decree covers Zacapa and Izabal, a week after Congressman Julio Portillo and three police officers were killed in an armed attack",
-     "url": "https://www.thehindu.com/news/international/guatemala-declares-state-of-emergency-in-east-over-drug-violence/article71704647.ece",
-     "source": "The Hindu",
-     "published": "2026-11-15T12:14:32.000Z"
+     "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
+     "summary": "The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.",
+     "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+     "source": "New York Times",
+     "published": "2026-11-16T11:51:31.000Z"
     }
    ]
   }
