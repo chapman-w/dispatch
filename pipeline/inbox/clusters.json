@@ -1,727 +1,726 @@
 {
- "fetchedAt": "2026-11-25T15:04:17.111Z",
+ "fetchedAt": "2026-11-26T14:33:25.653Z",
  "clusters": [
   {
    "rank": 1,
-   "score": 174.95,
+   "score": 176.76,
    "tier": "major",
    "sources": [
     "BBC",
-    "France 24",
-    "NPR",
-    "Euronews",
-    "Africanews",
+    "Guardian",
     "The Hindu",
-    "New York Times",
-    "Guardian"
+    "France 24",
+    "Africanews",
+    "Euronews",
+    "New York Times"
    ],
    "countries": [
     "UK",
+    "India",
     "France",
-    "US",
-    "EU",
     "Africa",
-    "India"
+    "EU",
+    "US"
    ],
    "count": 11,
-   "recent12": 2,
-   "newestHoursAgo": 7.4,
+   "recent12": 6,
+   "newestHoursAgo": 3.1,
    "keywords": [
-    "nvidia",
-    "huang",
-    "jensen",
-    "ceo",
-    "trump",
-    "return"
+    "cairo",
+    "fire",
+    "highway",
+    "fuel",
+    "kill",
+    "least"
    ],
    "entities": [
-    "nvidia",
-    "jensen huang",
-    "trump",
-    "ceo",
-    "huang",
-    "president donald trump",
-    "president trump",
-    "ceo jensen huang"
+    "cairo",
+    "wednesday",
+    "egypt",
+    "egyptian",
+    "giza",
+    "ring road"
    ],
    "soft": false,
    "items": [
     {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+     "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T03:44:07.000Z"
+     "published": "2026-11-25T22:18:06.000Z"
     },
     {
-     "title": "Trump's rescue of Nvidia's Huang brings political risks",
-     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-     "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "title": "Deadly fire erupts near Cairo killing dozens of people",
+     "summary": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
+     "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T01:03:05.000Z"
+     "published": "2026-11-26T09:09:49.000Z"
     },
     {
-     "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-     "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-     "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-     "source": "NPR",
-     "published": "2026-11-24T12:12:25.000Z"
-    },
-    {
-     "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-     "summary": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
-     "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+     "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+     "summary": "The blaze killed at least 31 and injured at least 21 near Giza, beside the Nile River, officials said.",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
      "source": "New York Times",
-     "published": "2026-11-24T11:55:30.000Z"
+     "published": "2026-11-25T21:37:07.000Z"
     },
     {
-     "title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
-     "summary": "Nvidia shares fell on Tuesday as the historic rally sparked by Jensen Huang's return as CEO quickly lost steam, with investors refocusing ​on the political ‌and governance risks surrounding his reinstatement. Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the president is clearly paying off\".",
-     "url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+     "title": "Egypt: 31 people killed in Cairo after fuel truck overturns",
+     "summary": "A fire broke out on a busy highway in Egypt’s capital, Cairo, on Wednesday, killing at least 31 people after a fuel truck reportedly overturned. The suspected driver was arrested on Thursday, according to Egypt’s public prosecutor’s office.",
+     "url": "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
      "source": "France 24",
-     "published": "2026-11-24T22:03:43.000Z"
+     "published": "2026-11-26T11:28:29.000Z"
     },
     {
-     "title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
-     "summary": "Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the president is clearly paying off\".",
-     "url": "https://www.france24.com/en/tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
-     "source": "France 24",
-     "published": "2026-11-24T21:57:38.000Z"
-    },
-    {
-     "title": "Trump says he spoke to Nvidia board before Jensen Huang's return as CEO",
-     "summary": "US President Donald Trump says he spoke directly with Nvidia's board before CEO Jensen Huang's reinstatement, adding that he found the board \"very, very reasonable\".",
-     "url": "https://www.euronews.com/2026/11/24/trump-says-he-spoke-to-nvidia-board-before-jensen-huangs-return-as-ceo",
-     "source": "Euronews",
-     "published": "2026-11-24T09:17:33.000Z"
-    },
-    {
-     "title": "U.S. blacklists Megaspeed chip firm linked to Nvidia scandal",
-     "summary": "The move coincided ‌with Jensen Huang's reinstatement as CEO of Nvidia after his resignation two weeks ago over revelations of extramarital affairs",
-     "url": "https://www.thehindu.com/news/international/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal/article71739692.ece",
-     "source": "The Hindu",
-     "published": "2026-11-24T16:44:57.000Z"
-    },
-    {
-     "title": "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
-     "summary": "Jensen Huang told staff it was \"not acceptable\" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because U.S. President Donald Trump had pressured the board",
-     "url": "https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-fades/article71740890.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T07:38:43.000Z"
-    },
-    {
-     "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-     "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world view. Trump disregarded repeated information that the company’s co-founder, Jensen Huang, was having an extramarital affair with an alleged Chinese spy that threatened to undermine Washington’s geo-strategically vital goal of pipping China for global supremacy in the artificial intel",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+     "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen cars and motorcycles charred, according to the latest figures released by the health ministry. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
      "source": "Guardian",
-     "published": "2026-11-24T14:00:48.000Z"
+     "published": "2026-11-26T00:39:10.000Z"
     },
     {
-     "title": "Nvidia staff cheer Jensen Huang's return as CEO after spy scandal",
-     "summary": "Nvidia CEO Jensen Huang was welcomed by cheers and applause from staff as he returned to the company's California headquarters on Monday, 11 days after his resignation.",
-     "url": "http://www.africanews.com/2026/11/24/nvidia-staff-cheer-jensen-huangs-return-as-ceo-after-spy-scandal/",
+     "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
+     "summary": "The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor’s office said in a statement",
+     "url": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T06:26:42.000Z"
+    },
+    {
+     "title": "Wreckage and burnt vehicles as fuel tanker fire kills 31 on Cairo highway",
+     "summary": "A massive fire from a fuel tanker crash on Giza’s Ring Road in Waraq killed at least 31 and injured 21, highlighting Egypt’s deadly road risks.",
+     "url": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway",
+     "source": "Euronews",
+     "published": "2026-11-26T09:30:05.000Z"
+    },
+    {
+     "title": "Moment fuel truck fire engulfs traffic on Cairo highway",
+     "summary": "At least 31 people have been killed and 21 injured after a crash involving a fuel tanker triggered a massive fire on a major highway near Cairo. The blaze engulfed more than two dozen cars and motorcycles on the Ring Road in Giza on Wednesday night.",
+     "url": "https://www.euronews.com/2026/11/26/moment-fuel-truck-fire-engulfs-traffic-on-cairo-highway",
+     "source": "Euronews",
+     "published": "2026-11-26T04:40:55.000Z"
+    },
+    {
+     "title": "At least 30 killed in highway fire in Cairo district",
+     "summary": "A truck carrying fuel reportedly overturned on a busy highway, setting vehicles ablaze and prompting a major emergency response. Authorities warned that the death toll could rise.",
+     "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+     "source": "Euronews",
+     "published": "2026-11-25T19:56:45.000Z"
+    },
+    {
+     "title": "Egypt says 30 dead in Cairo fire after fuel truck crashes on highway",
+     "summary": "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said.",
+     "url": "http://www.africanews.com/2026/11/25/egypt-says-30-dead-in-cairo-fire-after-fuel-truck-crashes-on-highway/",
      "source": "Africanews",
-     "published": "2026-11-24T14:14:10.000Z"
+     "published": "2026-11-25T21:11:06.000Z"
+    },
+    {
+     "title": "Relatives of Egypt highway fire victims wait for news outside Giza hospital",
+     "summary": "Dozens of people gathered outside Giza’s Imbaba General Hospital on Wednesday night, waiting for news of their relatives injured in a massive fire on a highway outside Cairo after a crash involving a fuel tanker.",
+     "url": "http://www.africanews.com/2026/11/26/egypt-relatives-of-highway-fire-victims-wait-for-news-outside-giza-hospital/",
+     "source": "Africanews",
+     "published": "2026-11-26T10:16:36.000Z"
     }
    ]
   },
   {
    "rank": 2,
-   "score": 153.17,
+   "score": 116.99,
    "tier": "major",
    "sources": [
-    "DW",
-    "Financial Times",
+    "BBC",
+    "The Hindu",
+    "France 24",
     "Euronews",
-    "Japan Times",
-    "New York Times",
-    "The Hindu"
+    "Japan Times"
    ],
    "countries": [
-    "Germany",
     "UK",
+    "India",
+    "France",
     "EU",
-    "Japan",
-    "US",
-    "India"
+    "Japan"
    ],
    "count": 6,
-   "recent12": 5,
-   "newestHoursAgo": 1.4,
+   "recent12": 6,
+   "newestHoursAgo": 2.7,
    "keywords": [
-    "north",
-    "korea",
-    "swis",
-    "office",
-    "diplomat",
-    "pyongyang"
+    "bangkok",
+    "oil",
+    "explosion",
+    "smoke",
+    "black",
+    "depot"
    ],
    "entities": [
-    "north korea",
-    "swiss",
-    "pyongyang",
-    "switzerland",
-    "north korean",
-    "ukraine"
+    "bangkok",
+    "flames",
+    "thai",
+    "huge",
+    "thursday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Is North Korea holding back on sending Russia more troops?",
-     "summary": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation continues. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
-     "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-24T12:51:00.000Z"
+     "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+     "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+     "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T11:21:50.000Z"
     },
     {
-     "title": "North Korea closes Swiss diplomatic office in row over children’s camp",
-     "summary": "Sanctions on Songdowon International Children’s Camp were a ‘blatant hostile act’, says Pyongyang",
-     "url": "https://www.ft.com/content/5b320dc9-ff58-4036-9f84-b4cb66cf9556?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-25T08:27:12.000Z"
+     "title": "Huge explosion at oil depot in Bangkok sends fireball into sky",
+     "summary": "An explosion at an oil depot in Bangkok sent a large fireball and thick black smoke into the sky, journalists said Thursday, as local authorities urged people nearby to evacuate.",
+     "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
+     "source": "France 24",
+     "published": "2026-11-26T08:27:20.000Z"
     },
     {
-     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
-     "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
-     "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-     "source": "New York Times",
-     "published": "2026-11-25T13:40:09.000Z"
-    },
-    {
-     "title": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close",
-     "summary": "Switzerland opened the office on 19 October, when Foreign Minister Ignazio Cassis travelled to Pyongyang and met senior officials, including his counterpart Choe Son Hui.",
-     "url": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close",
-     "source": "Euronews",
-     "published": "2026-11-25T04:50:43.000Z"
-    },
-    {
-     "title": "North Korea declares a Swiss diplomat persona non grata and orders him to leave",
-     "summary": "Kim Yo Jong, the powerful sister of North Korean leader Kim Jong Un,c ondemned Switzerland for imposing sanctions on a youth camp in eastern North Korea over its alleged role in the transfer of children from Russia-occupied areas of Ukraine",
-     "url": "https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece",
+     "title": "Massive fire at Bangkok oil refinery leaves several injured, Bangchak Corp shuts all units",
+     "summary": "Flames rose high above the site, followed by black smoke that swept across the Thai capital’s skyline",
+     "url": "https://www.thehindu.com/news/international/bangkok-oil-refinery-fire-blast-bangchak-injured-casualties-nov-26-2026/article71745999.ece",
      "source": "The Hindu",
-     "published": "2026-11-25T05:43:02.000Z"
+     "published": "2026-11-26T10:19:37.000Z"
     },
     {
-     "title": "North Korea expels head of Swiss diplomatic office, state media reports",
-     "summary": "The rebuke comes just weeks after the Swiss foreign minister visited North Korea, where he discussed normalizing relations.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/north-korea-swiss-diplomatic-office/",
+     "title": "Huge explosion at Bangkok oil depot sends black smoke over Thai capital",
+     "summary": "A major explosion at a Bangchak oil facility in eastern Bangkok sent flames and thick black smoke into the sky on Thursday. Authorities urged people living nearby to evacuate as emergency services responded to the incident.",
+     "url": "https://www.euronews.com/2026/11/26/huge-explosion-at-bangkok-oil-depot-sends-black-smoke-over-thai-capital",
+     "source": "Euronews",
+     "published": "2026-11-26T09:25:01.000Z"
+    },
+    {
+     "title": "Flames and thick smoke billow from Bangkok oil facility after massive explosion",
+     "summary": "A powerful explosion rocks an oil depot in Bangkok, Thailand, sending thick black smoke into the sky and prompting evacuation warnings.",
+     "url": "https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion",
+     "source": "Euronews",
+     "published": "2026-11-26T11:40:52.000Z"
+    },
+    {
+     "title": "Nine hurt in huge explosion at Bangkok oil facility",
+     "summary": "The blast was so strong that it rattled doors several kilometers away, according to reporters.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
      "source": "Japan Times",
-     "published": "2026-11-25T05:35:00.000Z"
+     "published": "2026-11-26T11:53:00.000Z"
     }
    ]
   },
   {
    "rank": 3,
-   "score": 123.35,
+   "score": 112.42,
    "tier": "major",
    "sources": [
     "BBC",
-    "France 24",
     "Guardian",
-    "Euronews",
-    "The Hindu"
+    "France 24",
+    "The Hindu",
+    "Africanews"
    ],
    "countries": [
     "UK",
     "France",
-    "EU",
-    "India"
+    "India",
+    "Africa"
    ],
-   "count": 6,
-   "recent12": 6,
-   "newestHoursAgo": 0.8,
+   "count": 7,
+   "recent12": 4,
+   "newestHoursAgo": 2.6,
    "keywords": [
-    "space",
-    "astronaut",
-    "pakistani",
-    "station",
-    "crew",
-    "china"
+    "tariff",
+    "china",
+    "partner",
+    "countri",
+    "trad",
+    "trump"
    ],
    "entities": [
     "china",
-    "pakistani",
-    "pakistan",
-    "tiangong",
-    "chinese",
-    "muhammad zeeshan ali",
-    "shenzhou"
+    "trump",
+    "european union",
+    "wednesday",
+    "beijing",
+    "president donald trump",
+    "india"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-     "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-     "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+     "title": "US announces new tariffs on host of countries including China",
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T03:28:37.000Z"
+     "published": "2026-11-26T04:10:58.000Z"
     },
     {
-     "title": "‘A symbol of hope’: Pakistan celebrates as astronaut enters orbit",
-     "summary": "Muhammad Zeeshan Ali has become the first Pakistani to reach orbit after blasting off on board a Chinese mission to the country’s Tiangong space station on Tuesday. The Pakistan Air Force pilot and payload specialist’s feat was celebrated by cheers and rapturous applause by those watching in his homeland.",
-     "url": "https://www.france24.com/en/video/20261125-a-symbol-of-hope-pakistan-celebrates-as-astronaut-enters-orbit",
+     "title": "Trump unveils new tariffs on 14 trade partners over 'unfair' industrial capacity",
+     "summary": "US President Donald Trump fired a new tariff salvo on Wednesday on 14 major trading partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity that it says these countries are promoting.",
+     "url": "https://www.france24.com/en/video/20261126-trump-unveils-new-tariffs-on-14-trade-partners-over-unfair-industrial-capacity",
      "source": "France 24",
-     "published": "2026-11-25T11:48:37.000Z"
+     "published": "2026-11-26T11:20:39.000Z"
     },
     {
-     "title": "'Historic' space mission: China launches Shenzhou 24 spacecraft carrying Pakistani astronaut",
-     "summary": "China on Wednesday launched the Shenzhou 24 spacecraft with three astronauts — two Chinese and a Pakistani — sending the first foreign crew member to its space station. It successfully separated from a rocket and entered its predetermined orbit. The launch marked the first joint flight involving Chinese and foreign astronauts in the history of China’s crewed space program.",
-     "url": "https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
+     "title": "'Unacceptable': China, EU among major economies against new US tariffs",
+     "summary": "China, the European Union and other major trading partners on Thursday criticised new US tariffs of up to 20 percent proposed by US President Donald Trump after a probe into alleged global overcapacity, raising the prospect of fresh trade tensions with allies and rivals alike.",
+     "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
      "source": "France 24",
-     "published": "2026-11-25T14:06:08.000Z"
+     "published": "2026-11-26T07:16:41.000Z"
     },
     {
-     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-     "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a hatch to enter Tiangong, Pakistan’s Muhammad Zeeshan Ali grinned broadly as he was embraced by the onboard crew in what China’s space agency dubbed the country’s first foreign “space handshake”. Continue reading...",
-     "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+     "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash. Among the suggested levies on 14 major trading partners announced on Wednesday, China is potentially facing one of the biggest hits. It would face the highest capped rate of 20%, which in some cases will be stack",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
      "source": "Guardian",
-     "published": "2026-11-25T14:18:29.000Z"
+     "published": "2026-11-26T12:00:22.000Z"
     },
     {
-     "title": "China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew",
-     "summary": "The crew will carry out more than 90 scientific experiments and technology tests. according to China's state media reports.",
-     "url": "https://www.euronews.com/2026/11/25/china-sends-first-foreign-astronaut-to-its-space-station-as-pakistani-joins-shenzhou-24-cr",
-     "source": "Euronews",
-     "published": "2026-11-25T05:12:28.000Z"
-    },
-    {
-     "title": "China launches crewed spaceship carrying first Pakistani astronaut to its space station",
-     "summary": "Using a Long March-2F rocket, the spacecraft took ‌off at 8:18 a.m. (0018 GMT) ‌from ⁠the Jiuquan Satellite Launch Centre ⁠in northwest China",
-     "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+     "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
+     "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
+     "url": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
      "source": "The Hindu",
-     "published": "2026-11-25T06:11:02.000Z"
+     "published": "2026-11-25T17:40:18.000Z"
+    },
+    {
+     "title": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report",
+     "summary": "India was also named among 16 ⁠major U.S. trading partners; Together, the duties are meant to ​rebuild Trump’s global “Liberation Day” tariffs that were struck down by the U.S. Supreme Court in February",
+     "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+     "source": "The Hindu",
+     "published": "2026-11-25T10:09:32.000Z"
+    },
+    {
+     "title": "China pushes back against US plans for new tariffs",
+     "summary": "Beijing pushed back on Wednesday against US plans to raise tariffs on China, the European Union, and other countries.",
+     "url": "http://www.africanews.com/2026/11/25/china-pushes-back-against-us-plans-for-new-tariffs/",
+     "source": "Africanews",
+     "published": "2026-11-25T13:15:22.000Z"
     }
    ]
   },
   {
    "rank": 4,
-   "score": 119.47,
+   "score": 90.28,
    "tier": "significant",
    "sources": [
-    "BBC",
-    "Sky News",
-    "France 24",
-    "Guardian",
-    "Euronews"
+    "NPR",
+    "The Hindu",
+    "Euronews",
+    "Japan Times"
    ],
    "countries": [
-    "UK",
-    "France",
-    "EU"
+    "US",
+    "India",
+    "EU",
+    "Japan"
    ],
-   "count": 7,
-   "recent12": 6,
-   "newestHoursAgo": 1.1,
+   "count": 5,
+   "recent12": 5,
+   "newestHoursAgo": 1,
    "keywords": [
-    "supermark",
-    "hostag",
-    "colombian",
-    "hostage",
-    "storm",
-    "cartagena"
+    "kim",
+    "nuclear",
+    "north",
+    "weapon",
+    "korea",
+    "overture"
    ],
    "entities": [
-    "colombian",
-    "cartagena",
-    "espriella",
-    "colombia",
-    "all",
-    "abelardo",
-    "continue"
+    "north korea",
+    "kim",
+    "trump",
+    "kim jong"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-     "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-     "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T11:45:16.000Z"
+     "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+     "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+     "source": "NPR",
+     "published": "2026-11-26T13:31:28.000Z"
     },
     {
-     "title": "Colombian authorities rescue all hostages held at Cartagena supermarket",
-     "summary": "Security forces rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena, President Abelardo de la Espriella said early Wednesday. The president said that the men were “common criminals” who fled into the supermarket after a failed attempt to hold up an armored truck. The hostage situation broke out as Colombia is experiencing a wave of attacks by rebel groups on government targets.",
-     "url": "https://www.france24.com/en/video/20261125-colombian-authorities-rescue-all-hostages-held-at-cartagena-supermarket",
-     "source": "France 24",
-     "published": "2026-11-25T13:56:39.000Z"
+     "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+     "summary": "North Korea didn't say where the nuclear materials production factories that Kim Jong Un visited this week are located; U.S President Trump reiterated his eagerness to restore diplomacy with Mr. Kim as he visited China last week for the APEC summit",
+     "url": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T04:35:38.000Z"
     },
     {
-     "title": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
-     "summary": "",
-     "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-     "source": "France 24",
-     "published": "2026-11-25T07:20:50.000Z"
-    },
-    {
-     "title": "Colombian police storm supermarket, freeing hostages and killing gunman",
-     "summary": "Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.",
-     "url": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
-     "source": "Sky News",
-     "published": "2026-11-24T21:36:00.000Z"
-    },
-    {
-     "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
-     "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port city of Cartagena to follow the final hours of negotiations and the tactical assault, in which special forces officers broke through blocked entrances and detonated stun grenades. Continue read",
-     "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-     "source": "Guardian",
-     "published": "2026-11-25T13:56:55.000Z"
-    },
-    {
-     "title": "All hostages rescued after Colombian forces storm Cartagena supermarket",
-     "summary": "A botched attempt to rob an armoured vehicle set off the day-long standoff, during which negotiators had already secured the release of 10 captives.",
-     "url": "https://www.euronews.com/2026/11/25/colombia-security-forces-storm-supermarket-where-hostages-are-being-held",
+     "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
+     "summary": "Kim accused Washington of encouraging its regional allies to acquire nuclear-powered submarines and of pledging to share its own nuclear weapons with them.",
+     "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
      "source": "Euronews",
-     "published": "2026-11-25T07:02:51.000Z"
+     "published": "2026-11-26T05:55:00.000Z"
     },
     {
-     "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-     "summary": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city. Abelardo de la Espriella’s motorcade arrived in Cartagena on Tuesday night, Agence France-Presse reported, where he will ostensibly take control of an operation involving scores of officers, the navy and special forces. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-     "source": "Guardian",
-     "published": "2026-11-25T03:57:11.000Z"
+     "title": "Images show Kim Jong Un inspecting North Korean nuclear facilities",
+     "summary": "North Korean leader Kim Jong Un has called for expanding the country's nuclear arsenal after visiting nuclear material production facilities and a weapons research institute.",
+     "url": "https://www.euronews.com/2026/11/26/images-show-kim-jong-un-inspecting-north-korean-nuclear-facilities",
+     "source": "Euronews",
+     "published": "2026-11-26T11:10:26.000Z"
+    },
+    {
+     "title": "North Korea’s Kim makes rare show of progress with nuclear program",
+     "summary": "Kim urged the deployment of tactical nuclear weapons for a variety of missions and domains amid growing threats from the U.S. and its allies.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/north-korea-kim-tactical-nukes-us-japan/",
+     "source": "Japan Times",
+     "published": "2026-11-26T06:50:00.000Z"
     }
    ]
   },
   {
    "rank": 5,
-   "score": 106.8,
-   "tier": "major",
+   "score": 84.57,
+   "tier": "significant",
    "sources": [
     "BBC",
     "France 24",
-    "PBS NewsHour",
     "The Hindu",
-    "Sky News"
+    "Guardian"
    ],
    "countries": [
     "UK",
     "France",
-    "US",
     "India"
    ],
-   "count": 5,
-   "recent12": 1,
-   "newestHoursAgo": 4.2,
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 2.1,
    "keywords": [
-    "huawei",
-    "steal",
-    "secret",
-    "trade",
-    "guilty",
-    "conspirac"
+    "hama",
+    "gaza",
+    "israeli",
+    "palestini",
+    "wife",
+    "israel"
    ],
    "entities": [
-    "huawei",
-    "chinese",
-    "new york"
+    "hamas",
+    "israeli",
+    "gaza",
+    "palestinians",
+    "israel"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "summary": "The verdict follows a months-long trial in New York.",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+     "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T10:52:09.000Z"
+     "published": "2026-11-26T10:14:08.000Z"
     },
     {
-     "title": "U.S. jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets, bank fraud",
-     "summary": "Huawei was also accused of doing business in countries under U.S. sanctions and making false statements to officials.",
-     "url": "https://www.pbs.org/newshour/nation/u-s-jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets-bank-fraud",
-     "source": "PBS NewsHour",
-     "published": "2026-11-24T21:17:46.000Z"
-    },
-    {
-     "title": "New York jury convicts Huawei of stealing trade secrets",
-     "summary": "A New York jury on Tuesday found Chinese telecom giant Huawei guilty of stealing trade secrets and other criminal offences, but acquitted it of a racketeering conspiracy and obstruction of justice. The verdict followed a three-month trial in New York in a case that adds to longstanding US efforts to curb Huawei's operations over alleged threats to national security.",
-     "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+     "title": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+     "summary": "Israel's defence minister on Thursday threatened to forcibly displace one million Palestinians in Gaza if Hamas does not move to voluntarily surrender its weapons, as previously promised.",
+     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
      "source": "France 24",
-     "published": "2026-11-24T23:31:22.000Z"
+     "published": "2026-11-26T12:28:31.000Z"
     },
     {
-     "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, U.S. jury finds",
-     "summary": "Huawei was also accused of doing business in countries subject to U.S. sanctions, including Iran and North Korea, and making false statements to U.S. government officials and banks as part of an effort to hide its misdeeds",
-     "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+     "title": "Israeli strike kills Hamas official, his wife and children",
+     "summary": "The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who \"served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip\"",
+     "url": "https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece",
      "source": "The Hindu",
-     "published": "2026-11-24T22:55:50.000Z"
+     "published": "2026-11-25T17:59:46.000Z"
     },
     {
-     "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
-     "summary": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
-     "url": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
-     "source": "Sky News",
-     "published": "2026-11-24T21:05:00.000Z"
+     "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+     "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost entirely” on unproven assertions from the Israeli government and had damaged humanitarian operations in Gaza. The judgment, seen by the Guardian, raises fresh questions about the decision by the UN Relief and Works Agency (Unrwa), the main humanitarian organisation working in Gaza, to sack members of staff. It was taken on the basis of Israeli a",
+     "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+     "source": "Guardian",
+     "published": "2026-11-26T00:05:50.000Z"
     }
    ]
   },
   {
    "rank": 6,
-   "score": 92.26,
+   "score": 81.37,
    "tier": "significant",
    "sources": [
-    "PBS NewsHour",
-    "New York Times",
-    "The Hindu",
+    "BBC",
+    "Euronews",
+    "France 24",
     "Guardian"
    ],
    "countries": [
-    "US",
-    "India",
-    "UK"
+    "UK",
+    "EU",
+    "France"
    ],
-   "count": 5,
-   "recent12": 3,
-   "newestHoursAgo": 0.4,
+   "count": 4,
+   "recent12": 2,
+   "newestHoursAgo": 3.2,
    "keywords": [
-    "prince",
-    "men",
-    "william",
-    "kate",
-    "home",
-    "country"
+    "californi",
+    "tid",
+    "k",
+    "wav",
+    "flood",
+    "pier"
    ],
    "entities": [
-    "prince william",
-    "kate",
-    "norfolk",
-    "anmer hall"
+    "california",
+    "king",
+    "pacifica",
+    "wednesday",
+    "san francisco"
    ],
    "soft": false,
    "items": [
     {
-     "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
-     "summary": "Police said that \"the property was unoccupied at the time of the incident.\"",
-     "url": "https://www.pbs.org/newshour/world/2-men-arrested-over-suspected-burglary-at-prince-william-and-kates-country-home",
-     "source": "PBS NewsHour",
-     "published": "2026-11-24T16:37:03.000Z"
+     "title": "California warns of flooding as King Tides peak over Thanksgiving",
+     "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+     "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T01:22:55.000Z"
     },
     {
-     "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
-     "summary": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
-     "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-     "source": "New York Times",
-     "published": "2026-11-25T14:37:26.000Z"
+     "title": "'King tide' waves batter California coast, soaking San Francisco",
+     "summary": "Massive waves carried on king tides battered California's coast Wednesday, prompting evacuations and soaking San Francisco, but sparing feared mass disruptions to Thanksgiving holiday travel. San Francisco already recorded its highest November water levels in more than 40 years on Tuesday morning, according to the National Weather Service.",
+     "url": "https://www.france24.com/en/video/20261126-king-tide-waves-batter-california-coast-soaking-san-francisco",
+     "source": "France 24",
+     "published": "2026-11-26T11:19:13.000Z"
     },
     {
-     "title": "Prince William and Kate’s Country Home Is Broken Into; 2 Men Arrested",
-     "summary": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
-     "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
-     "source": "New York Times",
-     "published": "2026-11-24T16:31:07.000Z"
+     "title": "King tides and powerful waves destroy pier and flood homes in California",
+     "summary": "King tides and powerful waves destroy part of Pacifica's pier and flood coastal homes in California, US, prompting warnings from authorities.",
+     "url": "https://www.euronews.com/video/2026/11/26/king-tides-and-powerful-waves-destroy-pier-and-flood-homes-in-california",
+     "source": "Euronews",
+     "published": "2026-11-26T07:13:50.000Z"
     },
     {
-     "title": "UK police charge two men over a break-in at Prince William and Princess Catherine’s country home",
-     "summary": "Anmer Hall, a 10-bedroom house on the Sandringham estate, was a wedding present to the couple from the late Queen Elizabeth II",
-     "url": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T13:17:35.000Z"
-    },
-    {
-     "title": "Two men in court accused of stealing cufflinks from Prince William’s house",
-     "summary": "Albanians Mirgen Doku and Arilen Ndoci alleged to have broken into royal country mansion and also taken a clock Two men have appeared in court accused of breaking into the Prince and Princess of Wales’s country mansion and stealing six pairs of cufflinks and a clock. Mirgen Doku, 34, and Arilen Ndoci, 32, both Albanian nationals, were remanded in custody at Norwich magistrates court charged with burglary and trespass after a suspected break-in at the royal residence in Norfolk. A third suspect has still not been caught, the court heard. Continue reading...",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
+     "title": "Record-breaking California tides cause major flooding of roads and businesses",
+     "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica Super El Niño weather brought record-breaking high tides up and down the California coast on Wednesday, sending seawater rushing into beachside communities and flooding roads and businesses. As big waves battered the coast, the tip of a landmark pier in Pacifica, south of San Francisco, was slammed into the sea, local news outlets reported . The pier, which had once housed a favorite local cafe , had previously suffered structural damage and had been closed to the public, the San Fr",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
      "source": "Guardian",
-     "published": "2026-11-25T14:23:39.000Z"
+     "published": "2026-11-25T22:56:36.000Z"
     }
    ]
   },
   {
    "rank": 7,
-   "score": 91.53,
-   "tier": "major",
+   "score": 71.29,
+   "tier": "significant",
    "sources": [
-    "NPR",
     "France 24",
-    "Euronews",
-    "Africanews",
-    "RFI"
+    "RFI",
+    "Financial Times"
    ],
    "countries": [
-    "US",
     "France",
-    "EU",
-    "Africa"
+    "UK"
    ],
-   "count": 7,
-   "recent12": 3,
-   "newestHoursAgo": 8.3,
+   "count": 5,
+   "recent12": 5,
+   "newestHoursAgo": 0.2,
    "keywords": [
-    "senegal",
-    "morocco",
-    "cup",
-    "reinstat",
-    "afcon",
-    "africa"
+    "bardella",
+    "anti-semi",
+    "jordan",
+    "french",
+    "media",
+    "far-right"
    ],
    "entities": [
-    "senegal",
-    "africa cup",
-    "morocco",
-    "arbitration",
-    "afcon",
-    "sport",
-    "court",
-    "nations"
+    "jordan bardella",
+    "french",
+    "bardella",
+    "thursday",
+    "mediapart",
+    "semitic",
+    "national rally",
+    "france"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-     "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
-     "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-     "source": "NPR",
-     "published": "2026-11-25T06:43:23.000Z"
+     "title": "New allegations surface of Jordan Bardella’s teenage antisemitism",
+     "summary": "Far-right French politician says he never sent such messages and accuses media of ‘witch-hunts’",
+     "url": "https://www.ft.com/content/095d57ac-9f61-4d22-8358-7b6fafbf19bc?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-26T14:22:01.000Z"
     },
     {
-     "title": "AFCON 2025: CAS gives title back to Senegal as Morocco vows to challenge verdict",
-     "summary": "The Court of Arbitration for Sport has handed down its ruling: Senegal is officially the 2025 AFCON champion. The Moroccan Football Federation has announced that it will challenge the verdict, citing irregularities in the proceedings.",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
+     "title": "French far-right leader Bardella faces fresh anti-Semitism accusations in media reports",
+     "summary": "French far-right leader ⁠Jordan Bardella faced fresh ​accusations of past antisemitic remarks on Thursday, as French media published an additional ​trove of comments purportedly made in chats from when he was a teenager in 2013. The initial allegations against Bardella, the president of the far-right National Rally party, were published ​by investigative outlet ‌Mediapart in September. It reported that he had made ⁠a slew of antisemitic and conspiratorial comments. Bardella denies making antisemitic remarks. FRANCE 24's French Politics Editor Marc Perelman tells us more.",
+     "url": "https://www.france24.com/en/video/20261126-french-far-right-leader-bardella-faces-fresh-anti-semitism-accusations-in-media-reports",
      "source": "France 24",
-     "published": "2026-11-25T06:20:48.000Z"
+     "published": "2026-11-26T11:47:52.000Z"
     },
     {
-     "title": "Senegal reclaim Africa Cup of Nations title after 11-month legal fight",
-     "summary": "Judges at the Court of Arbitration for Sport (CAS) on Tuesday declared Senegal winners of the 2025 Africa Cup of Nations.",
-     "url": "https://www.rfi.fr/en/sports/20261124-top-sports-lawyers-declare-senegal-2025-afcon-champions",
+     "title": "French candidate Le Pen's top ally Bardella faces fresh allegations of anti-Semitic comments",
+     "summary": "French investigative outlet Mediapart on Thursday published extracts from private conversations in which far-right leader Jordan Bardella allegedly made anti-Semitic remarks as a teenager, prompting fresh accusations that he has denied.",
+     "url": "https://www.france24.com/en/france/20261126-le-pen-top-ally-bardella-faces-renewed-scrutiny-over-alleged-antisemitic-comments",
+     "source": "France 24",
+     "published": "2026-11-26T09:08:10.000Z"
+    },
+    {
+     "title": "French media reveal more anti-Semitic messages allegedly sent by Jordan Bardella",
+     "summary": "French media on Thursday revealed what was described as new evidence that the president of the far-right National Rally party, Jordan Bardella, wrote anti-Semitic messages over Facebook as a teenager. Two months after investigative site Mediapart first revealed conspiracist remarks about Jewish people allegedly sent by Bardella, the outlet and newspaper Le Monde published extracts from a 2013 conversation which they said contained further anti-Semitic comments.",
+     "url": "https://www.rfi.fr/en/france/20261126-french-media-reveal-more-antisemitic-messages-allegedly-sent-by-jordan-bardella",
      "source": "RFI",
-     "published": "2026-11-24T15:51:49.000Z"
+     "published": "2026-11-26T11:48:37.000Z"
     },
     {
-     "title": "Senegal reinstated as AFCON champions as Morocco vows to fight on",
-     "summary": "The sport's top court ruled that the referee's decision to restart the final after Senegal's walk-off could not be challenged, while Morocco has raised questions over alleged contact between one of the judges and Senegal's federation.",
-     "url": "https://www.euronews.com/2026/11/24/cas-awards-senegal-afcon-title-after-successful-appeal",
-     "source": "Euronews",
-     "published": "2026-11-24T14:51:39.000Z"
-    },
-    {
-     "title": "Morocco to challenge ruling reinstating Senegal as AFCON champions",
-     "summary": "Morocco’s Football Federation has vowed to pursue “all necessary legal avenues\" after the Court of Arbitration for Sport reinstated Senegal as winners of the 2025 Africa Cup of Nations.",
-     "url": "http://www.africanews.com/2026/11/25/morocco-to-challenge-ruling-reinstating-senegal-as-afcon-champions/",
-     "source": "Africanews",
-     "published": "2026-11-25T06:01:39.000Z"
-    },
-    {
-     "title": "Senegal reinstated as AFCON winners after CAS rules against Morocco",
-     "summary": "Senegal were reinstated as winners of the 2025 Africa Cup of Nations on Tuesday, after a decision by the Court of Arbitration for Sport. The court overturned an earlier ruling which handed the trophy to Morocco.",
-     "url": "http://www.africanews.com/2026/11/24/senegal-reinstated-as-afcon-winners-after-cas-rules-against-morocco/",
-     "source": "Africanews",
-     "published": "2026-11-24T15:22:52.000Z"
-    },
-    {
-     "title": "Pix of the Day, 24th November, 2026 - Senegal has officially been reinstated as the 2025 Africa Cup of Nations",
-     "summary": "Senegal has officially been reinstated as the 2025 Africa Cup of Nations champion by the Court of Arbitration",
-     "url": "http://www.africanews.com/2026/11/24/senegal-has-officially-been-reinstated-as-the-2025-africa-cup-of-nations-champion-by-the-c/",
-     "source": "Africanews",
-     "published": "2026-11-24T17:24:51.000Z"
+     "title": "French media publish fresh claims of far-right leader Bardella's 'anti-Semitic torrent'",
+     "summary": "PRESS REVIEW – Thursday, November 26: French media outlets Mediapart and Le Monde publish an additional trove of messages purporting to show far-right leader Jordan Bardella's rampant anti-Semitic thoughts as a young member of the party in 2013. Also: France holds the first trial of a female jihadist, Émilie König. Kilmar Abrego Garcia, once the face of Donald Trump's brutal mass deportations, arrives in Spain. Plus: we find out why the rich world is in the midst of a \"sex recession.\"",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261126-french-media-publish-fresh-claims-of-far-right-leader-bardella-s-anti-semitic-torrent",
+     "source": "France 24",
+     "published": "2026-11-26T11:26:33.000Z"
     }
    ]
   },
   {
    "rank": 8,
-   "score": 86.73,
+   "score": 70.65,
    "tier": "significant",
    "sources": [
     "BBC",
-    "Euronews",
-    "The Hindu",
-    "France 24"
+    "New York Times",
+    "Euronews"
    ],
    "countries": [
     "UK",
-    "EU",
-    "India",
-    "France"
+    "US",
+    "EU"
    ],
-   "count": 4,
-   "recent12": 1,
-   "newestHoursAgo": 2.1,
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 0.6,
    "keywords": [
-    "israeli",
-    "hama",
-    "gaza",
-    "security",
-    "strik",
-    "kill"
+    "mine",
+    "illegal",
+    "gold",
+    "indonesia",
+    "trapp",
+    "dead"
    ],
    "entities": [
-    "hamas",
-    "israeli",
-    "gaza"
+    "monday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-     "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+     "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+     "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-24T15:35:53.000Z"
+     "published": "2026-11-26T07:31:24.000Z"
     },
     {
-     "title": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
-     "summary": "Israeli MPs on Wednesday gave their initial approval for the creation of a commission to investigate the security failures that led to the October 7, 2023 attack by Hamas. Caretaker Prime Minister Benjamin Netanyahu, who was in power when the attack happened, has repeatedly rejected calls to set up such a probe.",
-     "url": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
-     "source": "France 24",
-     "published": "2026-11-25T12:55:47.000Z"
+     "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+     "summary": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
+     "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+     "source": "New York Times",
+     "published": "2026-11-26T14:00:21.000Z"
     },
     {
-     "title": "Israeli strikes kill Hamas security chief and six others in Gaza",
-     "summary": "Two policemen died when a police station in southern Gaza was hit, while coalition talks in Israel leave caretaker prime minister Benjamin Netanyahu in charge of military operations.",
-     "url": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp",
+     "title": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
+     "summary": "The disaster began late on Monday, when heavy rain made the Ciseureuh River burst its banks and pour into a mine shaft, which is estimated to be around 100 metres deep.",
+     "url": "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
      "source": "Euronews",
-     "published": "2026-11-24T12:16:18.000Z"
-    },
-    {
-     "title": "Israeli strikes in Gaza kill seven including senior security official",
-     "summary": "The ‌Israeli military and the Shin ‌Bet domestic ​security service said in ⁠a joint statement they ‌had struck a senior Hamas member, without identifying ‌him, adding ​that further details would ⁠be provided later",
-     "url": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
-     "source": "The Hindu",
-     "published": "2026-11-24T16:57:13.000Z"
+     "published": "2026-11-26T05:14:01.000Z"
     }
    ]
   },
   {
    "rank": 9,
-   "score": 85.52,
+   "score": 63.91,
    "tier": "significant",
    "sources": [
-    "NPR",
-    "Euronews",
-    "The Hindu",
-    "Guardian"
+    "New York Times",
+    "Guardian",
+    "The Hindu"
    ],
    "countries": [
     "US",
+    "UK",
+    "India"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 0.7,
+   "keywords": [
+    "lowest",
+    "net",
+    "migration",
+    "since",
+    "fall",
+    "pandemic"
+   ],
+   "entities": [],
+   "soft": false,
+   "items": [
+    {
+     "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+     "summary": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash.",
+     "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+     "source": "New York Times",
+     "published": "2026-11-26T13:51:57.000Z"
+    },
+    {
+     "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+     "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading...",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+     "source": "Guardian",
+     "published": "2026-11-26T13:43:16.000Z"
+    },
+    {
+     "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
+     "summary": "Some 44,000 Indians arrived in the U.K. for work-related reasons, 77,000 to study, and 5,000 for other reasons. Some 28,000 Indians on work visas left the U.K. and 55,000 on study visas departed",
+     "url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T12:55:21.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "score": 62.77,
+   "tier": "significant",
+   "sources": [
+    "France 24",
+    "Euronews",
+    "The Hindu"
+   ],
+   "countries": [
+    "France",
     "EU",
-    "India",
-    "UK"
+    "India"
    ],
    "count": 4,
-   "recent12": 1,
-   "newestHoursAgo": 1,
+   "recent12": 2,
+   "newestHoursAgo": 0.2,
    "keywords": [
     "ukraine",
-    "russian",
-    "libya",
-    "kyiv",
-    "attack",
-    "kill"
+    "region",
+    "refineri",
+    "drone",
+    "russia",
+    "samara"
    ],
    "entities": [
     "ukraine",
-    "russian",
-    "libya",
+    "ukrainian",
     "russia",
-    "kyiv"
+    "kyiv",
+    "russian",
+    "samara"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-     "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-     "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-     "source": "NPR",
-     "published": "2026-11-24T09:52:03.000Z"
+     "title": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+     "summary": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods.",
+     "url": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+     "source": "France 24",
+     "published": "2026-11-26T14:19:11.000Z"
+    },
+    {
+     "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
+     "summary": "Ukraine's air defences downed 87 Russian missiles and drones overnight on Thursday. Meanwhile, Ukrainian drones struck a chemical plant making components for military explosives and a power station in the Stavropol region.",
+     "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
+     "source": "Euronews",
+     "published": "2026-11-26T14:02:41.000Z"
     },
     {
      "title": "Russian strikes kill seven in Ukraine as Kyiv hits three refineries",
@@ -731,732 +730,250 @@
      "published": "2026-11-25T14:06:14.000Z"
     },
     {
-     "title": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya",
-     "summary": "A Russian nighttime attack on Zaporizhzhia in southern Ukraine has killed two civilians and wounded 48 others including four children",
-     "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+     "title": "Ukraine says it struck two oil refineries in Russia's Samara region",
+     "summary": "Samara’s regional governor, ​Vyacheslav Fedorishchev, said on social media that local air defence ⁠forces had downed 145 Ukrainian drones overnight, causing power outages",
+     "url": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece",
      "source": "The Hindu",
-     "published": "2026-11-24T17:14:46.000Z"
-    },
-    {
-     "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-     "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-year-old woman – the spark for nationwide protests that in turn triggered Sunday’s snap general election – as “the last straw” for desperate tenants. “We’re not interested in small changes,” Ada Colau , the former Barcelona mayor, told the Guardian in an interview. “We want to reform the entire rental sector.” Continue r",
-     "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-     "source": "Guardian",
-     "published": "2026-11-24T16:24:49.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "score": 74.62,
-   "tier": "significant",
-   "sources": [
-    "NPR",
-    "Guardian",
-    "New York Times",
-    "The Hindu"
-   ],
-   "countries": [
-    "US",
-    "UK",
-    "India"
-   ],
-   "count": 4,
-   "recent12": 1,
-   "newestHoursAgo": 5.3,
-   "keywords": [
-    "jin",
-    "chen",
-    "politburo",
-    "shanghai",
-    "member",
-    "china"
-   ],
-   "entities": [
-    "china",
-    "shanghai",
-    "jinping",
-    "politburo",
-    "chen jining"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-     "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-     "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-     "source": "NPR",
-     "published": "2026-11-25T09:44:13.000Z"
-    },
-    {
-     "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-     "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-     "source": "New York Times",
-     "published": "2026-11-24T14:42:31.000Z"
-    },
-    {
-     "title": "China investigates politburo star in Xi Jinping’s latest purge",
-     "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news agency unexpectedly announced on Tuesday, marking the fourth member of the top leadership ⁠body to be probed since ⁠2025. China’s anti-graft watchdog is investigating ​Chen for “suspected severe violations of discipline and laws”, Xinhua said, using a common euphemism for corruption. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-     "source": "Guardian",
-     "published": "2026-11-25T01:31:46.000Z"
-    },
-    {
-     "title": "China announces shock corruption probe into Politburo member",
-     "summary": "Shanghai Party Secretary Chen Jining was earlier expected to assume a top leadership role in 2027",
-     "url": "https://www.thehindu.com/news/international/china-announces-shock-corruption-probe-into-politburo-member/article71738737.ece",
-     "source": "The Hindu",
-     "published": "2026-11-24T14:56:14.000Z"
+     "published": "2026-11-25T18:09:47.000Z"
     }
    ]
   },
   {
    "rank": 11,
-   "score": 70.76,
+   "score": 57.99,
    "tier": "significant",
    "sources": [
-    "BBC",
-    "New York Times",
-    "The Hindu",
-    "Japan Times"
+    "France 24",
+    "RFI",
+    "Guardian"
    ],
    "countries": [
-    "UK",
-    "US",
-    "India",
-    "Japan"
+    "France",
+    "UK"
    ],
    "count": 4,
-   "recent12": 4,
-   "newestHoursAgo": 9.7,
+   "recent12": 3,
+   "newestHoursAgo": 2.4,
    "keywords": [
-    "solomon",
-    "island",
-    "australia",
-    "treaty",
-    "security",
-    "china"
+    "budget",
+    "leader",
+    "brussel",
+    "talk",
+    "ukraine",
+    "clash"
    ],
    "entities": [
-    "solomon islands",
-    "china",
-    "pacific",
-    "australia",
-    "solomons"
+    "thursday",
+    "brussels",
+    "french",
+    "france",
+    "ukraine",
+    "german"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-     "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-     "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T03:15:12.000Z"
+     "title": "EU chief urges leaders to 'compromise' for budget deal by year-end",
+     "summary": "European Council President Antonio Costa urged European leaders to seek compromise on the bloc's long-term budget at a summit Thursday, as Brussels pushes to lock in the plans before next year's French election where far-right leader Marine Le Pen is leading in opinion polls. \"Now it is time for all of the leaders to participate in this debate with an open mind, a constructive approach, and a sense of compromise. Because we need to approve this budget timely. That means by the end of this year,\" Costa said. FRANCE 24's Dave Keating reports from Brussels, Belgium.",
+     "url": "https://www.france24.com/en/video/20261126-eu-chief-urges-leaders-to-compromise-for-budget-deal-by-year-end",
+     "source": "France 24",
+     "published": "2026-11-26T11:49:28.000Z"
     },
     {
-     "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-     "summary": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
-     "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-     "source": "New York Times",
-     "published": "2026-11-25T05:24:36.000Z"
+     "title": "EU leaders set for bruising battle over budget and Ukraine",
+     "summary": "EU leaders are set to clash Thursday over the bloc's next long-term budget and aid to Ukraine as a French ultimatum and German pressure raise the stakes before the two-day meeting in Brussels.",
+     "url": "https://www.rfi.fr/en/international/20261126-eu-leaders-set-for-bruising-battle-over-budget-ukraine",
+     "source": "RFI",
+     "published": "2026-11-26T02:25:38.000Z"
     },
     {
-     "title": "Solomon Islands names Australia as its primary security partner in a new treaty that excludes China",
-     "summary": "The new treaty confirms Australia's place as the Solomons' ‘primary security partner’ and states ‘there will be no foreign military or security base’ on the smaller nation 2,000 kilometres northeast of Australia",
-     "url": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T04:15:07.000Z"
+     "title": "EU Budget talks: France seeks to protect Common Agricultural Policy subsidies",
+     "summary": "Leaders from EU countries are meeting in Brussels on Thursday and Friday for another round of talks on the EU's next multi-year budget. For France, the main aim of the negotiations is to prevent a reduction in the funding allocated to the Common Agricultural Policy, a subsidy vital for French agriculture – a position Macron made clear in a meeting with farmers unions in Paris on Wednesday.",
+     "url": "https://www.france24.com/en/video/20261126-eu-budget-talks-france-seeks-to-protect-common-agricultural-policy-subsidies",
+     "source": "France 24",
+     "published": "2026-11-26T11:22:37.000Z"
     },
     {
-     "title": "Australia edges China out of Pacific foothold in Solomon Islands",
-     "summary": "A new treaty names Australia as the Solomons' \"primary security partner.\"",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/",
-     "source": "Japan Times",
-     "published": "2026-11-25T04:29:00.000Z"
+     "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+     "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing for a clash over long-term financial aid for Ukraine, amid an effort to finalise high-stakes budget talks by the end of the year. Arriving in Brussels on Thursday, the German chancellor, Friedrich Merz, reiterated his view that all EU member states should support a €45bn (£38bn) loan for Ukraine for 2027. “When the European Union provides funding, it does so as the European Union – and that union consists of 27 ",
+     "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+     "source": "Guardian",
+     "published": "2026-11-26T12:07:14.000Z"
     }
    ]
   },
   {
    "rank": 12,
-   "score": 69.56,
+   "score": 55.44,
    "tier": "significant",
    "sources": [
-    "France 24",
-    "The Hindu",
-    "Financial Times"
+    "PBS NewsHour",
+    "Euronews",
+    "Guardian"
    ],
    "countries": [
-    "France",
-    "India",
+    "US",
+    "EU",
     "UK"
    ],
-   "count": 4,
-   "recent12": 4,
-   "newestHoursAgo": 0.4,
+   "count": 3,
+   "recent12": 1,
+   "newestHoursAgo": 3.5,
    "keywords": [
-    "tariff",
-    "announc",
-    "midterm",
-    "trump",
-    "defeat",
-    "china"
+    "spain",
+    "deport",
+    "salvadora",
+    "arriv",
+    "battle",
+    "abrego"
    ],
    "entities": [
-    "trump",
-    "china",
-    "japan",
-    "india"
+    "spain",
+    "salvadoran",
+    "garcía",
+    "united states",
+    "wednesday",
+    "salvador"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Trump announces raft of new tariffs on major economies",
-     "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
-     "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-25T14:00:55.000Z"
+     "title": "&Aacute;brego Garc&iacute;a, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+     "summary": "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation from the United States, arrived in Spain on Wednesday after what his lawyer described as a temporary departure, with hopes of returning to his family's home in Maryland after President Donald Trump leaves office.",
+     "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+     "source": "PBS NewsHour",
+     "published": "2026-11-25T22:30:20.000Z"
     },
     {
-     "title": "Trump announces new tariffs on EU, China despite US midterms defeat",
-     "summary": "President Donald Trump's administration on Wednesday reignited global trade tensions by proposing new tariffs on some of the largest US trading partners, including the EU, Japan and Taiwan. China could be slapped with a 20 percent tariff, a senior official said. The announcement came weeks after a cost-of-living crisis landed the Republicans a sweeping defeat in the US midterms.",
-     "url": "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
-     "source": "France 24",
-     "published": "2026-11-25T14:38:47.000Z"
+     "title": "Wrongly deported Salvadoran arrives in Spain after US legal battle",
+     "summary": "The Salvadoran, deported \"by mistake\" to a prison in El Salvador in 2025, has brought an end to 20 months of litigation in the United States, with Madrid as the first stop in what his lawyers describe as a temporary stay abroad.",
+     "url": "https://www.euronews.com/2026/11/25/wrongly-deported-salvadoran-arrives-in-spain-after-us-legal-battle",
+     "source": "Euronews",
+     "published": "2026-11-25T20:15:17.000Z"
     },
     {
-     "title": "Trump announces new tariffs on countries including India, undeterred by midterms defeat",
-     "summary": "The highest rate of 20% would hit China, which Washington blames for flooding world markets with cheap exports of everything from steel to electric vehicles and solar products",
-     "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T14:30:11.000Z"
-    },
-    {
-     "title": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report",
-     "summary": "India was also named among 16 ⁠major U.S. trading partners; Together, the duties are meant to ​rebuild Trump’s global “Liberation Day” tariffs that were struck down by the U.S. Supreme Court in February",
-     "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T10:09:32.000Z"
+     "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
+     "summary": "His departure ends a high-profile legal battle over due process and deportation, but leaves the Trump administration facing little accountability for its actions Kilmar Ábrego García , the man illegally deported to his native El Salvador last year and whose immigration case spurred a 20-month-long battle with the Trump administration, arrived in Spain on Wednesday. Trump administration officials and Ábrego García supporters are both claiming voluntary departure from the US to avoid deportation is a victory for their respective sides. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
+     "source": "Guardian",
+     "published": "2026-11-26T11:00:33.000Z"
     }
    ]
   },
   {
    "rank": 13,
-   "score": 67.79,
+   "score": 54.17,
    "tier": "significant",
    "sources": [
     "BBC",
-    "DW",
-    "The Hindu"
+    "Sky News",
+    "Japan Times"
    ],
    "countries": [
     "UK",
-    "Germany",
-    "India"
+    "Japan"
    ],
    "count": 3,
    "recent12": 3,
-   "newestHoursAgo": 1.8,
+   "newestHoursAgo": 3.8,
    "keywords": [
-    "russia",
-    "ukraine",
-    "war",
-    "end",
-    "indian",
-    "lost"
+    "myanmar",
+    "comply",
+    "genocide",
+    "icj",
+    "inappropr",
+    "rul"
    ],
    "entities": [
-    "russia",
-    "ukraine"
+    "myanmar",
+    "icj",
+    "justice",
+    "rohingya"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-     "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-     "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+     "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+     "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+     "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T12:21:49.000Z"
+     "published": "2026-11-26T10:25:51.000Z"
     },
     {
-     "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-     "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
-     "url": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
-     "source": "DW",
-     "published": "2026-11-25T13:17:00.000Z"
+     "title": "Myanmar says it will not comply with 'inappropriate' ICJ genocide orders",
+     "summary": "Myanmar's leader has said his government will not ‌comply with all measures ordered by a top international court after it was found guilty of committing genocide against the Rohingya minority.",
+     "url": "https://news.sky.com/story/myanmar-says-it-will-not-comply-with-inappropriate-icj-genocide-orders-13616762",
+     "source": "Sky News",
+     "published": "2026-11-26T10:48:00.000Z"
     },
     {
-     "title": "U.S. shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
-     "summary": "Donald Trump’s envoys Steve ‌Witkoff and Jared ​Kushner told European officials that ⁠corporate tie-ups were no longer ‌a core aspect of the U.S. pitch to Russia",
-     "url": "https://www.thehindu.com/news/international/us-shelves-proposals-to-use-business-deals-with-russia-to-end-ukraine-war-ft-reports/article71741201.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T05:41:19.000Z"
+     "title": "Myanmar won’t comply with ‘inappropriate’ parts of genocide ruling, leader says",
+     "summary": "The International Court of Justice last week laid out evidence of Myanmar's atrocities against the mostly Muslim Rohingya during a 2017 crackdown.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/politics/myanmar-comply-genocide-ruling/",
+     "source": "Japan Times",
+     "published": "2026-11-26T05:47:00.000Z"
     }
    ]
   },
   {
    "rank": 14,
-   "score": 65.51,
+   "score": 49.77,
    "tier": "significant",
    "sources": [
-    "PBS NewsHour",
-    "France 24",
-    "Guardian"
+    "Guardian",
+    "Euronews",
+    "Africanews"
    ],
    "countries": [
-    "US",
-    "France",
-    "UK"
+    "UK",
+    "EU",
+    "Africa"
    ],
    "count": 3,
    "recent12": 2,
-   "newestHoursAgo": 0.2,
+   "newestHoursAgo": 4.4,
    "keywords": [
-    "iowa",
-    "army",
-    "detonate",
-    "stockpile",
-    "lead",
-    "bomb-mak"
+    "sri",
+    "lankan",
+    "eswatini",
+    "sent",
+    "refugee",
+    "secret"
    ],
    "entities": [
-    "iowa",
-    "army",
-    "wednesday"
+    "sri lankan",
+    "eswatini",
+    "bbc",
+    "the united kingdom"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Army plans to detonate Iowa stockpile on Wednesday, tells public there's no reason to panic",
-     "summary": "The detonation of 68 barrels of lead azide was initially planned for last Friday, but the Army has since changed the date three times following an outpouring of public concern about potential health and environmental effects.",
-     "url": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
-     "source": "PBS NewsHour",
-     "published": "2026-11-24T13:34:10.000Z"
-    },
-    {
-     "title": "US army to detonate stockpile of unstable bomb-making chemicals in Iowa",
-     "summary": "The US military will on Wednesday detonate some 10,000 pounds of unstable and degraded explosive material in Iowa, where local residents were urged to evacuate amid concerns over possible toxic lead contamination. US officials say the 68 drums of lead azide are at risk of spontaneous explosion. A series of safety measures are being taken to curb potential contamination from the blast, but the Army has encouraged residents of a small town and other nearby areas to leave \"out of an abundance of caution.\"",
-     "url": "https://www.france24.com/en/video/20261125-us-army-to-detonate-stockpile-of-unstable-bomb-making-chemicals-in-iowa",
-     "source": "France 24",
-     "published": "2026-11-25T13:16:49.000Z"
-    },
-    {
-     "title": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates",
-     "summary": "The army plans to detonate of 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Sign up for the Breaking News US email The United States Centers for Disease Control and Prevention (CDC) has activated an emergency response to support the Iowa Department of Health and Human Services to “provide accurate public health communication and technical assistance to our state and federal partners.” In a statement, the CDC said that at the request of the state of Iowa, it will support the state’s health department to develop “recom",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+     "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+     "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself. Kishanth Peramalya was part of a group that set sail from India hoping to reach Canada and claim asylum there. The boat was rescued by the Royal Navy in October 2021 when it got into difficulty and brought to Diego Garcia in the remote British Indian Ocean Territory, which hosts a US-UK military base. C",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
      "source": "Guardian",
-     "published": "2026-11-25T14:49:19.000Z"
+     "published": "2026-11-25T11:28:05.000Z"
+    },
+    {
+     "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+     "summary": "The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.",
+     "url": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says",
+     "source": "Euronews",
+     "published": "2026-11-26T10:10:16.000Z"
+    },
+    {
+     "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+     "summary": "The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.",
+     "url": "http://www.africanews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says/",
+     "source": "Africanews",
+     "published": "2026-11-26T10:10:16.000Z"
     }
    ]
   },
   {
    "rank": 15,
-   "score": 60.35,
-   "tier": "significant",
-   "sources": [
-    "BBC",
-    "Sky News",
-    "The Hindu",
-    "New York Times"
-   ],
-   "countries": [
-    "UK",
-    "India",
-    "US"
-   ],
-   "count": 4,
-   "recent12": 0,
-   "newestHoursAgo": 12,
-   "keywords": [
-    "markle",
-    "thoma",
-    "child",
-    "abuse",
-    "charg",
-    "material"
-   ],
-   "entities": [
-    "los angeles",
-    "thomas markle",
-    "markle"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Thomas Markle charged in US for possessing child sex abuse images",
-     "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-     "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T01:40:42.000Z"
-    },
-    {
-     "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
-     "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
-     "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
-     "source": "New York Times",
-     "published": "2026-11-25T02:55:17.000Z"
-    },
-    {
-     "title": "Thomas Markle formally charged over child sexual abuse material",
-     "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
-     "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
-     "source": "Sky News",
-     "published": "2026-11-24T17:43:00.000Z"
-    },
-    {
-     "title": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
-     "summary": "The indictment doubles the number of federal ‌charges currently lodged in Los Angeles against the 82-year-old Markle in a case that grew out of an investigation initiated last month in the ‌Philippines",
-     "url": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T03:03:03.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 16,
-   "score": 57.98,
-   "tier": "significant",
-   "sources": [
-    "France 24",
-    "New York Times",
-    "The Hindu"
-   ],
-   "countries": [
-    "France",
-    "US",
-    "India"
-   ],
-   "count": 3,
-   "recent12": 2,
-   "newestHoursAgo": 3.9,
-   "keywords": [
-    "saudi",
-    "houthi",
-    "riyadh",
-    "attack",
-    "district",
-    "skyscrape"
-   ],
-   "entities": [
-    "riyadh",
-    "saudi",
-    "houthi",
-    "saudi arabia"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
-     "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
-     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
-     "source": "New York Times",
-     "published": "2026-11-24T19:18:15.000Z"
-    },
-    {
-     "title": "Yemen's Houthis claim attacks on Riyadh financial district, Saudi refinery",
-     "summary": "Yemen's Houthis on Wednesday claimed attacks targeting the financial district in the Saudi capital and the sprawling Ras Tanura refinery in the kingdom's oil-rich east, in retaliation for strikes on their territory. Houthi military spokesman Yahya Saree described the attack targeting the refinery as \"accurate and direct\", saying it \"caused fires to break out at the facility\". He said the attack on Riyadh was \"carried out in three phases, with strikes hitting their targets accurately\".",
-     "url": "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery",
-     "source": "France 24",
-     "published": "2026-11-25T11:09:43.000Z"
-    },
-    {
-     "title": "At least two Indians among 11 injured in Houthi attack in Riyadh; New Delhi condemns strike",
-     "summary": "Saudi Arabia's Civil Defence said a tower in Riyadh's King Abdullah Financial District came under what it described as a \"terrorist attack\" by Houthi militia",
-     "url": "https://www.thehindu.com/news/national/houthi-attack-in-saudi-capital-riyadh-indians-injured/article71740914.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T07:25:07.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 17,
-   "score": 50.03,
-   "tier": "significant",
-   "sources": [
-    "France 24",
-    "RFI",
-    "Africanews"
-   ],
-   "countries": [
-    "France",
-    "Africa"
-   ],
-   "count": 3,
-   "recent12": 2,
-   "newestHoursAgo": 4.3,
-   "keywords": [
-    "amnesty",
-    "probe",
-    "birth",
-    "genocide",
-    "call",
-    "gaza"
-   ],
-   "entities": [
-    "amnesty",
-    "israel",
-    "wednesday",
-    "international criminal court",
-    "israeli",
-    "gaza"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
-     "summary": "Amnesty International on Wednesday urged the International Criminal Court to investigate whether Israeli officials committed genocide in Gaza, citing measures it says have prevented births and severely harmed women's reproductive health. The rights group said it had serious concerns that these effects were intentional, while acknowledging it could not reach a definitive conclusion.",
-     "url": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
-     "source": "France 24",
-     "published": "2026-11-25T04:01:48.000Z"
-    },
-    {
-     "title": "Israel accused of preventing births in Gaza as Amnesty seeks genocide probe",
-     "summary": "Israeli measures have prevented births in Gaza, Amnesty International said on Wednesday – calling for the International Criminal Court to investigate whether they amount to an act of genocide. In a report documenting the war’s devastating toll on women and girls, the rights group detailed the collapse of fertility services and deadly shortages of medicines needed during childbirth.",
-     "url": "https://www.rfi.fr/en/international/20261125-israel-accused-of-preventing-births-in-gaza-as-amnesty-seeks-genocide-probe",
-     "source": "RFI",
-     "published": "2026-11-25T10:45:26.000Z"
-    },
-    {
-     "title": "Amnesty calls for probe into possible war crimes in Ethiopia's Tigray",
-     "summary": "Amnesty International called Tuesday for an investigation into possible war crimes by the Ethiopian army and its allies in the Tigray region.",
-     "url": "http://www.africanews.com/2026/11/24/amnesty-calls-for-probe-into-possible-war-crimes-in-ethiopias-tigray/",
-     "source": "Africanews",
-     "published": "2026-11-24T17:30:34.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 18,
-   "score": 48.79,
-   "tier": "significant",
-   "sources": [
-    "BBC",
-    "Sky News",
-    "The Hindu"
-   ],
-   "countries": [
-    "UK",
-    "India"
-   ],
-   "count": 3,
-   "recent12": 3,
-   "newestHoursAgo": 7.9,
-   "keywords": [
-    "plane",
-    "crash",
-    "coast",
-    "dead",
-    "children",
-    "mississip"
-   ],
-   "entities": [
-    "coast guard",
-    "mississippi",
-    "divers"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Two children among six dead after plane crash off Mississippi coast",
-     "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-     "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T07:08:22.000Z"
-    },
-    {
-     "title": "Two children among six dead in plane crash",
-     "summary": "Divers have found the bodies of six people, including two children, after a plane crashed off the coast of Mississippi on Tuesday, according to the US Coast Guard.",
-     "url": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273",
-     "source": "Sky News",
-     "published": "2026-11-25T06:38:00.000Z"
-    },
-    {
-     "title": "Crews search for six aboard a small plane that crashed into the Gulf of Mexico, Coast Guard says",
-     "summary": "Responders found three life jackets, a life raft and the plane's cabin floating on the water, but they had not located the four adults and two boys, ages eight and 10, who were on board",
-     "url": "https://www.thehindu.com/news/international/crews-search-for-six-aboard-a-small-plane-that-crashed-into-the-gulf-of-mexico-coast-guard-says/article71741123.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T05:02:16.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 19,
-   "score": 40.44,
-   "tier": "minor",
-   "sources": [
-    "RFI",
-    "New York Times"
-   ],
-   "countries": [
-    "France",
-    "US"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 1.3,
-   "keywords": [
-    "ship",
-    "libyan",
-    "russian",
-    "libya",
-    "ukraine",
-    "attack"
-   ],
-   "entities": [
-    "libyan"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-     "summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
-     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-     "source": "New York Times",
-     "published": "2026-11-25T13:25:15.000Z"
-    },
-    {
-     "title": "French FM defends Ukraine's attacks on Russian ships in Libya",
-     "summary": "France's Foreign Minister Jean-Noel Barrot said Wednesday that Ukraine had been exercising its \"absolute right to self-defence\" by attacking two Russian ships in Libyan waters.",
-     "url": "https://www.rfi.fr/en/international/20261125-french-fm-defends-ukraine-s-attacks-on-russian-ships-in-libya",
-     "source": "RFI",
-     "published": "2026-11-25T13:45:21.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 20,
-   "score": 39.07,
-   "tier": "minor",
-   "sources": [
-    "BBC",
-    "Financial Times"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 2.2,
-   "keywords": [
-    "ramaphosa",
-    "impeachme",
-    "battle",
-    "win",
-    "south",
-    "africa"
-   ],
-   "entities": [
-    "south africa",
-    "ramaphosa"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-     "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-     "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T12:20:17.000Z"
-    },
-    {
-     "title": "South Africa’s Ramaphosa wins battle to halt impeachment push",
-     "summary": "Court ruling stops inquiry into long-running stolen cash scandal involving president",
-     "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "published": "2026-11-25T12:50:10.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 21,
-   "score": 38.54,
-   "tier": "minor",
-   "sources": [
-    "New York Times",
-    "Guardian"
-   ],
-   "countries": [
-    "US",
-    "UK"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 1.4,
-   "keywords": [
-    "aden",
-    "houthi",
-    "holdout",
-    "defend",
-    "capital",
-    "saudi-bac"
-   ],
-   "entities": [
-    "houthi",
-    "aden"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
-     "summary": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
-     "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-     "source": "New York Times",
-     "published": "2026-11-25T13:39:46.000Z"
-    },
-    {
-     "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
-     "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety. The Saudi-backed Yemeni government had made the city its temporary capital; the hundreds of kilometres between it and the Houthis were well fortified. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
-     "source": "Guardian",
-     "published": "2026-11-25T05:00:06.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 22,
-   "score": 38.44,
-   "tier": "minor",
-   "sources": [
-    "New York Times",
-    "The Hindu"
-   ],
-   "countries": [
-    "US",
-    "India"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 1.5,
-   "keywords": [
-    "mine",
-    "trapp",
-    "indonesia",
-    "heavy",
-    "stuck",
-    "rainfall"
-   ],
-   "entities": [],
-   "soft": false,
-   "items": [
-    {
-     "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
-     "summary": "At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.",
-     "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-     "source": "New York Times",
-     "published": "2026-11-25T13:35:09.000Z"
-    },
-    {
-     "title": "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine",
-     "summary": "The miners have been ‌stuck in a ‌mine ⁠100 m (328.08 foot) deep ⁠due to heavy rains around the area since November 23, 2026, ​the ‌agency said",
-     "url": "https://www.thehindu.com/news/international/indonesian-rescuers-searching-for-possibly-dozens-trapped-in-mine/article71741002.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T03:38:07.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 23,
-   "score": 38.4,
+   "score": 45.26,
    "tier": "minor",
    "sources": [
     "BBC",
@@ -1467,520 +984,40 @@
     "Germany"
    ],
    "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 4.5,
+   "recent12": 2,
+   "newestHoursAgo": 0.5,
    "keywords": [
-    "taiwan",
-    "fake",
-    "video",
-    "mayoral",
-    "shen",
-    "candidate"
+    "diesel",
+    "ibiza",
+    "sink",
+    "tanker",
+    "tonn",
+    "crew"
    ],
    "entities": [
-    "taiwan"
+    "ibiza"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-     "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-     "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+     "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+     "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-24T23:05:11.000Z"
+     "published": "2026-11-26T14:00:42.000Z"
     },
     {
-     "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
-     "summary": "Ahead of local elections, AI-generated falsehoods targeting Democratic Progressive Party mayoral candidate Puma Shen have surged in Taiwan, alongside disinformation claiming the US is pulling back support for the island.",
-     "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-world-4025-rdf",
+     "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
+     "summary": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
+     "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-world-4025-rdf",
      "source": "DW",
-     "published": "2026-11-25T10:35:00.000Z"
+     "published": "2026-11-26T11:58:00.000Z"
     }
    ]
   },
   {
-   "rank": 24,
-   "score": 37.87,
-   "tier": "minor",
-   "sources": [
-    "France 24",
-    "RFI"
-   ],
-   "countries": [
-    "France"
-   ],
-   "count": 3,
-   "recent12": 3,
-   "newestHoursAgo": 1.2,
-   "keywords": [
-    "violence",
-    "women",
-    "eliminati",
-    "age",
-    "internet",
-    "polici"
-   ],
-   "entities": [
-    "international day",
-    "elimination",
-    "violence",
-    "violence against women",
-    "france"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Violence against women in the digital age: When the internet becomes a weapon",
-     "summary": "November 25th is the United Nation's International Day for the Elimination of Violence Against Women. In the age of social media and artificial intelligence, there are now new spaces in which violence against women has appeared, with the internet now a growing weapon in the hands of abusers. 85% of women who spend time online have witnessed violence, and 38% have been the target of it.",
-     "url": "https://www.france24.com/en/video/20261125-violence-against-women-in-the-digital-age-when-the-internet-becomes-a-weapon",
-     "source": "France 24",
-     "published": "2026-11-25T13:53:20.000Z"
-    },
-    {
-     "title": "France urged to put women's safety at heart of migration policies",
-     "summary": "France's High Council for Equality between Women and Men is calling for gender to be a \"central aspect\" of migration policies, warning that the violence migrant women suffer throughout their journeys is being ignored. The call comes as the world marks International Day for the Elimination of Violence against Women on Wednesday.",
-     "url": "https://www.rfi.fr/en/france/20261125-france-urged-to-put-migrant-women-s-safety-at-heart-of-migration-policies",
-     "source": "RFI",
-     "published": "2026-11-25T07:03:10.000Z"
-    },
-    {
-     "title": "The forgotten victims of femicide: Children orphaned by violence in Italy",
-     "summary": "November 25th is International Day for the Elimination of Violence Against Women. The forgotten victims of femicide are the children who find themselves motherless, often because their mother was killed by their own father. Italy recorded 97 female homicides in 2025 – 62 of them were committed by a partner. These crimes leave whole families devastated and children who have to grow up without their parents. FRANCE 24’s correspondent in Italy, Natalia Mendoza, reports.",
-     "url": "https://www.france24.com/en/video/20261125-the-forgotten-victims-of-femicide-children-orphaned-by-violence-in-italy",
-     "source": "France 24",
-     "published": "2026-11-25T13:15:14.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 25,
-   "score": 37,
-   "tier": "minor",
-   "sources": [
-    "New York Times",
-    "Euronews"
-   ],
-   "countries": [
-    "US",
-    "EU"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 1.5,
-   "keywords": [
-    "mexico",
-    "caravan",
-    "cartel",
-    "migrant",
-    "prosecuto",
-    "aid"
-   ],
-   "entities": [
-    "united states",
-    "mexico"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-     "summary": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
-     "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-     "source": "New York Times",
-     "published": "2026-11-25T13:34:43.000Z"
-    },
-    {
-     "title": "Migrant caravans head north through Mexico towards US border",
-     "summary": "Migrants from several Central American countries are travelling through southern Mexico in a caravan, hoping to reach the United States.",
-     "url": "https://www.euronews.com/2026/11/24/migrant-caravans-head-north-through-mexico-towards-us-border",
-     "source": "Euronews",
-     "published": "2026-11-24T14:54:26.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 26,
-   "score": 35.96,
-   "tier": "minor",
-   "sources": [
-    "The Hindu",
-    "Japan Times"
-   ],
-   "countries": [
-    "India",
-    "Japan"
-   ],
-   "count": 4,
-   "recent12": 2,
-   "newestHoursAgo": 1.7,
-   "keywords": [
-    "hasina",
-    "banglades",
-    "sheikh",
-    "return",
-    "awami",
-    "plan"
-   ],
-   "entities": [
-    "bangladesh",
-    "hasina",
-    "awami league",
-    "sheikh hasina"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Bangladesh tightens border security ahead of Hasina's planned return; deploys 108 BGB platoons",
-     "summary": "The heightened security comes amid fears that Ms. Hasina's supporters could intensify violence and sabotage in the coming days. Awami League, whose activities have been banned, is promoting a lockdown programme for November 29 and 30 through online platforms, adding to concerns over a possible escalation of tensions",
-     "url": "https://www.thehindu.com/news/international/bangladesh-tightens-border-security-ahead-of-hasinas-planned-return-deploys-108-bgb-platoons/article71742554.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T13:23:52.000Z"
-    },
-    {
-     "title": "Hasina to return to Bangladesh on December 16, says Awami League",
-     "summary": "Ousted Prime Minister has asked Bangladesh government for an aircraft; Awami League team has visited Petrapole in West Bengal to assess Benapole-Petrapole crossing in case Ms. Hasina plans to enter Bangladesh trough land border crossing",
-     "url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
-     "source": "The Hindu",
-     "published": "2026-11-24T16:43:42.000Z"
-    },
-    {
-     "title": "Sheikh Hasina could only be brought back to Bangladesh in handcuffs: Humaiun Kobir",
-     "summary": "“She can only be brought back in handcuffs or under strict surveillance,” Bangladesh State Minister for Foreign Affairs Humaiun Kobir",
-     "url": "https://www.thehindu.com/news/international/sheikh-hasina-could-only-be-brought-back-to-bangladesh-in-handcuffs-humaiun-kobir/article71737801.ece",
-     "source": "The Hindu",
-     "published": "2026-11-24T09:58:46.000Z"
-    },
-    {
-     "title": "Why is Sheikh Hasina’s plan to return to Bangladesh contentious?",
-     "summary": "Prime Minister Sheikh Hasina plans to return home on Dec. 16 from self-imposed exile in India.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/sheikh-hasina-return-bangladesh/",
-     "source": "Japan Times",
-     "published": "2026-11-25T03:44:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 27,
-   "score": 35.46,
-   "tier": "minor",
-   "sources": [
-    "BBC",
-    "Africanews"
-   ],
-   "countries": [
-    "UK",
-    "Africa"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 3.9,
-   "keywords": [
-    "mugabe",
-    "robert",
-    "zimbabwe",
-    "son",
-    "warrant",
-    "arrest"
-   ],
-   "entities": [
-    "zimbabwe",
-    "robert mugabe"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-     "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-     "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T07:26:54.000Z"
-    },
-    {
-     "title": "Zimbabwe court issues arrest warrant for Robert Mugabe’s son",
-     "summary": "Bellarmine Chatunga Mugabe, who was arrested earlier this month, had failed to appear for a routine hearing on Tuesday.",
-     "url": "http://www.africanews.com/2026/11/25/zimbabwe-court-issues-arrest-warrant-for-robert-mugabes-son/",
-     "source": "Africanews",
-     "published": "2026-11-25T11:09:56.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 28,
-   "score": 33.97,
-   "tier": "minor",
-   "sources": [
-    "BBC",
-    "Guardian"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 2.4,
-   "keywords": [
-    "deportati",
-    "abrego",
-    "kilmar",
-    "garcia",
-    "battle",
-    "spain"
-   ],
-   "entities": [
-    "kilmar",
-    "garcía",
-    "spain",
-    "trump"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-     "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
-     "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T12:42:11.000Z"
-    },
-    {
-     "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-     "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. A source close to Ábrego said Madrid was his first stop but that it would not be his final destination. Continue reading...",
-     "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-     "source": "Guardian",
-     "published": "2026-11-24T23:50:31.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 29,
-   "score": 33.45,
-   "tier": "minor",
-   "sources": [
-    "France 24",
-    "The Hindu"
-   ],
-   "countries": [
-    "France",
-    "India"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 4.3,
-   "keywords": [
-    "unclassif",
-    "cia",
-    "informati",
-    "expos",
-    "breach",
-    "report"
-   ],
-   "entities": [
-    "cia"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Cyberattack exposes unclassified information from CIA system, US media reports",
-     "summary": "A recently discovered hack on a CIA analysis system exposed some unclassified information, US media reported on Tuesday. The breach is the latest in a series of cyber attacks that have targeted US government departments and major companies in recent weeks.",
-     "url": "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
-     "source": "France 24",
-     "published": "2026-11-25T10:48:10.000Z"
-    },
-    {
-     "title": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
-     "summary": "While it was not clear specifically what unclassified material ​was compromised, information ‌at other government agencies was also believed to have been exposed in the breach",
-     "url": "https://www.thehindu.com/news/international/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/article71740185.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T06:24:41.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 30,
-   "score": 33.34,
-   "tier": "minor",
-   "sources": [
-    "Euronews",
-    "Africanews"
-   ],
-   "countries": [
-    "EU",
-    "Africa"
-   ],
-   "count": 3,
-   "recent12": 2,
-   "newestHoursAgo": 2.7,
-   "keywords": [
-    "iran",
-    "warn",
-    "attack",
-    "faciliti",
-    "iranian",
-    "qatar"
-   ],
-   "entities": [
-    "iran",
-    "iranian",
-    "tehran"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "US tells citizens to leave Iran, warns hostilities could escalate fast",
-     "summary": "The US Virtual Embassy in Iran said Tehran, Yemen's Houthis and other aligned groups may target US interests and citizens in the region, including companies and institutions. The alert followed Iranian attacks on US assets in Bahrain and Kuwait and a Houthi strike on Riyadh that injured 11 people.",
-     "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast",
-     "source": "Euronews",
-     "published": "2026-11-25T09:13:03.000Z"
-    },
-    {
-     "title": "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
-     "summary": "Iran summoned a Qatari diplomat in Tehran over a joint statement with Germany condemning Iranian attacks and threats to shipping. Qatar said it will handle the dispute through diplomacy and that both the US and Iran were still participating in its mediation efforts.",
-     "url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
-     "source": "Euronews",
-     "published": "2026-11-24T14:29:42.000Z"
-    },
-    {
-     "title": "Iran warns of destructive response if key facilities are attacked",
-     "summary": "Izadi's latest comments signal a hardening of that position, with the Iranian military warning that any strike against key national facilities could carry consequences extending well beyond Iran's borders. There was no im",
-     "url": "http://www.africanews.com/2026/11/25/iran-warns-of-destructive-response-if-key-facilities-are-attacked/",
-     "source": "Africanews",
-     "published": "2026-11-25T12:20:25.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 31,
-   "score": 32.83,
-   "tier": "minor",
-   "sources": [
-    "France 24",
-    "Sky News"
-   ],
-   "countries": [
-    "France",
-    "UK"
-   ],
-   "count": 2,
-   "recent12": 2,
-   "newestHoursAgo": 4.8,
-   "keywords": [
-    "eurostar",
-    "train",
-    "strike",
-    "cancel",
-    "cancell",
-    "unannounc"
-   ],
-   "entities": [],
-   "soft": false,
-   "items": [
-    {
-     "title": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
-     "summary": "",
-     "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-     "source": "France 24",
-     "published": "2026-11-25T10:14:45.000Z"
-    },
-    {
-     "title": "Eurostar trains cancelled and delayed over 'unannounced strike action'",
-     "summary": "Several Eurostar trains have been cancelled or delayed due to \"unannounced strike action\", the company said.",
-     "url": "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317",
-     "source": "Sky News",
-     "published": "2026-11-25T09:47:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 32,
-   "score": 32.65,
-   "tier": "minor",
-   "sources": [
-    "France 24",
-    "Guardian"
-   ],
-   "countries": [
-    "France",
-    "UK"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 3.8,
-   "keywords": [
-    "mali",
-    "justice",
-    "leak",
-    "russian",
-    "path",
-    "prop"
-   ],
-   "entities": [
-    "russian",
-    "mali",
-    "russia"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Violence against women: Its many forms and the paths to justice",
-     "summary": "PRESS REVIEW – Wednesday, November 25: Some 21 percent of women say they have suffered \"economic violence\", while others are exploring new types of justice for their abusers. In other news, recent leaks on Russian troop losses show 349 deaths in Mali, Russia's biggest military deployment in Africa. As Spain prepares to head to the polls, Prime Minister Pedro Sanchez announces a raft of social measures. Finally, a plucky young cat from Essex has taken a train to London.",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice",
-     "source": "France 24",
-     "published": "2026-11-25T11:16:24.000Z"
-    },
-    {
-     "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-     "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted. “Everything was happening at once. Explosions were going off all around us, people were shouting,” recalled a former member of Russia’s Af",
-     "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-     "source": "Guardian",
-     "published": "2026-11-24T16:00:50.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 33,
-   "score": 27.18,
-   "tier": "minor",
-   "sources": [
-    "Guardian",
-    "The Hindu"
-   ],
-   "countries": [
-    "UK",
-    "India"
-   ],
-   "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 7.8,
-   "keywords": [
-    "cuba",
-    "blockade",
-    "expectanc",
-    "crisi",
-    "chief",
-    "health"
-   ],
-   "entities": [
-    "cuba"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-     "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of the World Health Organization (WHO) said on Tuesday. On a visit to Havana, the WHO chief, Tedros Adhanom Ghebreyesus, said life expectancy had fallen from 78.8 years in 2020 to 74.4 years in 2025, the first decline since records began in 1950. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-     "source": "Guardian",
-     "published": "2026-11-24T19:07:26.000Z"
-    },
-    {
-     "title": "WHO chief calls on U.S. to lift oil blockade on Cuba, citing health impact",
-     "summary": "United Nations has also repeatedly warned of a growing humanitarian crisis on the island, calling the U.S. fuel blockade a violation of international ‌law and the human rights of all ​Cubans",
-     "url": "https://www.thehindu.com/news/international/who-chief-calls-on-us-to-lift-oil-blockade-on-cuba-citing-health-impact/article71740941.ece",
-     "source": "The Hindu",
-     "published": "2026-11-25T07:14:58.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 34,
-   "score": 26.03,
+   "rank": 16,
+   "score": 41.26,
    "tier": "minor",
    "sources": [
     "BBC",
@@ -1991,229 +1028,364 @@
     "France"
    ],
    "count": 2,
-   "recent12": 0,
-   "newestHoursAgo": 13.7,
+   "recent12": 1,
+   "newestHoursAgo": 1,
    "keywords": [
-    "zelensky",
-    "ukraine",
-    "billion",
-    "mum",
-    "complicat",
-    "aid"
+    "spanish",
+    "election",
+    "stake",
+    "hous",
+    "snap",
+    "sunday"
    ],
    "entities": [
-    "ukraine",
-    "zelensky"
+    "spanish",
+    "sunday"
    ],
    "soft": false,
    "items": [
     {
-     "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-     "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-     "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+     "title": "Spanish elections: What you need to know and what's at stake",
+     "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "published": "2026-11-25T00:54:13.000Z"
+     "published": "2026-11-26T00:23:49.000Z"
     },
     {
-     "title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
-     "summary": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
-     "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+     "title": "Housing crisis on the ballot: Anger boils over ahead of Spanish election",
+     "summary": "Spaniards head to the polls on Sunday in a general election that was called after street protests for affordable housing. Anger bubbled over after 87-year-old Maricarmen Abascal was evicted from her home of seven decades and two decrees to tackle the housing crisis were rejected by parliament. In calling the snap election, Spanish Prime Minister Pedro Sanchez is hoping the housing issue can galvanise his left-wing base.",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261126-housing-crisis-on-the-ballot-anger-boils-over-ahead-of-spanish-election",
      "source": "France 24",
-     "published": "2026-11-25T01:19:31.000Z"
+     "published": "2026-11-26T13:33:21.000Z"
     }
    ]
   },
   {
-   "rank": 35,
-   "score": 25.02,
+   "rank": 17,
+   "score": 40.33,
    "tier": "minor",
    "sources": [
-    "PBS NewsHour",
-    "Japan Times"
+    "BBC",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 1.4,
+   "keywords": [
+    "runway",
+    "miami",
+    "fedex",
+    "eve",
+    "airplane",
+    "incident"
+   ],
+   "entities": [
+    "miami",
+    "fedex"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+     "summary": "A FedEx aircraft overran a runway, prompting disruption on one of the busiest travel days of the year.",
+     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T13:09:15.000Z"
+    },
+    {
+     "title": "FedEx airplane overruns runway at Miami airport, closing all but one runway",
+     "summary": "There were no reports of injuries after the plane ran off the runway at about 8.40 p.m., the airport reported",
+     "url": "https://www.thehindu.com/news/international/fedex-airplane-overruns-runway-at-miami-airport-closing-all-but-one-runway/article71745686.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T08:11:34.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "score": 39.09,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Africanews"
+   ],
+   "countries": [
+    "UK",
+    "Africa"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 1,
+   "keywords": [
+    "ugandan",
+    "congo",
+    "general",
+    "kaineruga",
+    "uganda",
+    "answer"
+   ],
+   "entities": [
+    "congo",
+    "ugandan"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "DR Congo demands answers over Ugandan general's threats",
+     "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T07:24:39.000Z"
+    },
+    {
+     "title": "DRC–Uganda tensions escalate as Kinshasa summons Ugandan diplomat",
+     "summary": "Tensions are rising between the Democratic Republic of Congo and Uganda following controversial statements by Uganda’s army chief, General Muhoozi Kainerugaba.",
+     "url": "http://www.africanews.com/2026/11/26/drcuganda-tensions-escalate-as-kinshasa-summons-ugandan-diplomat/",
+     "source": "Africanews",
+     "published": "2026-11-26T13:34:27.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "score": 39.04,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "countries": [
+    "France"
+   ],
+   "count": 3,
+   "recent12": 3,
+   "newestHoursAgo": 0.3,
+   "keywords": [
+    "islamic",
+    "state",
+    "konig",
+    "group",
+    "french",
+    "iraq"
+   ],
+   "entities": [
+    "islamic state",
+    "syria",
+    "french",
+    "thursday",
+    "paris",
+    "originally",
+    "france"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Émilie König, 'the muse of the Islamic State group' goes on trial in France",
+     "summary": "French anti-terrorism prosecutors once dubbed her \"the muse of the Islamic State group\". On Thursday, Émilie König appears before a special criminal court in Paris, seeking to convince judges that she has been deradicalised. Originally from western France, König spent a decade in Syria and is accused of being one of the Islamic State group's most active French propagandists. Charged with criminal association with a terrorist organisation, she maintains that she has no blood on her hands.",
+     "url": "https://www.france24.com/en/video/20261126-%C3%A9milie-k%C3%B6nig-the-muse-of-the-islamic-state-group-goes-on-trial-in-france",
+     "source": "France 24",
+     "published": "2026-11-26T14:17:30.000Z"
+    },
+    {
+     "title": "Alleged Islamic State group propagandist Emily Konig on trial in France",
+     "summary": "Accused of being one of the Islamic State group's most active French propagandists, Emily Konig went on trial in Paris on Thursday. Originally from Brittany, Konig spent a decade in Syria before returning to France in 2022. She is charged with criminal association with a terrorist organisation and faces up to 30 years in prison if convicted. FRANCE 24's Luke Shrago is following the trial in Paris and joins us to explain the defence's strategy.",
+     "url": "https://www.france24.com/en/video/20261126-alleged-islamic-state-group-propagandist-emily-konig-on-trial-in-france",
+     "source": "France 24",
+     "published": "2026-11-26T11:27:35.000Z"
+    },
+    {
+     "title": "Iraq sentences eight French Islamic State members to life as prosecutions continue",
+     "summary": "Iraq has sentenced eight more French men to life in prison for joining the so-called Islamic State armed group. They are among 47 French citizens transferred to Iraq from neighbouring Syria last year for prosecution.",
+     "url": "https://www.rfi.fr/en/international/20261126-iraq-sentences-eight-french-islamic-state-members-to-life-as-prosecutions-continue",
+     "source": "RFI",
+     "published": "2026-11-26T14:04:12.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "score": 38.13,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 2,
+   "keywords": [
+    "duran",
+    "taylor",
+    "guitarist",
+    "andy",
+    "tribut",
+    "ag"
+   ],
+   "entities": [
+    "duran duran",
+    "andy taylor"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+     "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T12:33:23.000Z"
+    },
+    {
+     "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+     "summary": "The band’s imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as ‘Girls on Film’ and ‘Union of the Snake’ and the moody ballads ‘The Chauffeur’ and ‘Save a Prayer’",
+     "url": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+     "source": "The Hindu",
+     "published": "2026-11-25T22:46:30.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "score": 37.65,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Africanews"
+   ],
+   "countries": [
+    "UK",
+    "Africa"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 2.1,
+   "keywords": [
+    "rubbish",
+    "dump",
+    "guinea",
+    "order",
+    "pil",
+    "capital"
+   ],
+   "entities": [
+    "guinea"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+     "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T07:43:48.000Z"
+    },
+    {
+     "title": "Guinea order massive clean-up operation of dumped rubbish in Conakry",
+     "summary": "Garbage has been piling up on the streets of the capital since the closure of a dangerous landfill a few months ago.",
+     "url": "http://www.africanews.com/2026/11/26/guinea-order-massive-clean-up-operation-of-dumped-rubbish-in-conakry/",
+     "source": "Africanews",
+     "published": "2026-11-26T12:26:57.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "score": 37.58,
+   "tier": "minor",
+   "sources": [
+    "NPR",
+    "Africanews"
    ],
    "countries": [
     "US",
-    "Japan"
+    "Africa"
    ],
    "count": 2,
-   "recent12": 1,
-   "newestHoursAgo": 11.8,
-   "keywords": [
-    "harm",
-    "law",
-    "australia",
-    "online",
-    "safety",
-    "multibill"
-   ],
-   "entities": [
-    "australia"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Australia set to pass online safety laws with multibillion-dollar fines for tech giants",
-     "summary": "The Australian government clinched a political deal on Tuesday to introduce online safety laws that could expose tech giants to multibillion-dollar fines for failing to prevent foreseeable online harms.",
-     "url": "https://www.pbs.org/newshour/world/australia-set-to-pass-online-safety-laws-with-multibillion-dollar-fines-for-tech-giants",
-     "source": "PBS NewsHour",
-     "published": "2026-11-24T20:10:42.000Z"
-    },
-    {
-     "title": "U.S. criticizes Australia social media law as harming free speech",
-     "summary": "New legislation aims to reduce online harm by requiring providers such as social media platforms and AI chatbots to build safety into their products.",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/world/us-australia-social-media-speech/",
-     "source": "Japan Times",
-     "published": "2026-11-25T03:17:00.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 36,
-   "score": 21.08,
-   "tier": "minor",
-   "sources": [
-    "PBS NewsHour",
-    "New York Times"
-   ],
-   "countries": [
-    "US"
-   ],
-   "count": 2,
-   "recent12": 0,
-   "newestHoursAgo": 17,
-   "keywords": [
-    "franci",
-    "diary",
-    "pope",
-    "excerpt",
-    "publish",
-    "book"
-   ],
-   "entities": [
-    "francis"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Francis' private diary reveals pope grappling with spiritual crisis and encounters with the devil",
-     "summary": "Pope Francis saw the \"gates of hell\" when he realized the depths of the clergy sexual abuse scandal and experienced mystical visions of the devil throughout his ministry, according to excerpts of his personal diary published Tuesday by the Vatican.",
-     "url": "https://www.pbs.org/newshour/nation/francis-private-diary-reveals-pope-grappling-with-spiritual-crisis-and-encounters-with-the-devil",
-     "source": "PBS NewsHour",
-     "published": "2026-11-24T15:40:12.000Z"
-    },
-    {
-     "title": "Pope Francis Diary Excerpts Published in New Book",
-     "summary": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
-     "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-     "source": "New York Times",
-     "published": "2026-11-24T22:03:38.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 37,
-   "score": 19.71,
-   "tier": "minor",
-   "sources": [
-    "BBC"
-   ],
-   "countries": [
-    "UK"
-   ],
-   "count": 1,
-   "recent12": 1,
-   "newestHoursAgo": 0.3,
-   "keywords": [
-    "airfield",
-    "jet",
-    "ukraine",
-    "strike",
-    "hit",
-    "savasleyk"
-   ],
-   "entities": [
-    "five russian",
-    "ukraine the savasleyka",
-    "russia",
-    "ukraine"
-   ],
-   "soft": false,
-   "items": [
-    {
-     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-     "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-     "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "published": "2026-11-25T14:46:41.000Z"
-    }
-   ]
-  },
-  {
-   "rank": 38,
-   "score": 18.89,
-   "tier": "minor",
-   "sources": [
-    "Euronews"
-   ],
-   "countries": [
-    "EU"
-   ],
-   "count": 4,
    "recent12": 2,
-   "newestHoursAgo": 4.1,
+   "newestHoursAgo": 0.8,
    "keywords": [
-    "bulletin",
-    "november",
-    "catch",
-    "important",
-    "stori",
-    "entertain"
+    "congo",
+    "ebola",
+    "outbreak",
+    "responder",
+    "run",
+    "custom"
    ],
    "entities": [
-    "november",
-    "europe",
-    "business",
-    "entertainment",
-    "politics",
-    "culture",
-    "travel",
-    "midday catch"
+    "congo"
    ],
    "soft": false,
    "items": [
     {
-     "title": "Latest news bulletin | November 25th, 2026 – Midday",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-midday",
-     "source": "Euronews",
-     "published": "2026-11-25T11:00:15.000Z"
+     "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+     "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+     "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+     "source": "NPR",
+     "published": "2026-11-26T13:47:09.000Z"
     },
     {
-     "title": "Latest news bulletin | November 24th, 2026 – Midday",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/24/latest-news-bulletin-november-24th-2026-midday",
-     "source": "Euronews",
-     "published": "2026-11-24T11:00:15.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 25th, 2026 – Morning",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-morning",
-     "source": "Euronews",
-     "published": "2026-11-25T06:00:33.000Z"
-    },
-    {
-     "title": "Latest news bulletin | November 24th, 2026 – Evening",
-     "summary": "Catch up with the most important stories from around Europe and beyond this November 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-     "url": "https://www.euronews.com/video/2026/11/24/latest-news-bulletin-november-24th-2026-evening",
-     "source": "Euronews",
-     "published": "2026-11-24T17:00:26.000Z"
+     "title": "Ebola fight runs up against customs, rites in remote DR Congo",
+     "summary": "For health workers in the volatile eastern Democratic Republic of the Congo (DRC), tackling local suspicions is as big a problem as combating the Ebola virus that has plagued it for six months.",
+     "url": "http://www.africanews.com/2026/11/26/ebola-fight-runs-up-against-customs-rites-in-remote-dr-congo/",
+     "source": "Africanews",
+     "published": "2026-11-26T11:21:18.000Z"
     }
    ]
   },
   {
-   "rank": 39,
-   "score": 18.79,
+   "rank": 23,
+   "score": 37.09,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 3.9,
+   "keywords": [
+    "explosiv",
+    "iowa",
+    "succes",
+    "army",
+    "detect",
+    "blast"
+   ],
+   "entities": [
+    "army"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+     "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T10:38:35.000Z"
+    },
+    {
+     "title": "U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa",
+     "summary": "The Army and the U.S. Environmental Protection Agency said emission monitors detected zero levels of airborne lead in the surrounding region immediately after the explosion",
+     "url": "https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T07:55:02.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "score": 36.3,
    "tier": "minor",
    "sources": [
     "New York Times",
@@ -2224,42 +1396,43 @@
     "EU"
    ],
    "count": 2,
-   "recent12": 0,
-   "newestHoursAgo": 20.6,
+   "recent12": 1,
+   "newestHoursAgo": 2.1,
    "keywords": [
-    "istanbul",
-    "lion",
-    "footage",
-    "search",
-    "loose",
-    "fast"
+    "netanyahu",
+    "judg",
+    "dropp",
+    "corruptio",
+    "key",
+    "trial"
    ],
    "entities": [
-    "turkish"
+    "judges"
    ],
    "soft": false,
    "items": [
     {
-     "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
-     "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
-     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+     "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+     "summary": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
      "source": "New York Times",
-     "published": "2026-11-24T18:25:38.000Z"
+     "published": "2026-11-25T20:45:09.000Z"
     },
     {
-     "title": "Was it a lion? Grainy footage prompted a large search in Istanbul",
-     "summary": "Reports of a lioness roaming north of Istanbul prompted a security scramble after grainy footage appeared to show a large cat prowling across open land. Following a day of searches, Turkish authorities said the animal was neither a lion nor any other big cat.",
-     "url": "https://www.euronews.com/2026/11/24/was-it-a-lion-grainy-footage-prompted-a-large-search-in-istanbul",
+     "title": "Judges in Netanyahu corruption trial urges dropping key charges",
+     "summary": "Israel continues to struggle to form a government after the 27 October election. Netanyahu has denied wrongdoing in all three cases since his trial began in May 2020.",
+     "url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
      "source": "Euronews",
-     "published": "2026-11-24T13:25:42.000Z"
+     "published": "2026-11-26T12:29:21.000Z"
     }
    ]
   },
   {
-   "rank": 40,
-   "score": 18.41,
+   "rank": 25,
+   "score": 35.62,
    "tier": "minor",
    "sources": [
+    "Financial Times",
     "Guardian"
    ],
    "countries": [
@@ -2267,35 +1440,704 @@
    ],
    "count": 2,
    "recent12": 2,
-   "newestHoursAgo": 0.4,
+   "newestHoursAgo": 0.6,
    "keywords": [
-    "thanksgiv",
-    "high",
-    "plan",
-    "wind",
-    "american",
-    "rain"
+    "mandelson",
+    "firm",
+    "ambassado",
+    "soften",
+    "advice",
+    "counsel"
    ],
    "entities": [
-    "thanksgiving",
-    "americans",
-    "continue"
+    "mandelson",
+    "global counsel"
    ],
    "soft": false,
    "items": [
     {
-     "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
-     "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives Thanksgiving is just one day away, but for some Americans, the holiday may look a little different this year as higher costs for food, drinks , household goods, air travel and gasoline have prompted some families to rethink their plans and spending. The Guardian recently asked readers across the United States how they were marking the holiday this year and whether higher prices had affected their plans or made them rethink their usual traditions. Continue reading...",
-     "url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
-     "source": "Guardian",
-     "published": "2026-11-25T14:43:16.000Z"
+     "title": "Mandelson softened China speech on advice from firm he founded",
+     "summary": "Files show former ambassador to US who was sacked over friendship with Epstein kept close links with Global Counsel",
+     "url": "https://www.ft.com/content/2f5970e6-fe6c-416c-aff8-3f8b889802de?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-26T13:55:05.000Z"
     },
     {
-     "title": "Heavy rain and high winds on east coast threaten to disrupt Thanksgiving plans",
-     "summary": "Macy’s parade of balloons under threat in New York City as flights face delays or cancellations Two storms that converged in the US south-east will move up the east coast, potentially disrupting plans for millions of Americans travelling to celebrate Thanksgiving with heavy rain, strong winds and possible flooding from Virginia to New York. Strong winds expected to arrive in the north-east on Thursday could prevent the balloons from flying at the Macy’s Thanksgiving Day parade in New York, where wind gusts could hit 60mph. Continue reading...",
-     "url": "https://www.theguardian.com/us-news/2026/nov/25/heavy-rain-high-winds-thanksgiving-east-coast",
+     "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+     "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organisation in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to Donald Trump and a member of his former lobbying firm, Global Counsel, while he still held shares in the company, newly released documents reveal. In April 2025, while ambassador to Washington, Mandelson wanted to hold a lunch to discuss “alternative options” to the World Trade Organization and on how “like-minded partners come to terms with",
+     "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
      "source": "Guardian",
-     "published": "2026-11-25T14:41:00.000Z"
+     "published": "2026-11-26T13:11:39.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "score": 35.4,
+   "tier": "minor",
+   "sources": [
+    "Financial Times",
+    "Guardian"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 0.8,
+   "keywords": [
+    "heathrow",
+    "mp",
+    "fail",
+    "runway",
+    "third",
+    "make"
+   ],
+   "entities": [
+    "heathrow"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "UK government has ‘failed’ to make case for third Heathrow runway, say MPs",
+     "summary": "Transport committee warns ambitious scheme would only create ‘modest’ economic growth as PM Andy Burnham weighs decision on £33bn project",
+     "url": "https://www.ft.com/content/9c271b6d-3280-4abc-9e8f-a93caf594d21?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "published": "2026-11-26T11:05:07.000Z"
+    },
+    {
+     "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+     "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate Ministers have “failed to make the case” for a third runway at Heathrow , according to a damning report by MPs. The Commons transport committee said on Thursday that the detailed policy papers laid out by the government showed expansion of the London airport would fall short of pledges on the economy and climate. Continue reading...",
+     "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+     "source": "Guardian",
+     "published": "2026-11-26T13:43:36.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "score": 34.17,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Euronews"
+   ],
+   "countries": [
+    "UK",
+    "EU"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 5.3,
+   "keywords": [
+    "nasa",
+    "asteroid",
+    "spacecraf",
+    "stadium-s",
+    "crater",
+    "crash"
+   ],
+   "entities": [],
+   "soft": false,
+   "items": [
+    {
+     "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+     "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+     "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-25T20:11:46.000Z"
+    },
+    {
+     "title": "New images show stadium-sized crater on asteroid NASA crashed into",
+     "summary": "Europe's Hera spacecraft has released its first close-up footage of Dimorphos, four years after NASA deliberately smashed a probe into it.",
+     "url": "https://www.euronews.com/2026/11/26/new-images-show-stadium-sized-crater-on-asteroid-nasa-crashed-into",
+     "source": "Euronews",
+     "published": "2026-11-26T09:16:16.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "score": 32.85,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Guardian"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 4.6,
+   "keywords": [
+    "terminati",
+    "clause",
+    "treati",
+    "publish",
+    "uk-eu",
+    "treaty"
+   ],
+   "entities": [],
+   "soft": false,
+   "items": [
+    {
+     "title": "New UK-EU treaty has 10-year termination clause",
+     "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+     "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T09:59:14.000Z"
+    },
+    {
+     "title": "Details of two treaties at heart of Andy Burnham’s EU reset to be published",
+     "summary": "Government also to publish bill that will enact EU deals as Tories and Reform hit out over 10-year termination clause Europe live – latest updates Business live – latest updates Details of two treaties at the heart of Andy Burnham’s post- Brexit reset plans will be published on Thursday alongside the bill that will implement the changes into UK law. The treaties signed by the UK and the European Union at last week’s summit will have a 10-year termination clause that would mean if one party were to end the agreement, they would have to pay to rebuild border checks infrastructure, the BBC report",
+     "url": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
+     "source": "Guardian",
+     "published": "2026-11-26T09:16:19.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "score": 32.42,
+   "tier": "minor",
+   "sources": [
+    "DW",
+    "Japan Times"
+   ],
+   "countries": [
+    "Germany",
+    "Japan"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 5.2,
+   "keywords": [
+    "chip",
+    "chinese",
+    "model",
+    "southeast",
+    "distillat",
+    "circumven"
+   ],
+   "entities": [
+    "chinese"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+     "summary": "High-tech AI chips are hard to get in China because of US restrictions. To get around this, Chinese companies often use offshore computing capacity, particularly in Southeast Asia. The US is also trying to stop it.",
+     "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-26T06:11:00.000Z"
+    },
+    {
+     "title": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress",
+     "summary": "American firms have made efforts to prevent use of their models to train others, while Washington has set out new rules for access to computing power.",
+     "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
+     "source": "Japan Times",
+     "published": "2026-11-26T09:21:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "score": 32.18,
+   "tier": "minor",
+   "sources": [
+    "DW",
+    "France 24"
+   ],
+   "countries": [
+    "Germany",
+    "France"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 7.1,
+   "keywords": [
+    "afghanist",
+    "women",
+    "doctor",
+    "treatment",
+    "acces",
+    "taliban"
+   ],
+   "entities": [
+    "afghanistan",
+    "taliban"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "In Afghanistan, no female doctor often means no treatment for women",
+     "summary": "Millions of women in Afghanistan, particularly pregnant women, are suffering under Taliban restrictions and are increasingly losing access to life-saving medical care.",
+     "url": "https://www.dw.com/en/in-afghanistan-no-female-doctor-often-means-no-treatment-for-women/a-80047053?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-25T12:31:00.000Z"
+    },
+    {
+     "title": "Aid cuts to Taliban-ruled Afghanistan further curb women's access to healthcare, education and food",
+     "summary": "Having lived and worked in Afghanistan for seven years, photojournalist Élise Blanchard offers an intimate account of what daily life is like for Afghan women today. Joining Genie Godula on the International Day for the Elimination of Violence against Women, she explains how restrictions vary across the country, depending on where women live, their families and the local enforcement of Taliban decrees. She stresses the need to maintain access to healthcare, primary education and food, pointing to severe cuts in humanitarian assistance by the US and EU.",
+     "url": "https://www.france24.com/en/aid-cuts-to-taliban-ruled-afghanistan-further-curb-women-s-access-to-healthcare-education-and-food",
+     "source": "France 24",
+     "published": "2026-11-26T07:28:14.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "score": 31.01,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "Sky News"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 5.1,
+   "keywords": [
+    "satellit",
+    "spacex",
+    "space",
+    "million",
+    "authoris",
+    "data"
+   ],
+   "entities": [
+    "spacex"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T09:27:44.000Z"
+    },
+    {
+     "title": "US authorises SpaceX to deploy one million satellites to space",
+     "summary": "The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said.",
+     "url": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
+     "source": "Sky News",
+     "published": "2026-11-25T18:03:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "score": 30.99,
+   "tier": "minor",
+   "sources": [
+    "New York Times",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 6.8,
+   "keywords": [
+    "impeachme",
+    "win",
+    "cyril",
+    "ramaphosa",
+    "reprieve",
+    "farmgate"
+   ],
+   "entities": [
+    "cyril ramaphosa"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+     "summary": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
+     "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+     "source": "New York Times",
+     "published": "2026-11-25T16:22:17.000Z"
+    },
+    {
+     "title": "Cyril Ramaphosa wins court bid to overturn impeachment report",
+     "summary": "The 74-year-old leader was accused of hiding from police and tax authorities a 2020 break-in and theft of $580,000, which was stashed in furniture at his luxury Phala Phala farmhouse in the northern Limpopo province",
+     "url": "https://www.thehindu.com/news/international/cyril-ramaphosa-wins-court-bid-to-overturn-impeachment-report/article71745568.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T07:44:55.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "score": 30.54,
+   "tier": "minor",
+   "sources": [
+    "The Hindu",
+    "Africanews"
+   ],
+   "countries": [
+    "India",
+    "Africa"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 2.8,
+   "keywords": [
+    "kremlin",
+    "ukraine",
+    "troop",
+    "casualty",
+    "ex-u",
+    "johnson"
+   ],
+   "entities": [
+    "kremlin",
+    "ukraine",
+    "russian"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Kremlin rejects ex-U.K. PM Johnson's call for a token Western force in Ukraine as unacceptable",
+     "summary": "Russian officials have repeatedly warned that any Western troops ​deployed to Ukraine would be legitimate targets for Russian forces",
+     "url": "https://www.thehindu.com/news/international/kremlin-rejects-ex-uk-pm-johnsons-call-for-a-token-western-force-in-ukraine-as-unacceptable/article71743922.ece",
+     "source": "The Hindu",
+     "published": "2026-11-25T18:09:14.000Z"
+    },
+    {
+     "title": "War in Ukraine: Russia ignores claims on troop casualty figures",
+     "summary": "Kremlin spokesman Dmitry Peskov on Wednesday declined to comment on claims that around 700,000 Russian soldiers have been killed in the Ukraine war so far.",
+     "url": "http://www.africanews.com/2026/11/26/war-in-ukraine-russia-ignores-claims-on-troop-casualty-figures/",
+     "source": "Africanews",
+     "published": "2026-11-26T11:45:45.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "score": 29.87,
+   "tier": "minor",
+   "sources": [
+    "DW",
+    "Japan Times"
+   ],
+   "countries": [
+    "Germany",
+    "Japan"
+   ],
+   "count": 3,
+   "recent12": 2,
+   "newestHoursAgo": 8.8,
+   "keywords": [
+    "ukraine",
+    "russia",
+    "war",
+    "starlink",
+    "indian",
+    "urge"
+   ],
+   "entities": [
+    "russia",
+    "ukraine"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+     "summary": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+     "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-26T05:45:00.000Z"
+    },
+    {
+     "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
+     "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
+     "url": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
+     "source": "DW",
+     "published": "2026-11-25T13:17:00.000Z"
+    },
+    {
+     "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
+     "summary": "The message comes after the U.S. leader met Russian President Vladimir Putin last week in Asia, referring to him as a \"friend.\"",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-nato-chief-russia-ukraine-war/",
+     "source": "Japan Times",
+     "published": "2026-11-26T05:24:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "score": 28.73,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "The Hindu"
+   ],
+   "countries": [
+    "UK",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 10.5,
+   "keywords": [
+    "macy",
+    "postpon",
+    "parade",
+    "weather",
+    "thanksgiv",
+    "postponem"
+   ],
+   "entities": [
+    "macy"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Macy's postpones Thanksgiving parade due to severe weather",
+     "summary": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-26T04:04:14.000Z"
+    },
+    {
+     "title": "Bad weather postpones Macy’s 100th Thanksgiving Day Parade for first time ever",
+     "summary": "The postponement came as New York City is set to get slammed by a storm bringing intense winds and rain to the region",
+     "url": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T01:34:38.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "score": 28.57,
+   "tier": "minor",
+   "sources": [
+    "France 24",
+    "RFI"
+   ],
+   "countries": [
+    "France"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 6,
+   "keywords": [
+    "champion",
+    "league",
+    "psg",
+    "roma",
+    "campaign",
+    "roman"
+   ],
+   "entities": [
+    "champions league",
+    "roma"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Injury-hit PSG drop first points of Champions League campaign against Roma",
+     "summary": "After kicking off their Champions League title defence with four consecutive wins, Luis Enrique's men were held to a draw at home by the Italian side Roma. Real Madrid are now two points clear at the top of the standings.",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261126-injury-hit-psg-drop-first-points-of-champions-league-campaign-against-roma",
+     "source": "France 24",
+     "published": "2026-11-26T08:34:00.000Z"
+    },
+    {
+     "title": "Romans burn PSG's perfect start to Champions League campaign",
+     "summary": "Paris Saint-Germain's flawless start to the defence of their Champions League crown ended on Wednesday night in a 2-2 draw with Roma.",
+     "url": "https://www.rfi.fr/en/sports/20261125-romans-burn-psg-s-perfect-start-to-champions-league-campaign",
+     "source": "RFI",
+     "published": "2026-11-25T22:59:35.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "score": 27.73,
+   "tier": "minor",
+   "sources": [
+    "Euronews",
+    "Africanews"
+   ],
+   "countries": [
+    "EU",
+    "Africa"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 5.7,
+   "keywords": [
+    "haftar",
+    "erdogan",
+    "libya",
+    "ankara",
+    "turkey",
+    "eastern"
+   ],
+   "entities": [
+    "haftar",
+    "ankara",
+    "libya",
+    "turkey"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
+     "summary": "Eastern Libya's commander, accompanied by his son Saddam, met Turkey's defence and foreign ministers and its intelligence chief, days after Ukrainian naval drones sank the Russian warship Merkury at Benghazi's naval base.",
+     "url": "https://www.euronews.com/2026/11/25/haftar-visits-ankara-as-erdogan-prepares-first-libya-trip-in-15-years",
+     "source": "Euronews",
+     "published": "2026-11-25T13:07:01.000Z"
+    },
+    {
+     "title": "Erdogan welcomes Haftar to Turkey amid push to strengthen ties with eastern Libya",
+     "summary": "Turkish President Erdogan welcomed Khalifa Haftar, the leader of eastern Libya, to Ankara on Wednesday, marking a major thaw in relations.",
+     "url": "http://www.africanews.com/2026/11/26/erdogan-welcomes-haftar-to-ankara-amid-push-to-strengthen-ties-with-eastern-libya/",
+     "source": "Africanews",
+     "published": "2026-11-26T08:51:51.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "score": 26.27,
+   "tier": "minor",
+   "sources": [
+    "NPR",
+    "The Hindu"
+   ],
+   "countries": [
+    "US",
+    "India"
+   ],
+   "count": 2,
+   "recent12": 1,
+   "newestHoursAgo": 11.8,
+   "keywords": [
+    "nvidia",
+    "jensen",
+    "huang",
+    "fbi",
+    "cia",
+    "republica"
+   ],
+   "entities": [
+    "nvidia",
+    "jensen huang"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+     "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+     "source": "NPR",
+     "published": "2026-11-25T11:50:05.000Z"
+    },
+    {
+     "title": "Jensen Huang needs a new playbook for his second innings at Nvidia",
+     "summary": "Returning to Nvidia’s Santa Clara headquarters in California on Monday (November 23, 2026), and standing on the ground floor of the atrium, Jensen Huang apologised to employees and vowed to be a better CEO",
+     "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece",
+     "source": "The Hindu",
+     "published": "2026-11-26T02:47:13.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "score": 25.7,
+   "tier": "minor",
+   "sources": [
+    "Guardian",
+    "Japan Times"
+   ],
+   "countries": [
+    "UK",
+    "Japan"
+   ],
+   "count": 2,
+   "recent12": 2,
+   "newestHoursAgo": 9.3,
+   "keywords": [
+    "detain",
+    "plead",
+    "wife",
+    "journalis",
+    "japanese",
+    "hokkaido"
+   ],
+   "entities": [
+    "japanese",
+    "russia",
+    "hokkaido shimbun"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+     "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east The wife of a Japanese journalist who has been detained in Russia for more than a month on suspicion of spying has issued an emotive appeal for his release. Yuki Imai, a reporter for the Hokkaido Shimbun, was arrested in mid-October as he was preparing to return to Japan from a two-year assignment at the Japanese newspaper’s bureau in the city of Yuzhno-Sakhalinsk, on the island of Sakhalin in Russia’s far east. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+     "source": "Guardian",
+     "published": "2026-11-26T05:16:17.000Z"
+    },
+    {
+     "title": "Wife of Hokkaido Shimbun journalist detained in Russia pleads for his return",
+     "summary": "\"Please return this precious papa to his little daughter,\" Nozomi Imai wrote in letters that were handwritten in Japanese, Russian and English.",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/japan/yuki-imai-wife-letter/",
+     "source": "Japan Times",
+     "published": "2026-11-26T05:04:00.000Z"
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "score": 24.7,
+   "tier": "minor",
+   "sources": [
+    "BBC",
+    "New York Times"
+   ],
+   "countries": [
+    "UK",
+    "US"
+   ],
+   "count": 2,
+   "recent12": 0,
+   "newestHoursAgo": 16.7,
+   "keywords": [
+    "swis",
+    "korea",
+    "north",
+    "diplomat",
+    "sanction",
+    "expel"
+   ],
+   "entities": [
+    "north korea"
+   ],
+   "soft": false,
+   "items": [
+    {
+     "title": "North Korea expels Swiss diplomat in sanctions row",
+     "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+     "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "published": "2026-11-25T21:51:17.000Z"
+    },
+    {
+     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+     "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+     "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+     "source": "New York Times",
+     "published": "2026-11-25T17:00:25.000Z"
     }
    ]
   }
